@@ -25,7 +25,8 @@ React has a terrible reputation for bundling too much stuff in here. I am propos
 <root> (public)
 |--data
    |--[state_abbreviation].json (list of counties)
-      |--[state_abbreviation].[county_name].json (list of polling places in county)
+   |--[state_abbreviation]
+      |--[county_name].json (list of polling places in county)
 ```
 
 We can use `React.lazy` to code-split each page, and depending on the state and county selected, we can have that fetch the data from the S3 bucket.
