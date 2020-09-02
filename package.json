@@ -15,8 +15,19 @@
     "react-scripts": "3.4.3",
     "source-map-explorer": "^2.5.0"
   },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "*.js": [
+      "prettier --write \"src/**/*.js\""
+    ]
+  },
   "scripts": {
     "analyze": "source-map-explorer 'build/static/js/*.js'",
+    "prettier": "prettier --write \"src/**/*.js\"",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -38,6 +49,9 @@
     ]
   },
   "devDependencies": {
-    "node-sass": "^4.14.1"
+    "husky": "^4.2.5",
+    "lint-staged": "^10.2.13",
+    "node-sass": "^4.14.1",
+    "prettier": "^2.1.1"
   }
 }
