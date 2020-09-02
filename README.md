@@ -1,4 +1,26 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Ballot drop of locator
+
+Find a ballot drop box near you in order to make sure your vote gets counted in the 2020 election!
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). The README has been heavily modified to better tailor the documentation for this open source project.
+
+## Required tooling
+
+* [Node.js v10+](https://nodejs.org/en/download/)
+* [Yarn v1.21+.x](https://yarnpkg.com/getting-started/install)
+
+## Installing the project
+
+* Clone this GitHub repo
+* Run `yarn` to install dependencies
+* Run `yarn start` to run a local development server on `http://localhost:3000`
+
+## Tech stack
+
+* React
+* React Router
+* i18next
+* Scss for styling
 
 ## Available Scripts
 
@@ -26,6 +48,12 @@ The build is minified and the filenames include the hashes.<br />
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `yarn analyze`
+
+**NOTE**: Run `yarn build` before running this command.
+
+This analyzes the bundle size.
 
 ### `yarn eject`
 
