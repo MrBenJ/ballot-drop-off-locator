@@ -6,10 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Current Project status
 
-📝 TODO
-🛠️ In progress
-🧪 Testing
-✅ Done
+📝 TODO <br />
+🛠️ In progress <br />
+🧪 Testing <br />
+✅ Done <br />
 
 * 📝 Build out Architecture
   * 🧪 Figure out file structure and how data will be retrived
