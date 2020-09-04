@@ -4,6 +4,27 @@ Find a ballot drop box near you in order to make sure your vote gets counted in 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). The README has been heavily modified to better tailor the documentation for this open source project.
 
+## Current Project status
+
+📝 - TODO
+🛠️ - In progress
+🧪 - Testing
+✅ - Done
+
+* 📝 Build out Architecture
+  * 🧪 Figure out file structure and how data will be retrived
+  * 🛠️ Internationalization
+  * 🛠️ Create component templates
+  * 🛠️ Add routing
+  * 📝 Figure out deployment
+* 📝 Create Pages
+  * 📝 Create States Page
+  * 📝 Create Counties Page
+  * 📝 Create Individual County Page
+  * 📝 Create 404 Page
+  * 📝 Create About Us Page
+  * 📝 Create Contributors Page
+
 ## Required tooling
 
 * [Node.js v10+](https://nodejs.org/en/download/)
