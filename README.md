@@ -14,7 +14,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 * 📝 Build out Architecture
   * 🧪 Figure out file structure and how data will be retrived
   * 🛠️ Internationalization
-  * 🛠️ Create component templates
+  * ✅ Create component templates
   * 🛠️ Add routing
   * 📝 Figure out deployment
 * 📝 Create Pages
