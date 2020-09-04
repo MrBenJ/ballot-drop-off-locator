@@ -1,4 +1,4 @@
-# Ballot drop of locator
+# Ballot drop off locator
 
 Find a ballot drop box near you in order to make sure your vote gets counted in the 2020 election!
 
