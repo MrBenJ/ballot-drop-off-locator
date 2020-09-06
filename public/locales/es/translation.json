@@ -1,0 +1,10 @@
+{
+  "title": "Localizador de Entrega de Boletas",
+  "IndexPage": {
+
+  },
+  "StatePage": {
+    "flavorText": "Ubique las ubicaciones de entrega de su boleta",
+    "selectState": "Primero, seleccione su estado a continuación"
+  }
+}

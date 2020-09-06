@@ -1,0 +1,10 @@
+{
+  "title": "Ballot Drop off Locator",
+  "IndexPage": {
+
+  },
+  "StatePage": {
+    "flavorText": "Locate the drop off locations for your Ballot.",
+    "selectState": "First, select your State below"
+  }
+}

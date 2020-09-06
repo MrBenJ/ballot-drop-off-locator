@@ -1,3 +1,18 @@
+@import "../../style/variables";
+
 .Header {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 $border-padding;
+
+  .title {
+    font-size: 1.5rem;
+    font-weight: 600;
+  }
+}
+
+@media screen and (min-width: 768px) {
 
 }

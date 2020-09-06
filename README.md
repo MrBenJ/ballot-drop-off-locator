@@ -13,17 +13,24 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 * 📝 Build out Architecture
   * 🧪 Figure out file structure and how data will be retrived
-  * 🛠️ Internationalization
+  * ✅ Internationalization
   * ✅ Create component templates
   * 🛠️ Add routing
+  * 🛠️ Shell (header/footer/body/etc)
   * 📝 Figure out deployment
 * 📝 Create Pages
+  * 🛠️ Create Index Page
   * 📝 Create States Page
   * 📝 Create Counties Page
   * 📝 Create Individual County Page
   * 📝 Create 404 Page
   * 📝 Create About Us Page
   * 📝 Create Contributors Page
+* Translations
+  * 🛠️ American English
+  * 📝 Spanish
+  * 📝 French
+  * 📝 German
 
 ## Required tooling
 
