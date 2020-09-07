@@ -10,6 +10,9 @@ const IndexPage = lazy(() => import('./pages/IndexPage/IndexPage'));
 const SelectStatePage = lazy(() =>
   import('./pages/SelectStatePage/SelectStatePage')
 );
+const SelectCountyPage = lazy(() =>
+  import('./pages/SelectCountyPage/SelectCountyPage')
+);
 function App() {
   return (
     <Suspense fallback="Loading...">
@@ -23,6 +26,9 @@ function App() {
               </Route>
               <Route path="/select-state">
                 <SelectStatePage />
+              </Route>
+              <Route path="/state/:state">
+                <SelectCountyPage />
               </Route>
             </Switch>
           </main>
