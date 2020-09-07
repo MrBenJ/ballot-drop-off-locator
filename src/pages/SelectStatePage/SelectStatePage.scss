@@ -1,0 +1,36 @@
+@import "../../style//variables";
+
+.instructions-container, .states-container {
+  padding: 0 $border-padding;
+  background-color: $black;
+}
+
+.instructions-container {
+  padding: 1.5rem $border-padding;
+  border-bottom: .5rem solid $orange;
+  text-align: center;
+
+  .flavor {
+    font-size: .9rem;
+  }
+
+  .instruction {
+    font-size: 1.2rem;
+    font-weight: 600;
+  }
+}
+
+.states-container {
+  display: flex;
+  flex-wrap: wrap;
+  padding-top: 1rem;
+  width: 100%;
+
+  .state {
+    width: 50%;
+    margin: .2rem 0;
+    font-size: 1.2rem;
+  }
+}
+
+

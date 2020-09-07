@@ -1,11 +1,11 @@
 import React from 'react';
-import { useTranslation } from 'react-i18next';
+// import { useTranslation } from 'react-i18next';
 import { Link } from 'react-router-dom';
 
 import Text from '../../components/Text';
 
 const IndexPage = () => {
-  const { t } = useTranslation();
+  // const { t } = useTranslation();
 
   return (
     <div>

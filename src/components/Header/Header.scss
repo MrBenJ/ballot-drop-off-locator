@@ -6,11 +6,13 @@
   align-items: center;
   justify-content: space-between;
   padding: 0 $border-padding;
+  border-bottom: 1.2rem solid rgb(71,71,71);
 
   .title {
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     font-weight: 600;
   }
+
 }
 
 @media screen and (min-width: 768px) {
