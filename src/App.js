@@ -13,6 +13,9 @@ const SelectStatePage = lazy(() =>
 const SelectCountyPage = lazy(() =>
   import('./pages/SelectCountyPage/SelectCountyPage')
 );
+
+const CountyPage = lazy(() => import('./pages/CountyPage/CountyPage'));
+
 function App() {
   return (
     <Suspense fallback="Loading...">
@@ -26,6 +29,9 @@ function App() {
               </Route>
               <Route path="/select-state">
                 <SelectStatePage />
+              </Route>
+              <Route path="/state/:state/:county">
+                <CountyPage />
               </Route>
               <Route path="/state/:state">
                 <SelectCountyPage />

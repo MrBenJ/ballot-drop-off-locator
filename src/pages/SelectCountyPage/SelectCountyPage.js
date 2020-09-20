@@ -79,7 +79,6 @@ const SelectCountyPage = () => {
       </Text>
       {pageState.error && <Text>{pageState.error}</Text>}
       {pageState.data.map(item => {
-        console.log('loop');
         return (
           <Link
             key={item.shortname}
