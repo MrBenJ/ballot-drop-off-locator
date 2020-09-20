@@ -6,5 +6,9 @@
   "StatePage": {
     "flavorText": "Locate the drop off locations for your Ballot.",
     "selectState": "First, select your State below"
+  },
+  "CountyPage": {
+    "selectCounty": "Select county for state: ",
+    "countyErrorGeneric": "There was an issue finding the data for this page"
   }
 }

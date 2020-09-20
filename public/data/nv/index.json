@@ -1,0 +1,70 @@
+[
+  {
+      "adminarea": "Carson City",
+      "shortname": "carson-city"
+  },
+  {
+      "adminarea": "Churchill",
+      "shortname": "churchill"
+  },
+  {
+      "adminarea": "Clark",
+      "shortname": "clark"
+  },
+  {
+      "adminarea": "Douglas",
+      "shortname": "douglas"
+  },
+  {
+      "adminarea": "Elko",
+      "shortname": "elko"
+  },
+  {
+      "adminarea": "Esmeralda",
+      "shortname": "esmeralda"
+  },
+  {
+      "adminarea": "Eureka",
+      "shortname": "eureka"
+  },
+  {
+      "adminarea": "Humboldt",
+      "shortname": "humboldt"
+  },
+  {
+      "adminarea": "Lander",
+      "shortname": "lander"
+  },
+  {
+      "adminarea": "Lincoln",
+      "shortname": "lincoln"
+  },
+  {
+      "adminarea": "Lyon",
+      "shortname": "lyon"
+  },
+  {
+      "adminarea": "Mineral",
+      "shortname": "mineral"
+  },
+  {
+      "adminarea": "Nye",
+      "shortname": "nye"
+  },
+  {
+      "adminarea": "Pershing",
+      "shortname": "pershing"
+  },
+  {
+      "adminarea": "Storey",
+      "shortname": "storey"
+  },
+  {
+      "adminarea": "Washoe",
+      "shortname": "washoe"
+  },
+  {
+      "adminarea": "White Pine",
+      "shortname": "white-pine"
+  }
+]
