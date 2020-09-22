@@ -16,13 +16,13 @@ const SelectStatePage = () => {
         <Text className="flavor">{t('StatePage.flavorText')}</Text>
         <Text className="instruction">{t('StatePage.selectState')}</Text>
       </div>
-      <div className="states-container">
+      <div className="item-container">
         {Object.entries(STATES_MAP).map(([abbrev, state]) => {
           return (
             <Link
               key={abbrev}
               to={`/state/${abbrev}`}
-              className="state state-link">
+              className="link state-link">
               {state}
             </Link>
           );

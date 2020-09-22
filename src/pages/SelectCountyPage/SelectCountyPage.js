@@ -4,6 +4,7 @@ import { useParams, useHistory, Link } from 'react-router-dom';
 
 import Text from '../../components/Text';
 import { STATES_MAP } from '../../constants';
+import '../SelectStatePage/SelectStatePage.scss';
 
 const Reducer = (state, action) => {
   switch (action.type) {
@@ -74,20 +75,25 @@ const SelectCountyPage = () => {
 
   return (
     <div className="SelectCountyPage">
-      <Text>
-        {t('CountyPage.selectCounty')} {fullStateName}
-      </Text>
+      <div className="instructions-container">
+        <Text className="flavor">{fullStateName}</Text>
+        <Text className="instruction">
+          {t('CountyPage.selectCounty')} {fullStateName}
+        </Text>
+      </div>
       {pageState.error && <Text>{pageState.error}</Text>}
-      {pageState.data.map(item => {
-        return (
-          <Link
-            key={item.shortname}
-            to={`/state/${state.toUpperCase()}/${item.shortname}`}
-            className="state state-link">
-            {item.adminarea}
-          </Link>
-        );
-      })}
+      <div className="item-container">
+        {pageState.data.map(item => {
+          return (
+            <Link
+              key={item.shortname}
+              to={`/state/${state.toUpperCase()}/${item.shortname}`}
+              className="link state-link">
+              {item.adminarea}
+            </Link>
+          );
+        })}
+      </div>
     </div>
   );
 };

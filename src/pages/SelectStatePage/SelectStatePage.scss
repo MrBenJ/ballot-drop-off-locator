@@ -1,6 +1,6 @@
 @import "../../style//variables";
 
-.instructions-container, .states-container {
+.instructions-container, .item-container {
   padding: 0 $border-padding;
   background-color: $black;
 }
@@ -20,13 +20,13 @@
   }
 }
 
-.states-container {
+.item-container {
   display: flex;
   flex-wrap: wrap;
   padding-top: 1rem;
   width: 100%;
 
-  .state {
+  .link {
     width: 50%;
     margin: .2rem 0;
     font-size: 1.2rem;
