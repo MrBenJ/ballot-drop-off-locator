@@ -40,7 +40,9 @@ const CountyPage = () => {
   useEffect(() => {
     const fetchCountyDropboxes = async () => {
       try {
-        const resp = await fetch(`/data/${state}/${county}.json`);
+        const resp = await fetch(
+          `${process.env.PUBLIC_URL}/data/${state.toLowerCase()}/${county}.json`
+        );
         const json = await resp.json();
 
         dispatch({ type: 'RENDER_DATA', data: json });

@@ -46,7 +46,9 @@ const SelectCountyPage = () => {
   useEffect(() => {
     const fetchCountyInfo = async () => {
       try {
-        const resp = await fetch(`/data/${state}/index.json`);
+        const resp = await fetch(
+          `${process.env.PUBLIC_URL}/data/${state.toLowerCase()}/index.json`
+        );
         const json = await resp.json();
 
         dispatch({ type: 'RENDER_DATA', data: json });
