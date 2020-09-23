@@ -1,0 +1,8 @@
+{
+  "state": "NY",
+  "adminarea": "Putnam",
+  "urlvbmdropboxes": "https://vic2.ntsdata.net/putnamboe/pollingplacelookup.aspx",
+  "urlearlyvoting": "https://putnamboe.com/early-voting/",
+  "flagboxes": 0,
+  "shortname": "putnam"
+}

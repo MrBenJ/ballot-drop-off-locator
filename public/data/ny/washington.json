@@ -1,0 +1,9 @@
+{
+  "state": "NY",
+  "adminarea": "Washington",
+  "urlvbmdropboxes": "https://voterlookup.elections.ny.gov/",
+  "urlearlyvoting": "https://washingtoncountyny.gov/DocumentCenter/View/15328/Early-Voting-Hours-for-GE20-PDF",
+  "flagboxes": 0,
+  "flagattn": 1,
+  "shortname": "washington"
+}

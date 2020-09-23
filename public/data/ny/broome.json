@@ -1,0 +1,8 @@
+{
+  "state": "NY",
+  "adminarea": "Broome",
+  "urlvbmdropboxes": "https://www.broomevotes.com/pollingplacelookup",
+  "urlearlyvoting": "https://www.broomevotes.com/earlyvoting",
+  "flagboxes": 0,
+  "shortname": "broome"
+}

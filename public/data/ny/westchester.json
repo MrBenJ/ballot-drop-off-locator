@@ -1,0 +1,9 @@
+{
+  "state": "NY",
+  "adminarea": "Westchester",
+  "urlvbmdropboxes": "https://citizenparticipation.westchestergov.com/find-polling-place",
+  "urlearlyvoting": "https://citizenparticipation.westchestergov.com/images/stories/pdfs/earlyvotinghrs.pdf",
+  "flagboxes": 0,
+  "flagattn": 1,
+  "shortname": "westchester"
+}

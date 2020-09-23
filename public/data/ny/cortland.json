@@ -1,0 +1,8 @@
+{
+  "state": "NY",
+  "adminarea": "Cortland",
+  "urlvbmdropboxes": "http://www.ntsdata.net/cortlandboe/pollingplacelookup.aspx",
+  "urlearlyvoting": "http://www.cortland-co.org/DocumentCenter/View/6439/Early-Voting-Information",
+  "flagboxes": 0,
+  "shortname": "cortland"
+}

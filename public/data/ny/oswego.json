@@ -1,0 +1,8 @@
+{
+  "state": "NY",
+  "adminarea": "Oswego",
+  "urlvbmdropboxes": "https://www.oswegocounty.com/government/board_of_elections/poll_site_locations.php",
+  "urlearlyvoting": "https://www.oswegocounty.com/government/board_of_elections/early_voting.php",
+  "flagboxes": 0,
+  "shortname": "oswego"
+}

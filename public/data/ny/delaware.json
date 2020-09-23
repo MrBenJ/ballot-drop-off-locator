@@ -1,0 +1,9 @@
+{
+  "state": "NY",
+  "adminarea": "Delaware",
+  "urlvbmdropboxes": "http://www.co.delaware.ny.us/departments/elec/polling_places.htm",
+  "urlearlyvoting": "http://www.co.delaware.ny.us/departments/elec/early_voting.htm",
+  "flagboxes": 0,
+  "flagattn": 1,
+  "shortname": "delaware"
+}

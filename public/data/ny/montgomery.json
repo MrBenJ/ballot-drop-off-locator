@@ -1,0 +1,8 @@
+{
+  "state": "NY",
+  "adminarea": "Montgomery",
+  "urlvbmdropboxes": "https://www.co.montgomery.ny.us/web/sites/departments/boe/pollingplaces.asp",
+  "urlearlyvoting": "https://www.co.montgomery.ny.us/web/sites/departments/boe/earlyvoting.asp",
+  "flagboxes": 0,
+  "shortname": "montgomery"
+}

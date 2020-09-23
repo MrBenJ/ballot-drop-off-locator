@@ -1,0 +1,8 @@
+{
+  "state": "NY",
+  "adminarea": "Ulster",
+  "urlvbmdropboxes": "https://vic2.ntsdata.net/ulsterboe/pollingplacelookup.aspx",
+  "urlearlyvoting": "https://elections.ulstercountyny.gov/early-voting/",
+  "flagboxes": 0,
+  "shortname": "ulster"
+}

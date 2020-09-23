@@ -1,0 +1,8 @@
+{
+  "state": "NY",
+  "adminarea": "Queens",
+  "urlvbmdropboxes": "https://voterlookup.elections.ny.gov/",
+  "urlearlyvoting": "https://www.vote.nyc/page/early-voting-information",
+  "flagboxes": 0,
+  "shortname": "queens"
+}

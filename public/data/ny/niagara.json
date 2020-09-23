@@ -1,0 +1,8 @@
+{
+  "state": "NY",
+  "adminarea": "Niagara",
+  "urlvbmdropboxes": "https://vic2.ntsdata.net/niagaraboe/pollingplacelookup.aspx",
+  "urlearlyvoting": "https://elections.niagara.ny.us/app/uploads/2020/08/Early-voting-hours-GE-20-Nov-3-2020.pdf",
+  "flagboxes": 0,
+  "shortname": "niagara"
+}

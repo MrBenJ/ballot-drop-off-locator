@@ -1,0 +1,9 @@
+{
+  "state": "NY",
+  "adminarea": "Chemung",
+  "urlvbmdropboxes": "http://vic.ntsdata.com/chemungboe/pollingplacelookup.aspx",
+  "urlearlyvoting": "https://www.chemungcountyny.gov/departments/a_-_f_departments/board_of_elections/click_here.php",
+  "flagboxes": 0,
+  "flagattn": 1,
+  "shortname": "chemung"
+}

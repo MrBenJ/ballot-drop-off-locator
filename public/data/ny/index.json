@@ -1,0 +1,250 @@
+[
+  {
+    "adminarea": "Albany",
+    "shortname": "albany"
+  },
+  {
+    "adminarea": "Allegany",
+    "shortname": "allegany"
+  },
+  {
+    "adminarea": "Bronx",
+    "shortname": "bronx"
+  },
+  {
+    "adminarea": "Broome",
+    "shortname": "broome"
+  },
+  {
+    "adminarea": "Cattaraugus",
+    "shortname": "cattaraugus"
+  },
+  {
+    "adminarea": "Cayuga",
+    "shortname": "cayuga"
+  },
+  {
+    "adminarea": "Chautauqua",
+    "shortname": "chautauqua"
+  },
+  {
+    "adminarea": "Chemung",
+    "shortname": "chemung"
+  },
+  {
+    "adminarea": "Chenango",
+    "shortname": "chenango"
+  },
+  {
+    "adminarea": "Clinton",
+    "shortname": "clinton"
+  },
+  {
+    "adminarea": "Columbia",
+    "shortname": "columbia"
+  },
+  {
+    "adminarea": "Cortland",
+    "shortname": "cortland"
+  },
+  {
+    "adminarea": "Delaware",
+    "shortname": "delaware"
+  },
+  {
+    "adminarea": "Dutchess",
+    "shortname": "dutchess"
+  },
+  {
+    "adminarea": "Erie",
+    "shortname": "erie"
+  },
+  {
+    "adminarea": "Essex",
+    "shortname": "essex"
+  },
+  {
+    "adminarea": "Franklin",
+    "shortname": "franklin"
+  },
+  {
+    "adminarea": "Fulton",
+    "shortname": "fulton"
+  },
+  {
+    "adminarea": "Genesee",
+    "shortname": "genesee"
+  },
+  {
+    "adminarea": "Greene",
+    "shortname": "greene"
+  },
+  {
+    "adminarea": "Hamilton",
+    "shortname": "hamilton"
+  },
+  {
+    "adminarea": "Herkimer",
+    "shortname": "herkimer"
+  },
+  {
+    "adminarea": "Jefferson",
+    "shortname": "jefferson"
+  },
+  {
+    "adminarea": "Kings",
+    "shortname": "kings"
+  },
+  {
+    "adminarea": "Lewis",
+    "shortname": "lewis"
+  },
+  {
+    "adminarea": "Livingston",
+    "shortname": "livingston"
+  },
+  {
+    "adminarea": "Madison",
+    "shortname": "madison"
+  },
+  {
+    "adminarea": "Monroe",
+    "shortname": "monroe"
+  },
+  {
+    "adminarea": "Montgomery",
+    "shortname": "montgomery"
+  },
+  {
+    "adminarea": "Nassau",
+    "shortname": "nassau"
+  },
+  {
+    "adminarea": "New York",
+    "shortname": "new-york"
+  },
+  {
+    "adminarea": "Niagara",
+    "shortname": "niagara"
+  },
+  {
+    "adminarea": "Oneida",
+    "shortname": "oneida"
+  },
+  {
+    "adminarea": "Onondaga",
+    "shortname": "onondaga"
+  },
+  {
+    "adminarea": "Ontario",
+    "shortname": "ontario"
+  },
+  {
+    "adminarea": "Orange",
+    "shortname": "orange"
+  },
+  {
+    "adminarea": "Orleans",
+    "shortname": "orleans"
+  },
+  {
+    "adminarea": "Oswego",
+    "shortname": "oswego"
+  },
+  {
+    "adminarea": "Otsego",
+    "shortname": "otsego"
+  },
+  {
+    "adminarea": "Putnam",
+    "shortname": "putnam"
+  },
+  {
+    "adminarea": "Queens",
+    "shortname": "queens"
+  },
+  {
+    "adminarea": "Rensselaer",
+    "shortname": "rensselaer"
+  },
+  {
+    "adminarea": "Richmond",
+    "shortname": "richmond"
+  },
+  {
+    "adminarea": "Rockland",
+    "shortname": "rockland"
+  },
+  {
+    "adminarea": "St. Lawrence",
+    "shortname": "st.-lawrence"
+  },
+  {
+    "adminarea": "Saratoga",
+    "shortname": "saratoga"
+  },
+  {
+    "adminarea": "Schenectady",
+    "shortname": "schenectady"
+  },
+  {
+    "adminarea": "Schoharie",
+    "shortname": "schoharie"
+  },
+  {
+    "adminarea": "Schuyler",
+    "shortname": "schuyler"
+  },
+  {
+    "adminarea": "Seneca",
+    "shortname": "seneca"
+  },
+  {
+    "adminarea": "Steuben",
+    "shortname": "steuben"
+  },
+  {
+    "adminarea": "Suffolk",
+    "shortname": "suffolk"
+  },
+  {
+    "adminarea": "Sullivan",
+    "shortname": "sullivan"
+  },
+  {
+    "adminarea": "Tioga",
+    "shortname": "tioga"
+  },
+  {
+    "adminarea": "Tompkins",
+    "shortname": "tompkins"
+  },
+  {
+    "adminarea": "Ulster",
+    "shortname": "ulster"
+  },
+  {
+    "adminarea": "Warren",
+    "shortname": "warren"
+  },
+  {
+    "adminarea": "Washington",
+    "shortname": "washington"
+  },
+  {
+    "adminarea": "Wayne",
+    "shortname": "wayne"
+  },
+  {
+    "adminarea": "Westchester",
+    "shortname": "westchester"
+  },
+  {
+    "adminarea": "Wyoming",
+    "shortname": "wyoming"
+  },
+  {
+    "adminarea": "Yates",
+    "shortname": "yates"
+  }
+]

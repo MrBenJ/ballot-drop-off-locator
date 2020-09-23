@@ -1,0 +1,8 @@
+{
+  "state": "NY",
+  "adminarea": "Albany",
+  "urlvbmdropboxes": "http://app.albanycounty.com/boe/voterinfo/",
+  "urlearlyvoting": "http://app.albanycounty.com/boe/voterinfo/",
+  "flagboxes": 0,
+  "shortname": "albany"
+}

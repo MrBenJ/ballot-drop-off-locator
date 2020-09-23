@@ -1,0 +1,8 @@
+{
+  "state": "NY",
+  "adminarea": "Ontario",
+  "urlvbmdropboxes": "https://vic2.ntsdata.net/ontarioboe/pollingplacelookup.aspx",
+  "urlearlyvoting": "https://www.co.ontario.ny.us/DocumentCenter/View/24754/Early-Voting-FAQ-and-Communication-Plan-712020",
+  "flagboxes": 0,
+  "shortname": "ontario"
+}
