@@ -1,0 +1,10 @@
+{
+  "state": "FL",
+  "fips5": "12055",
+  "adminarea": "Hillsborough",
+  "urlvbmdropboxes": "https://www.votehillsborough.org/VOTERS/Vote-By-Mail",
+  "urlearlyvoting": "https://www.votehillsborough.org/VOTERS/Early-Voting",
+  "flagboxes": 1,
+  "areadatacode": 1,
+  "shortname": "hillsborough"
+}

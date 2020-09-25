@@ -1,0 +1,10 @@
+{
+  "state": "FL",
+  "fips5": "12041",
+  "adminarea": "Glades",
+  "urlvbmdropboxes": "https://www.voteglades.com/Voting-Info/Vote-By-Mail",
+  "urlearlyvoting": "https://www.voteglades.com/Voting-Info/Early-Voting",
+  "flagboxes": 1,
+  "areadatacode": 1,
+  "shortname": "glades"
+}

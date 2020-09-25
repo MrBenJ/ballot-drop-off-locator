@@ -1,0 +1,10 @@
+{
+  "state": "AR",
+  "fips5": "05115",
+  "adminarea": "Pope",
+  "urlvbmdropboxes": "https://www.popecountyar.gov/election-information",
+  "urlearlyvoting": "https://www.popecountyar.gov/polling-locations",
+  "urlstatelevelvbm": "https://www.sos.arkansas.gov/elections/voter-information/absentee-voting",
+  "flagboxes": 0,
+  "shortname": "pope"
+}

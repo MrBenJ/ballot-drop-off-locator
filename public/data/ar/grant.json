@@ -1,0 +1,10 @@
+{
+  "state": "AR",
+  "fips5": "05053",
+  "adminarea": "Grant",
+  "urlvbmdropboxes": "http://www.grantcountyar.com/clerk/vote_centers",
+  "urlearlyvoting": "https://www.sos.arkansas.gov/elections",
+  "urlstatelevelvbm": "https://www.sos.arkansas.gov/elections/voter-information/absentee-voting",
+  "flagboxes": 0,
+  "shortname": "grant"
+}

@@ -1,0 +1,10 @@
+{
+  "state": "AR",
+  "fips5": "05019",
+  "adminarea": "Clark",
+  "urlvbmdropboxes": "https://www.sos.arkansas.gov/elections",
+  "urlearlyvoting": "http://www.clarkcountyarkansas.com/dept/coclerk/voter/index.html",
+  "urlstatelevelvbm": "https://www.sos.arkansas.gov/elections/voter-information/absentee-voting",
+  "flagboxes": 0,
+  "shortname": "clark"
+}

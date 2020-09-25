@@ -1,0 +1,10 @@
+{
+  "state": "FL",
+  "fips5": "12001",
+  "adminarea": "Alachua",
+  "urlvbmdropboxes": "https://www.votealachua.com/Voters/Vote-by-Mail/Vote-by-Mail-Ballot-Drop-Boxes",
+  "urlearlyvoting": "https://www.votealachua.com/Voters/Early-Voting",
+  "flagboxes": 1,
+  "areadatacode": 1,
+  "shortname": "alachua"
+}

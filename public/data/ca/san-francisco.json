@@ -1,0 +1,9 @@
+{
+  "state": "CA",
+  "fips5": "06075",
+  "adminarea": "San Francisco",
+  "urlvbmdropboxes": "https://sfelections.sfgov.org/vote-mail",
+  "flagboxes": 0,
+  "flagattn": 1,
+  "shortname": "san-francisco"
+}

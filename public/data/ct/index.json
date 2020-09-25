@@ -1,0 +1,34 @@
+[
+  {
+    "adminarea": "Fairfield",
+    "shortname": "fairfield"
+  },
+  {
+    "adminarea": "Hartford",
+    "shortname": "hartford"
+  },
+  {
+    "adminarea": "Litchfield",
+    "shortname": "litchfield"
+  },
+  {
+    "adminarea": "Middlesex",
+    "shortname": "middlesex"
+  },
+  {
+    "adminarea": "New Haven",
+    "shortname": "new-haven"
+  },
+  {
+    "adminarea": "New London",
+    "shortname": "new-london"
+  },
+  {
+    "adminarea": "Tolland",
+    "shortname": "tolland"
+  },
+  {
+    "adminarea": "Windham",
+    "shortname": "windham"
+  }
+]

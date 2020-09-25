@@ -1,0 +1,62 @@
+[
+  {
+    "adminarea": "Apache",
+    "shortname": "apache"
+  },
+  {
+    "adminarea": "Cochise",
+    "shortname": "cochise"
+  },
+  {
+    "adminarea": "Coconino",
+    "shortname": "coconino"
+  },
+  {
+    "adminarea": "Gila",
+    "shortname": "gila"
+  },
+  {
+    "adminarea": "Graham",
+    "shortname": "graham"
+  },
+  {
+    "adminarea": "Greenlee",
+    "shortname": "greenlee"
+  },
+  {
+    "adminarea": "La Paz",
+    "shortname": "la-paz"
+  },
+  {
+    "adminarea": "Maricopa",
+    "shortname": "maricopa"
+  },
+  {
+    "adminarea": "Mohave",
+    "shortname": "mohave"
+  },
+  {
+    "adminarea": "Navajo",
+    "shortname": "navajo"
+  },
+  {
+    "adminarea": "Pima",
+    "shortname": "pima"
+  },
+  {
+    "adminarea": "Pinal",
+    "shortname": "pinal"
+  },
+  {
+    "adminarea": "Santa Cruz",
+    "shortname": "santa-cruz"
+  },
+  {
+    "adminarea": "Yavapai",
+    "shortname": "yavapai"
+  },
+  {
+    "adminarea": "Yuma",
+    "shortname": "yuma"
+  }
+]

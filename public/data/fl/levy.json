@@ -1,0 +1,10 @@
+{
+  "state": "FL",
+  "fips5": "12073",
+  "adminarea": "Levy",
+  "urlvbmdropboxes": "https://www.votelevy.com/Voters/Methods-of-Voting/Vote-By-Mail",
+  "urlearlyvoting": "https://www.votelevy.com/Voters/Methods-of-Voting/Early-Voting",
+  "flagboxes": 1,
+  "flagattn": 1,
+  "shortname": "levy"
+}

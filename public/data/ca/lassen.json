@@ -1,0 +1,10 @@
+{
+  "state": "CA",
+  "fips5": "06035",
+  "adminarea": "Lassen",
+  "urlvbmdropboxes": "http://www.lassencounty.org/sites/all/modules/pubdlcnt/pubdlcnt.php?fid=462",
+  "flagboxes": 1,
+  "flagattn": 1,
+  "undefined": "is this current? are there more/new boxes?",
+  "shortname": "lassen"
+}

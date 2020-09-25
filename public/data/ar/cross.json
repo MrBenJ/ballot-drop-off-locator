@@ -1,0 +1,10 @@
+{
+  "state": "AR",
+  "fips5": "05037",
+  "adminarea": "Cross",
+  "urlvbmdropboxes": "https://www.crosscountyar.org/upages.php?id=59",
+  "urlearlyvoting": "https://www.sos.arkansas.gov/elections",
+  "urlstatelevelvbm": "https://www.sos.arkansas.gov/elections/voter-information/absentee-voting",
+  "flagboxes": 0,
+  "shortname": "cross"
+}

@@ -1,0 +1,9 @@
+{
+  "state": "FL",
+  "fips5": "12103",
+  "adminarea": "Pinellas",
+  "urlvbmdropboxes": "https://www.votepinellas.com/Election-Information/Ballot-Drop-off-Locations",
+  "urlearlyvoting": "https://www.votepinellas.com/Election-Information/Early-Voting",
+  "flagboxes": 1,
+  "shortname": "pinellas"
+}

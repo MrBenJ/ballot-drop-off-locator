@@ -1,0 +1,10 @@
+{
+  "state": "AR",
+  "fips5": "05139",
+  "adminarea": "Union",
+  "urlvbmdropboxes": "http://www.unioncountyar.com/county-clerk.html",
+  "urlearlyvoting": "https://www.sos.arkansas.gov/elections",
+  "urlstatelevelvbm": "https://www.sos.arkansas.gov/elections/voter-information/absentee-voting",
+  "flagboxes": 0,
+  "shortname": "union"
+}

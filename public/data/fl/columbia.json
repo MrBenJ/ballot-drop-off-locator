@@ -1,0 +1,10 @@
+{
+  "state": "FL",
+  "fips5": "12023",
+  "adminarea": "Columbia",
+  "urlvbmdropboxes": "https://www.co.columbia.or.us/files/elections/Dropsites-countywide_generic.pdf",
+  "urlearlyvoting": "https://www.votecolumbia.com/Voter-Info/Early-Voting",
+  "flagboxes": 1,
+  "areadatacode": 1,
+  "shortname": "columbia"
+}

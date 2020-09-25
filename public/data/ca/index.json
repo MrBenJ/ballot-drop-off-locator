@@ -1,0 +1,234 @@
+[
+  {
+    "adminarea": "Alameda",
+    "shortname": "alameda"
+  },
+  {
+    "adminarea": "Alpine",
+    "shortname": "alpine"
+  },
+  {
+    "adminarea": "Amador",
+    "shortname": "amador"
+  },
+  {
+    "adminarea": "Butte",
+    "shortname": "butte"
+  },
+  {
+    "adminarea": "Calaveras",
+    "shortname": "calaveras"
+  },
+  {
+    "adminarea": "Colusa",
+    "shortname": "colusa"
+  },
+  {
+    "adminarea": "Contra Costa",
+    "shortname": "contra-costa"
+  },
+  {
+    "adminarea": "Del Norte",
+    "shortname": "del-norte"
+  },
+  {
+    "adminarea": "El Dorado",
+    "shortname": "el-dorado"
+  },
+  {
+    "adminarea": "Fresno",
+    "shortname": "fresno"
+  },
+  {
+    "adminarea": "Glenn",
+    "shortname": "glenn"
+  },
+  {
+    "adminarea": "Humboldt",
+    "shortname": "humboldt"
+  },
+  {
+    "adminarea": "Imperial",
+    "shortname": "imperial"
+  },
+  {
+    "adminarea": "Inyo",
+    "shortname": "inyo"
+  },
+  {
+    "adminarea": "Kern",
+    "shortname": "kern"
+  },
+  {
+    "adminarea": "Kings",
+    "shortname": "kings"
+  },
+  {
+    "adminarea": "Lake",
+    "shortname": "lake"
+  },
+  {
+    "adminarea": "Lassen",
+    "shortname": "lassen"
+  },
+  {
+    "adminarea": "Los Angeles",
+    "shortname": "los-angeles"
+  },
+  {
+    "adminarea": "Madera",
+    "shortname": "madera"
+  },
+  {
+    "adminarea": "Marin",
+    "shortname": "marin"
+  },
+  {
+    "adminarea": "Mariposa",
+    "shortname": "mariposa"
+  },
+  {
+    "adminarea": "Mendocino",
+    "shortname": "mendocino"
+  },
+  {
+    "adminarea": "Merced",
+    "shortname": "merced"
+  },
+  {
+    "adminarea": "Modoc",
+    "shortname": "modoc"
+  },
+  {
+    "adminarea": "Mono",
+    "shortname": "mono"
+  },
+  {
+    "adminarea": "Monterey",
+    "shortname": "monterey"
+  },
+  {
+    "adminarea": "Napa",
+    "shortname": "napa"
+  },
+  {
+    "adminarea": "Nevada",
+    "shortname": "nevada"
+  },
+  {
+    "adminarea": "Orange",
+    "shortname": "orange"
+  },
+  {
+    "adminarea": "Placer",
+    "shortname": "placer"
+  },
+  {
+    "adminarea": "Plumas",
+    "shortname": "plumas"
+  },
+  {
+    "adminarea": "Riverside",
+    "shortname": "riverside"
+  },
+  {
+    "adminarea": "Sacramento",
+    "shortname": "sacramento"
+  },
+  {
+    "adminarea": "San Benito",
+    "shortname": "san-benito"
+  },
+  {
+    "adminarea": "San Bernardino",
+    "shortname": "san-bernardino"
+  },
+  {
+    "adminarea": "San Diego",
+    "shortname": "san-diego"
+  },
+  {
+    "adminarea": "San Francisco",
+    "shortname": "san-francisco"
+  },
+  {
+    "adminarea": "San Joaquin",
+    "shortname": "san-joaquin"
+  },
+  {
+    "adminarea": "San Luis Obispo",
+    "shortname": "san-luis obispo"
+  },
+  {
+    "adminarea": "San Mateo",
+    "shortname": "san-mateo"
+  },
+  {
+    "adminarea": "Santa Barbara",
+    "shortname": "santa-barbara"
+  },
+  {
+    "adminarea": "Santa Clara",
+    "shortname": "santa-clara"
+  },
+  {
+    "adminarea": "Santa Cruz",
+    "shortname": "santa-cruz"
+  },
+  {
+    "adminarea": "Shasta",
+    "shortname": "shasta"
+  },
+  {
+    "adminarea": "Sierra",
+    "shortname": "sierra"
+  },
+  {
+    "adminarea": "Siskiyou",
+    "shortname": "siskiyou"
+  },
+  {
+    "adminarea": "Solano",
+    "shortname": "solano"
+  },
+  {
+    "adminarea": "Sonoma",
+    "shortname": "sonoma"
+  },
+  {
+    "adminarea": "Stanislaus",
+    "shortname": "stanislaus"
+  },
+  {
+    "adminarea": "Sutter",
+    "shortname": "sutter"
+  },
+  {
+    "adminarea": "Tehama",
+    "shortname": "tehama"
+  },
+  {
+    "adminarea": "Trinity",
+    "shortname": "trinity"
+  },
+  {
+    "adminarea": "Tulare",
+    "shortname": "tulare"
+  },
+  {
+    "adminarea": "Tuolumne",
+    "shortname": "tuolumne"
+  },
+  {
+    "adminarea": "Ventura",
+    "shortname": "ventura"
+  },
+  {
+    "adminarea": "Yolo",
+    "shortname": "yolo"
+  },
+  {
+    "adminarea": "Yuba",
+    "shortname": "yuba"
+  }
+]

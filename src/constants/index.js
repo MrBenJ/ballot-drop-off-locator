@@ -46,6 +46,7 @@ export const STATES_MAP = {
   VT: 'Vermont',
   VA: 'Virginia',
   WA: 'Washington',
+  DC: 'Washington D.C.',
   WV: 'West Virginia',
   WI: 'Wisconsin',
   WY: 'Wyoming'

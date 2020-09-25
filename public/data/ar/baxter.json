@@ -1,0 +1,10 @@
+{
+  "state": "AR",
+  "fips5": "05005",
+  "adminarea": "Baxter",
+  "urlvbmdropboxes": "http://www.baxtercounty.org/election.php",
+  "urlearlyvoting": "https://www.sos.arkansas.gov/elections",
+  "urlstatelevelvbm": "https://www.sos.arkansas.gov/elections/voter-information/absentee-voting",
+  "flagboxes": 0,
+  "shortname": "baxter"
+}

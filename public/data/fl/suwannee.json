@@ -1,0 +1,9 @@
+{
+  "state": "FL",
+  "fips5": "12121",
+  "adminarea": "Suwannee",
+  "urlvbmdropboxes": "https://www.suwanneevotes.com/Voting-Methods/Vote-by-Mail",
+  "urlearlyvoting": "https://www.suwanneevotes.com/Voting-Methods/Early-Voting",
+  "flagboxes": 0,
+  "shortname": "suwannee"
+}

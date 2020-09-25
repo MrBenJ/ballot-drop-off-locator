@@ -1,0 +1,10 @@
+{
+  "state": "FL",
+  "fips5": "12025",
+  "adminarea": "DeSoto",
+  "urlvbmdropboxes": "https://www.votedesoto.com/",
+  "urlearlyvoting": "https://www.votedesoto.com/Election-Info/Early-Voting",
+  "flagboxes": 1,
+  "areadatacode": 1,
+  "shortname": "desoto"
+}

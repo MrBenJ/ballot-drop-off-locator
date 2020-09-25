@@ -1,0 +1,10 @@
+{
+  "state": "AR",
+  "fips5": "05009",
+  "adminarea": "Boone",
+  "urlvbmdropboxes": "https://www.boonecountyar.com/voter-information",
+  "urlearlyvoting": "https://www.sos.arkansas.gov/elections",
+  "urlstatelevelvbm": "https://www.sos.arkansas.gov/elections/voter-information/absentee-voting",
+  "flagboxes": 0,
+  "shortname": "boone"
+}

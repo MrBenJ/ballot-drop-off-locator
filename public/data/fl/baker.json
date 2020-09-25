@@ -1,0 +1,10 @@
+{
+  "state": "FL",
+  "fips5": "12003",
+  "adminarea": "Baker",
+  "urlvbmdropboxes": "https://www.bakerelections.com/m/Election-News",
+  "urlearlyvoting": "https://www.bakerelections.com/m/Voter-Information/Early-Voting",
+  "flagboxes": 1,
+  "areadatacode": 1,
+  "shortname": "baker"
+}

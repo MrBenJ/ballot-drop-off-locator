@@ -1,0 +1,9 @@
+{
+  "state": "CA",
+  "fips5": "06115",
+  "adminarea": "Yuba",
+  "urlvbmdropboxes": "https://www.yuba.org/departments/elections/vote_by_mail_information.php",
+  "flagboxes": 1,
+  "flagattn": 1,
+  "shortname": "yuba"
+}

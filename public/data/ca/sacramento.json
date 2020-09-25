@@ -1,0 +1,8 @@
+{
+  "state": "CA",
+  "fips5": "06067",
+  "adminarea": "Sacramento",
+  "urlvbmdropboxes": "https://elections.saccounty.net/votecenters/pages/locations.aspx",
+  "flagboxes": 1,
+  "shortname": "sacramento"
+}

@@ -1,0 +1,258 @@
+[
+  {
+    "adminarea": "Adams",
+    "shortname": "adams"
+  },
+  {
+    "adminarea": "Alamosa",
+    "shortname": "alamosa"
+  },
+  {
+    "adminarea": "Arapahoe",
+    "shortname": "arapahoe"
+  },
+  {
+    "adminarea": "Archuleta",
+    "shortname": "archuleta"
+  },
+  {
+    "adminarea": "Baca",
+    "shortname": "baca"
+  },
+  {
+    "adminarea": "Bent",
+    "shortname": "bent"
+  },
+  {
+    "adminarea": "Boulder",
+    "shortname": "boulder"
+  },
+  {
+    "adminarea": "Broomfield",
+    "shortname": "broomfield"
+  },
+  {
+    "adminarea": "Chaffee",
+    "shortname": "chaffee"
+  },
+  {
+    "adminarea": "Cheyenne",
+    "shortname": "cheyenne"
+  },
+  {
+    "adminarea": "Clear Creek",
+    "shortname": "clear-creek"
+  },
+  {
+    "adminarea": "Conejos",
+    "shortname": "conejos"
+  },
+  {
+    "adminarea": "Costilla",
+    "shortname": "costilla"
+  },
+  {
+    "adminarea": "Crowley",
+    "shortname": "crowley"
+  },
+  {
+    "adminarea": "Custer",
+    "shortname": "custer"
+  },
+  {
+    "adminarea": "Delta",
+    "shortname": "delta"
+  },
+  {
+    "adminarea": "Denver",
+    "shortname": "denver"
+  },
+  {
+    "adminarea": "Dolores",
+    "shortname": "dolores"
+  },
+  {
+    "adminarea": "Douglas",
+    "shortname": "douglas"
+  },
+  {
+    "adminarea": "Eagle",
+    "shortname": "eagle"
+  },
+  {
+    "adminarea": "Elbert",
+    "shortname": "elbert"
+  },
+  {
+    "adminarea": "El Paso",
+    "shortname": "el-paso"
+  },
+  {
+    "adminarea": "Fremont",
+    "shortname": "fremont"
+  },
+  {
+    "adminarea": "Garfield",
+    "shortname": "garfield"
+  },
+  {
+    "adminarea": "Gilpin",
+    "shortname": "gilpin"
+  },
+  {
+    "adminarea": "Grand",
+    "shortname": "grand"
+  },
+  {
+    "adminarea": "Gunnison",
+    "shortname": "gunnison"
+  },
+  {
+    "adminarea": "Hinsdale",
+    "shortname": "hinsdale"
+  },
+  {
+    "adminarea": "Huerfano",
+    "shortname": "huerfano"
+  },
+  {
+    "adminarea": "Jackson",
+    "shortname": "jackson"
+  },
+  {
+    "adminarea": "Jefferson",
+    "shortname": "jefferson"
+  },
+  {
+    "adminarea": "Kiowa",
+    "shortname": "kiowa"
+  },
+  {
+    "adminarea": "Kit Carson",
+    "shortname": "kit-carson"
+  },
+  {
+    "adminarea": "Lake",
+    "shortname": "lake"
+  },
+  {
+    "adminarea": "La Plata",
+    "shortname": "la-plata"
+  },
+  {
+    "adminarea": "Larimer",
+    "shortname": "larimer"
+  },
+  {
+    "adminarea": "Las Animas",
+    "shortname": "las-animas"
+  },
+  {
+    "adminarea": "Lincoln",
+    "shortname": "lincoln"
+  },
+  {
+    "adminarea": "Logan",
+    "shortname": "logan"
+  },
+  {
+    "adminarea": "Mesa",
+    "shortname": "mesa"
+  },
+  {
+    "adminarea": "Mineral",
+    "shortname": "mineral"
+  },
+  {
+    "adminarea": "Moffat",
+    "shortname": "moffat"
+  },
+  {
+    "adminarea": "Montezuma",
+    "shortname": "montezuma"
+  },
+  {
+    "adminarea": "Montrose",
+    "shortname": "montrose"
+  },
+  {
+    "adminarea": "Morgan",
+    "shortname": "morgan"
+  },
+  {
+    "adminarea": "Otero",
+    "shortname": "otero"
+  },
+  {
+    "adminarea": "Ouray",
+    "shortname": "ouray"
+  },
+  {
+    "adminarea": "Park",
+    "shortname": "park"
+  },
+  {
+    "adminarea": "Phillips",
+    "shortname": "phillips"
+  },
+  {
+    "adminarea": "Pitkin",
+    "shortname": "pitkin"
+  },
+  {
+    "adminarea": "Prowers",
+    "shortname": "prowers"
+  },
+  {
+    "adminarea": "Pueblo",
+    "shortname": "pueblo"
+  },
+  {
+    "adminarea": "Rio Blanco",
+    "shortname": "rio-blanco"
+  },
+  {
+    "adminarea": "Rio Grande",
+    "shortname": "rio-grande"
+  },
+  {
+    "adminarea": "Routt",
+    "shortname": "routt"
+  },
+  {
+    "adminarea": "Saguache",
+    "shortname": "saguache"
+  },
+  {
+    "adminarea": "San Juan",
+    "shortname": "san-juan"
+  },
+  {
+    "adminarea": "San Miguel",
+    "shortname": "san-miguel"
+  },
+  {
+    "adminarea": "Sedgwick",
+    "shortname": "sedgwick"
+  },
+  {
+    "adminarea": "Summit",
+    "shortname": "summit"
+  },
+  {
+    "adminarea": "Teller",
+    "shortname": "teller"
+  },
+  {
+    "adminarea": "Washington",
+    "shortname": "washington"
+  },
+  {
+    "adminarea": "Weld",
+    "shortname": "weld"
+  },
+  {
+    "adminarea": "Yuma",
+    "shortname": "yuma"
+  }
+]

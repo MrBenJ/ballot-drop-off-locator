@@ -1,0 +1,9 @@
+{
+  "state": "DC",
+  "fips5": "11001",
+  "adminarea": "District of Columbia",
+  "urlvbmdropboxes": "https://www.dcboe.org/Voters/Where-to-Vote/Mail-Ballot-Drop-Sites",
+  "urlearlyvoting": "https://earlyvoting.dcboe.org/",
+  "flagboxes": 1,
+  "shortname": "district-of columbia"
+}

@@ -1,0 +1,10 @@
+{
+  "state": "FL",
+  "fips5": "12107",
+  "adminarea": "Putnam",
+  "urlvbmdropboxes": "https://soe.putnam-fl.com/VBM-Hidden-Menu-Items/Vote-by-Mail-Absentee",
+  "urlearlyvoting": "https://soe.putnam-fl.com/Election-Information/Early-Voting-Locations",
+  "flagboxes": 0,
+  "flagattn": 1,
+  "shortname": "putnam"
+}

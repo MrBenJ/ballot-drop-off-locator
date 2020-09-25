@@ -1,0 +1,270 @@
+[
+  {
+    "adminarea": "Alachua",
+    "shortname": "alachua"
+  },
+  {
+    "adminarea": "Baker",
+    "shortname": "baker"
+  },
+  {
+    "adminarea": "Bay",
+    "shortname": "bay"
+  },
+  {
+    "adminarea": "Bradford",
+    "shortname": "bradford"
+  },
+  {
+    "adminarea": "Brevard",
+    "shortname": "brevard"
+  },
+  {
+    "adminarea": "Broward",
+    "shortname": "broward"
+  },
+  {
+    "adminarea": "Calhoun",
+    "shortname": "calhoun"
+  },
+  {
+    "adminarea": "Charlotte",
+    "shortname": "charlotte"
+  },
+  {
+    "adminarea": "Citrus",
+    "shortname": "citrus"
+  },
+  {
+    "adminarea": "Clay",
+    "shortname": "clay"
+  },
+  {
+    "adminarea": "Collier",
+    "shortname": "collier"
+  },
+  {
+    "adminarea": "Columbia",
+    "shortname": "columbia"
+  },
+  {
+    "adminarea": "DeSoto",
+    "shortname": "desoto"
+  },
+  {
+    "adminarea": "Dixie",
+    "shortname": "dixie"
+  },
+  {
+    "adminarea": "Duval",
+    "shortname": "duval"
+  },
+  {
+    "adminarea": "Escambia",
+    "shortname": "escambia"
+  },
+  {
+    "adminarea": "Flagler",
+    "shortname": "flagler"
+  },
+  {
+    "adminarea": "Franklin",
+    "shortname": "franklin"
+  },
+  {
+    "adminarea": "Gadsden",
+    "shortname": "gadsden"
+  },
+  {
+    "adminarea": "Gilchrist",
+    "shortname": "gilchrist"
+  },
+  {
+    "adminarea": "Glades",
+    "shortname": "glades"
+  },
+  {
+    "adminarea": "Gulf",
+    "shortname": "gulf"
+  },
+  {
+    "adminarea": "Hamilton",
+    "shortname": "hamilton"
+  },
+  {
+    "adminarea": "Hardee",
+    "shortname": "hardee"
+  },
+  {
+    "adminarea": "Hendry",
+    "shortname": "hendry"
+  },
+  {
+    "adminarea": "Hernando",
+    "shortname": "hernando"
+  },
+  {
+    "adminarea": "Highlands",
+    "shortname": "highlands"
+  },
+  {
+    "adminarea": "Hillsborough",
+    "shortname": "hillsborough"
+  },
+  {
+    "adminarea": "Holmes",
+    "shortname": "holmes"
+  },
+  {
+    "adminarea": "Indian River",
+    "shortname": "indian-river"
+  },
+  {
+    "adminarea": "Jackson",
+    "shortname": "jackson"
+  },
+  {
+    "adminarea": "Jefferson",
+    "shortname": "jefferson"
+  },
+  {
+    "adminarea": "Lafayette",
+    "shortname": "lafayette"
+  },
+  {
+    "adminarea": "Lake",
+    "shortname": "lake"
+  },
+  {
+    "adminarea": "Lee",
+    "shortname": "lee"
+  },
+  {
+    "adminarea": "Leon",
+    "shortname": "leon"
+  },
+  {
+    "adminarea": "Levy",
+    "shortname": "levy"
+  },
+  {
+    "adminarea": "Liberty",
+    "shortname": "liberty"
+  },
+  {
+    "adminarea": "Madison",
+    "shortname": "madison"
+  },
+  {
+    "adminarea": "Manatee",
+    "shortname": "manatee"
+  },
+  {
+    "adminarea": "Marion",
+    "shortname": "marion"
+  },
+  {
+    "adminarea": "Martin",
+    "shortname": "martin"
+  },
+  {
+    "adminarea": "Miami-Dade",
+    "shortname": "miami-dade"
+  },
+  {
+    "adminarea": "Monroe",
+    "shortname": "monroe"
+  },
+  {
+    "adminarea": "Nassau",
+    "shortname": "nassau"
+  },
+  {
+    "adminarea": "Okaloosa",
+    "shortname": "okaloosa"
+  },
+  {
+    "adminarea": "Okeechobee",
+    "shortname": "okeechobee"
+  },
+  {
+    "adminarea": "Orange",
+    "shortname": "orange"
+  },
+  {
+    "adminarea": "Osceola",
+    "shortname": "osceola"
+  },
+  {
+    "adminarea": "Palm Beach",
+    "shortname": "palm-beach"
+  },
+  {
+    "adminarea": "Pasco",
+    "shortname": "pasco"
+  },
+  {
+    "adminarea": "Pinellas",
+    "shortname": "pinellas"
+  },
+  {
+    "adminarea": "Polk",
+    "shortname": "polk"
+  },
+  {
+    "adminarea": "Putnam",
+    "shortname": "putnam"
+  },
+  {
+    "adminarea": "St. Johns",
+    "shortname": "st.-johns"
+  },
+  {
+    "adminarea": "St. Lucie",
+    "shortname": "st.-lucie"
+  },
+  {
+    "adminarea": "Santa Rosa",
+    "shortname": "santa-rosa"
+  },
+  {
+    "adminarea": "Sarasota",
+    "shortname": "sarasota"
+  },
+  {
+    "adminarea": "Seminole",
+    "shortname": "seminole"
+  },
+  {
+    "adminarea": "Sumter",
+    "shortname": "sumter"
+  },
+  {
+    "adminarea": "Suwannee",
+    "shortname": "suwannee"
+  },
+  {
+    "adminarea": "Taylor",
+    "shortname": "taylor"
+  },
+  {
+    "adminarea": "Union",
+    "shortname": "union"
+  },
+  {
+    "adminarea": "Volusia",
+    "shortname": "volusia"
+  },
+  {
+    "adminarea": "Wakulla",
+    "shortname": "wakulla"
+  },
+  {
+    "adminarea": "Walton",
+    "shortname": "walton"
+  },
+  {
+    "adminarea": "Washington",
+    "shortname": "washington"
+  }
+]

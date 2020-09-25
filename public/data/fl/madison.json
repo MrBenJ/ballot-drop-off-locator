@@ -1,0 +1,9 @@
+{
+  "state": "FL",
+  "fips5": "12077",
+  "adminarea": "Madison",
+  "urlvbmdropboxes": "https://dos.myflorida.com/elections/for-voters/voting/vote-by-mail/",
+  "urlearlyvoting": "https://www.votemadison.com/?nomo=1",
+  "flagboxes": 0,
+  "shortname": "madison"
+}

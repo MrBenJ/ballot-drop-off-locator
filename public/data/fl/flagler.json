@@ -1,0 +1,11 @@
+{
+  "state": "FL",
+  "fips5": "12033",
+  "adminarea": "Flagler",
+  "urlvbmdropboxes": "https://www.flaglerelections.com/early-voting",
+  "urlearlyvoting": "https://www.flaglerelections.com/early-voting",
+  "flagboxes": 1,
+  "areadatacode": 1,
+  "flagattn": 1,
+  "shortname": "flagler"
+}

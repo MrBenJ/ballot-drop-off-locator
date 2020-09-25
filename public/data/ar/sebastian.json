@@ -1,0 +1,10 @@
+{
+  "state": "AR",
+  "fips5": "05131",
+  "adminarea": "Sebastian",
+  "urlvbmdropboxes": "https://www.sebastiancountyar.gov/Departments/County-Clerk/Election-Information/How-do-I-vote",
+  "urlearlyvoting": "https://www.sos.arkansas.gov/elections",
+  "urlstatelevelvbm": "https://www.sos.arkansas.gov/elections/voter-information/absentee-voting",
+  "flagboxes": 0,
+  "shortname": "sebastian"
+}

@@ -1,0 +1,10 @@
+{
+  "state": "AR",
+  "fips5": "05031",
+  "adminarea": "Craighead",
+  "urlvbmdropboxes": "https://www.sos.arkansas.gov/elections",
+  "urlearlyvoting": "https://www.craigheadcounty.org/residential/elections",
+  "urlstatelevelvbm": "https://www.sos.arkansas.gov/elections/voter-information/absentee-voting",
+  "flagboxes": 0,
+  "shortname": "craighead"
+}

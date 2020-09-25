@@ -1,0 +1,10 @@
+{
+  "state": "FL",
+  "fips5": "12051",
+  "adminarea": "Hernando",
+  "urlvbmdropboxes": "https://www.hernandovotes.com/Vote-By-Mail-Drop-Boxes",
+  "urlearlyvoting": "https://www.hernandovotes.com/Election-Info/Early-Voting-Locations-Status",
+  "flagboxes": 1,
+  "areadatacode": 1,
+  "shortname": "hernando"
+}

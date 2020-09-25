@@ -1,0 +1,10 @@
+{
+  "state": "AR",
+  "fips5": "05051",
+  "adminarea": "Garland",
+  "urlvbmdropboxes": "https://www.garlandcountyvote.org",
+  "urlearlyvoting": "https://www.sos.arkansas.gov/elections",
+  "urlstatelevelvbm": "https://www.sos.arkansas.gov/elections/voter-information/absentee-voting",
+  "flagboxes": 0,
+  "shortname": "garland"
+}

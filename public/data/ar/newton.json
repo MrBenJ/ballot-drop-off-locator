@@ -1,0 +1,9 @@
+{
+  "state": "AR",
+  "fips5": "05101",
+  "adminarea": "Newton",
+  "urlvbmdropboxes": "https://www.sos.arkansas.gov/elections",
+  "urlstatelevelvbm": "https://www.sos.arkansas.gov/elections/voter-information/absentee-voting",
+  "flagboxes": 0,
+  "shortname": "newton"
+}

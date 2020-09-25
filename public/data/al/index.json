@@ -1,0 +1,270 @@
+[
+  {
+    "adminarea": "Autauga",
+    "shortname": "autauga"
+  },
+  {
+    "adminarea": "Baldwin",
+    "shortname": "baldwin"
+  },
+  {
+    "adminarea": "Barbour",
+    "shortname": "barbour"
+  },
+  {
+    "adminarea": "Bibb",
+    "shortname": "bibb"
+  },
+  {
+    "adminarea": "Blount",
+    "shortname": "blount"
+  },
+  {
+    "adminarea": "Bullock",
+    "shortname": "bullock"
+  },
+  {
+    "adminarea": "Butler",
+    "shortname": "butler"
+  },
+  {
+    "adminarea": "Calhoun",
+    "shortname": "calhoun"
+  },
+  {
+    "adminarea": "Chambers",
+    "shortname": "chambers"
+  },
+  {
+    "adminarea": "Cherokee",
+    "shortname": "cherokee"
+  },
+  {
+    "adminarea": "Chilton",
+    "shortname": "chilton"
+  },
+  {
+    "adminarea": "Choctaw",
+    "shortname": "choctaw"
+  },
+  {
+    "adminarea": "Clarke",
+    "shortname": "clarke"
+  },
+  {
+    "adminarea": "Clay",
+    "shortname": "clay"
+  },
+  {
+    "adminarea": "Cleburne",
+    "shortname": "cleburne"
+  },
+  {
+    "adminarea": "Coffee",
+    "shortname": "coffee"
+  },
+  {
+    "adminarea": "Colbert",
+    "shortname": "colbert"
+  },
+  {
+    "adminarea": "Conecuh",
+    "shortname": "conecuh"
+  },
+  {
+    "adminarea": "Coosa",
+    "shortname": "coosa"
+  },
+  {
+    "adminarea": "Covington",
+    "shortname": "covington"
+  },
+  {
+    "adminarea": "Crenshaw",
+    "shortname": "crenshaw"
+  },
+  {
+    "adminarea": "Cullman",
+    "shortname": "cullman"
+  },
+  {
+    "adminarea": "Dale",
+    "shortname": "dale"
+  },
+  {
+    "adminarea": "Dallas",
+    "shortname": "dallas"
+  },
+  {
+    "adminarea": "DeKalb",
+    "shortname": "dekalb"
+  },
+  {
+    "adminarea": "Elmore",
+    "shortname": "elmore"
+  },
+  {
+    "adminarea": "Escambia",
+    "shortname": "escambia"
+  },
+  {
+    "adminarea": "Etowah",
+    "shortname": "etowah"
+  },
+  {
+    "adminarea": "Fayette",
+    "shortname": "fayette"
+  },
+  {
+    "adminarea": "Franklin",
+    "shortname": "franklin"
+  },
+  {
+    "adminarea": "Geneva",
+    "shortname": "geneva"
+  },
+  {
+    "adminarea": "Greene",
+    "shortname": "greene"
+  },
+  {
+    "adminarea": "Hale",
+    "shortname": "hale"
+  },
+  {
+    "adminarea": "Henry",
+    "shortname": "henry"
+  },
+  {
+    "adminarea": "Houston",
+    "shortname": "houston"
+  },
+  {
+    "adminarea": "Jackson",
+    "shortname": "jackson"
+  },
+  {
+    "adminarea": "Jefferson",
+    "shortname": "jefferson"
+  },
+  {
+    "adminarea": "Lamar",
+    "shortname": "lamar"
+  },
+  {
+    "adminarea": "Lauderdale",
+    "shortname": "lauderdale"
+  },
+  {
+    "adminarea": "Lawrence",
+    "shortname": "lawrence"
+  },
+  {
+    "adminarea": "Lee",
+    "shortname": "lee"
+  },
+  {
+    "adminarea": "Limestone",
+    "shortname": "limestone"
+  },
+  {
+    "adminarea": "Lowndes",
+    "shortname": "lowndes"
+  },
+  {
+    "adminarea": "Macon",
+    "shortname": "macon"
+  },
+  {
+    "adminarea": "Madison",
+    "shortname": "madison"
+  },
+  {
+    "adminarea": "Marengo",
+    "shortname": "marengo"
+  },
+  {
+    "adminarea": "Marion",
+    "shortname": "marion"
+  },
+  {
+    "adminarea": "Marshall",
+    "shortname": "marshall"
+  },
+  {
+    "adminarea": "Mobile",
+    "shortname": "mobile"
+  },
+  {
+    "adminarea": "Monroe",
+    "shortname": "monroe"
+  },
+  {
+    "adminarea": "Montgomery",
+    "shortname": "montgomery"
+  },
+  {
+    "adminarea": "Morgan",
+    "shortname": "morgan"
+  },
+  {
+    "adminarea": "Perry",
+    "shortname": "perry"
+  },
+  {
+    "adminarea": "Pickens",
+    "shortname": "pickens"
+  },
+  {
+    "adminarea": "Pike",
+    "shortname": "pike"
+  },
+  {
+    "adminarea": "Randolph",
+    "shortname": "randolph"
+  },
+  {
+    "adminarea": "Russell",
+    "shortname": "russell"
+  },
+  {
+    "adminarea": "St. Clair",
+    "shortname": "st.-clair"
+  },
+  {
+    "adminarea": "Shelby",
+    "shortname": "shelby"
+  },
+  {
+    "adminarea": "Sumter",
+    "shortname": "sumter"
+  },
+  {
+    "adminarea": "Talladega",
+    "shortname": "talladega"
+  },
+  {
+    "adminarea": "Tallapoosa",
+    "shortname": "tallapoosa"
+  },
+  {
+    "adminarea": "Tuscaloosa",
+    "shortname": "tuscaloosa"
+  },
+  {
+    "adminarea": "Walker",
+    "shortname": "walker"
+  },
+  {
+    "adminarea": "Washington",
+    "shortname": "washington"
+  },
+  {
+    "adminarea": "Wilcox",
+    "shortname": "wilcox"
+  },
+  {
+    "adminarea": "Winston",
+    "shortname": "winston"
+  }
+]

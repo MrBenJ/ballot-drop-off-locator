@@ -1,0 +1,9 @@
+{
+  "state": "AK",
+  "fips5": "02020",
+  "adminarea": "Anchorage Municipality",
+  "urlvbmdropboxes": "https://www.elections.alaska.gov/Core/votingbymail.php",
+  "flagboxes": 1,
+  "arealeveltext": "This county does have a ballot dropbox. ",
+  "shortname": "anchorage-municipality"
+}

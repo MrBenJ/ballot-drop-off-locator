@@ -1,0 +1,10 @@
+{
+  "state": "AR",
+  "fips5": "05045",
+  "adminarea": "Faulkner",
+  "urlvbmdropboxes": "http://www.faulknercounty.org/votefaulkner.com/",
+  "urlearlyvoting": "https://www.sos.arkansas.gov/elections",
+  "urlstatelevelvbm": "https://www.sos.arkansas.gov/elections/voter-information/absentee-voting",
+  "flagboxes": 0,
+  "shortname": "faulkner"
+}

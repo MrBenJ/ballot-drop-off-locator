@@ -1,0 +1,10 @@
+{
+  "state": "AR",
+  "fips5": "05001",
+  "adminarea": "Arkansas",
+  "urlvbmdropboxes": "https://www.sos.arkansas.gov/elections",
+  "urlstatelevelvbm": "https://www.sos.arkansas.gov/elections/voter-information/absentee-voting",
+  "flagboxes": 0,
+  "flagattn": "*early voting info on this site which I'm adding to each county. No info on ballot dropboxes, system is very centralized to the state",
+  "shortname": "arkansas"
+}

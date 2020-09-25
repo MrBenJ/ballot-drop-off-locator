@@ -1,0 +1,11 @@
+{
+  "state": "FL",
+  "fips5": "12031",
+  "adminarea": "Escambia",
+  "urlvbmdropboxes": "https://escambiavotes.gov/vote-by-mail",
+  "urlearlyvoting": "https://escambiavotes.gov/early-voting-locations",
+  "flagboxes": 0,
+  "areadatacode": 3,
+  "flagattn": 1,
+  "shortname": "escambia"
+}

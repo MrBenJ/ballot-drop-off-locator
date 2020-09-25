@@ -1,0 +1,10 @@
+{
+  "state": "FL",
+  "fips5": "12021",
+  "adminarea": "Collier",
+  "urlvbmdropboxes": "https://www.colliervotes.com/drop-boxes",
+  "urlearlyvoting": "https://www.colliervotes.com/Early-Voting",
+  "flagboxes": 1,
+  "areadatacode": 1,
+  "shortname": "collier"
+}

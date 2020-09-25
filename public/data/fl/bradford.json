@@ -1,0 +1,11 @@
+{
+  "state": "FL",
+  "fips5": "12007",
+  "adminarea": "Bradford",
+  "urlvbmdropboxes": "https://www.bradfordelections.com/Voter-Information/Vote-By-Mail-Information-and-Request-Form",
+  "urlearlyvoting": "https://www.bradfordelections.com/Voter-Information/Vote-By-Mail-Information-and-Request-Form",
+  "flagboxes": 1,
+  "areadatacode": 1,
+  "flagattn": 1,
+  "shortname": "bradford"
+}
