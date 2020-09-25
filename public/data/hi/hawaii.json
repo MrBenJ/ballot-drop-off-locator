@@ -1,0 +1,9 @@
+{
+  "state": "HI",
+  "fips5": "15001",
+  "adminarea": "Hawaii",
+  "urlvbmdropboxes": "https://elections.hawaii.gov/hawaii-votes-by-mail-resources/",
+  "urlearlyvoting": "https://www.google.com/search?q=hawaii+early+voting&oq=Hawaii+early+vot&aqs=chrome.0.0l2j69i57j0l2j69i60.12434j0j7&sourceid=chrome&ie=UTF-8",
+  "flagboxes": 0,
+  "shortname": "hawaii"
+}
