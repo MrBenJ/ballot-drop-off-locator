@@ -4,15 +4,25 @@ import { Link } from 'react-router-dom';
 
 import { ReactComponent as LocateSVG } from './locate.svg';
 import Button from '../../components/Button';
-import './IndexPage.scss';
 import Text from '../../components/Text';
+
+import MainImage from './mainImage.jpg';
+import MainImage2x from './mainImage@2x.jpg';
+import MainImage3x from './mainImage@3x.jpg';
+
+import './IndexPage.scss';
 
 const IndexPage = () => {
   const { t } = useTranslation();
 
   return (
     <div className="container">
-      <div className="drop-img-bg"></div>
+      <img
+        src={MainImage}
+        className="main-image"
+        alt={t('IndexPage.imgAlt')}
+        srcSet={`${MainImage2x} 2x, ${MainImage3x} 3x`}
+      />
       <div className="IndexPage">
         <Text className="dropbox-bolded bold center">
           {t('IndexPage.findBoxBold')}
@@ -42,7 +52,9 @@ const IndexPage = () => {
           {t('IndexPage.tealBolded2')}
         </Text>
         <div className="locate-svg">
-          <LocateSVG />
+          <Link to="/select-state">
+            <LocateSVG />
+          </Link>
         </div>
         <Text className="county-gov-copy center">
           {t('IndexPage.siteProvides')}{' '}

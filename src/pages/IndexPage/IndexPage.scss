@@ -10,12 +10,9 @@
   }
 }
 
-.drop-img-bg {
-  height: 350px;
+.main-image{
+  object-fit: contain;
   width: 100%;
-  background-image: url('https://placehold.it/414x247');
-  background-size: cover;
-  background-position: 50% 50%;
 }
 
 .dropbox-bolded {

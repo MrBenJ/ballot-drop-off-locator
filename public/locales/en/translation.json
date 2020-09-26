@@ -1,6 +1,10 @@
 {
   "title": "Ballot Drop off Locator",
+  "Header": {
+    "altLogo": "My Ballot Drop"
+  },
   "IndexPage": {
+    "imgAlt": "Drop Box Locator",
     "findBoxBold": "Find a Drop Box near you to turn in your completed ballot",
     "absenteeText": "As an absentee OR vote-by-mail voter in 2020, make sure your ballot is received and counted.",
     "aboutMyBallotDrop": "My Ballot Drop will help you find how to directly drop your ballot with election officials.",
