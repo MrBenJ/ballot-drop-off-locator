@@ -1,0 +1,10 @@
+{
+  "state": "TX",
+  "fips5": "48313",
+  "adminarea": "Madison",
+  "urlvbmdropboxes": "http://www.co.madison.tx.us/page/madison.Elections",
+  "urlearlyvoting": "http://www.co.madison.tx.us/upload/page/0407/2020%20Elections/MC%20Election%20Order%202020.pdf",
+  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "flagboxes": 0,
+  "shortname": "madison"
+}

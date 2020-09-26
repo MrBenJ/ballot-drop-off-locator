@@ -1,0 +1,10 @@
+{
+  "state": "TX",
+  "fips5": "48073",
+  "adminarea": "Cherokee",
+  "urlvbmdropboxes": "http://www.co.cherokee.tx.us/ips/cms/othercountyoffices/elections.html",
+  "urlearlyvoting": "http://www.co.cherokee.tx.us/ips/cms/othercountyoffices/2020-11/Nov%202020%20Early%20voting%20locations%20times.pdf",
+  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "flagboxes": 0,
+  "shortname": "cherokee"
+}

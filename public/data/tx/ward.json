@@ -1,0 +1,10 @@
+{
+  "state": "TX",
+  "fips5": "48475",
+  "adminarea": "Ward",
+  "urlvbmdropboxes": "http://www.co.ward.tx.us/page/ward.Elections",
+  "urlearlyvoting": "http://www.co.ward.tx.us/upload/page/7228/docs/Public%20Notices/notice%20of%20general%20election.pdf",
+  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "flagboxes": 0,
+  "shortname": "ward"
+}

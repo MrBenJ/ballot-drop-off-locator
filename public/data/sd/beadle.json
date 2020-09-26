@@ -1,0 +1,9 @@
+{
+  "state": "SD",
+  "fips5": "46005",
+  "adminarea": "Beadle",
+  "urlvbmdropboxes": "http://beadle.sdcounties.org/election/",
+  "urlstatelevelvbm": "https://sdsos.gov/elections-voting/voting/absentee-voting.aspx",
+  "flagboxes": 0,
+  "shortname": "beadle"
+}

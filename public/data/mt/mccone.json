@@ -1,0 +1,10 @@
+{
+  "state": "MT",
+  "fips5": "30055",
+  "adminarea": "McCone",
+  "urlvbmdropboxes": "http://mcconecountymt.com/election-administration",
+  "urlearlyvoting": "https://sosmt.gov/elections/absentee/",
+  "urlstatelevelvbm": "https://sosmt.gov/elections/absentee/",
+  "flagboxes": 0,
+  "shortname": "mccone"
+}

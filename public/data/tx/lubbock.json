@@ -1,0 +1,10 @@
+{
+  "state": "TX",
+  "fips5": "48303",
+  "adminarea": "Lubbock",
+  "urlvbmdropboxes": "https://www.votelubbock.org/voting-information/absentee-mail-voting/",
+  "urlearlyvoting": "https://www.votelubbock.org/election-information/early-voting-information/",
+  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "flagboxes": 0,
+  "shortname": "lubbock"
+}

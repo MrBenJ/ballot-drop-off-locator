@@ -1,0 +1,10 @@
+{
+  "state": "MT",
+  "fips5": "30089",
+  "adminarea": "Sanders",
+  "urlvbmdropboxes": "https://co.sanders.mt.us/departments/elections/",
+  "urlearlyvoting": "https://sosmt.gov/elections/absentee/",
+  "urlstatelevelvbm": "https://sosmt.gov/elections/absentee/",
+  "flagboxes": 0,
+  "shortname": "sanders"
+}

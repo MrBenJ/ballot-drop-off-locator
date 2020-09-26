@@ -1,0 +1,10 @@
+{
+  "state": "TX",
+  "fips5": "48259",
+  "adminarea": "Kendall",
+  "urlvbmdropboxes": "https://www.co.kendall.tx.us/page/Elections.Current.November",
+  "urlearlyvoting": "https://www.co.kendall.tx.us/upload/page/0217/docs/Current%20Elections/3%20-%20EARLY%20VOTING%20-%20Main%20Location.pdf",
+  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "flagboxes": 0,
+  "shortname": "kendall"
+}

@@ -1,0 +1,10 @@
+{
+  "state": "MT",
+  "fips5": "30081",
+  "adminarea": "Ravalli",
+  "urlvbmdropboxes": "https://ravalli.us/145/Elections",
+  "urlearlyvoting": "https://sosmt.gov/elections/absentee/",
+  "urlstatelevelvbm": "https://sosmt.gov/elections/absentee/",
+  "flagboxes": 0,
+  "shortname": "ravalli"
+}

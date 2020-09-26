@@ -1,0 +1,10 @@
+{
+  "state": "TX",
+  "fips5": "48423",
+  "adminarea": "Smith",
+  "urlvbmdropboxes": "https://www.smith-county.com/government/departments/elections",
+  "urlearlyvoting": "https://www.smith-county.com/home/showdocument?id=8764",
+  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "flagboxes": 0,
+  "shortname": "smith"
+}

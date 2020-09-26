@@ -1,0 +1,10 @@
+{
+  "state": "NJ",
+  "fips5": "34035",
+  "adminarea": "Somerset",
+  "urlvbmdropboxes": "https://www.co.somerset.nj.us/government/affiliated-agencies/election-board/drop-boxes",
+  "urlstatelevelvbm": "https://nj.gov/state/elections/vote.shtml",
+  "flagboxes": 1,
+  "flagattn": 1,
+  "shortname": "somerset"
+}

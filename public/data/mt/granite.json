@@ -1,0 +1,10 @@
+{
+  "state": "MT",
+  "fips5": "30039",
+  "adminarea": "Granite",
+  "urlvbmdropboxes": "http://www.smartvoter.org/mt/grn/",
+  "urlearlyvoting": "https://sosmt.gov/elections/absentee/",
+  "urlstatelevelvbm": "https://sosmt.gov/elections/absentee/",
+  "flagboxes": 0,
+  "shortname": "granite"
+}

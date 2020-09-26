@@ -1,0 +1,11 @@
+{
+  "state": "TX",
+  "fips5": "48029",
+  "adminarea": "Bexar",
+  "urlvbmdropboxes": "https://www.bexar.org/1568/Elections-Department",
+  "urlearlyvoting": "https://www.bexar.org/1573/Early-Voting-Absentee-Ballots",
+  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "flagboxes": 0,
+  "flagattn": 1,
+  "shortname": "bexar"
+}

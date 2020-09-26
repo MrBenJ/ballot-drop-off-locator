@@ -1,0 +1,11 @@
+{
+  "state": "TX",
+  "fips5": "48001",
+  "adminarea": "Anderson",
+  "urlvbmdropboxes": "http://www.co.anderson.tx.us/page/anderson.ElecDayPollLoc2020",
+  "urlearlyvoting": "http://www.co.anderson.tx.us/page/anderson.ElecEarlyVote",
+  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "flagboxes": 0,
+  "flagattn": 1,
+  "shortname": "anderson"
+}

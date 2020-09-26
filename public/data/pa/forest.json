@@ -1,0 +1,9 @@
+{
+  "state": "PA",
+  "fips5": "42053",
+  "adminarea": "Forest",
+  "urlvbmdropboxes": "http://www.co.forest.pa.us/departments/elections_and_voter_regisration.php",
+  "urlstatelevelvbm": "https://www.votespa.com/Voting-in-PA/Pages/Mail-and-Absentee-Ballot.aspx",
+  "flagboxes": 0,
+  "shortname": "forest"
+}

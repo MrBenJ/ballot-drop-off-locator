@@ -1,0 +1,10 @@
+{
+  "state": "TX",
+  "fips5": "48309",
+  "adminarea": "McLennan",
+  "urlvbmdropboxes": "http://tx-mclennancounty.civicplus.com/1106/Voting-by-Mail",
+  "urlearlyvoting": "http://tx-mclennancounty.civicplus.com/DocumentCenter/View/10707/Early-Voting---Website",
+  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "flagboxes": 0,
+  "shortname": "mclennan"
+}

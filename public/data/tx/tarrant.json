@@ -1,0 +1,10 @@
+{
+  "state": "TX",
+  "fips5": "48439",
+  "adminarea": "Tarrant",
+  "urlvbmdropboxes": "https://www.tarrantcounty.com/content/main/en/elections/Early-Voting-Information/Voting-by-Mail.html?linklocation=departmentcarousel&linkname=Elections:Voting%20by%20Mail%20(Absentee%20Ballot)",
+  "urlearlyvoting": "https://www.tarrantcounty.com/en/elections/Upcoming-Election-Information/Early-Voting-Schedule-Locations-and-Maps.html?linklocation=Button%20List&linkname=",
+  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "flagboxes": 0,
+  "shortname": "tarrant"
+}

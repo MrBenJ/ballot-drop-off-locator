@@ -1,0 +1,11 @@
+{
+  "state": "NM",
+  "fips5": "35001",
+  "adminarea": "Bernalillo",
+  "urlvbmdropboxes": "https://www.bernco.gov/clerk/absentee-voting.aspx",
+  "urlearlyvoting": "https://www.bernco.gov/clerk/early-voting-locations.aspx",
+  "urlstatelevelvbm": "https://www.sos.state.nm.us/voting-and-elections/voting-faqs/absentee-voting-by-mail/",
+  "flagboxes": 0,
+  "flagattn": 1,
+  "shortname": "bernalillo"
+}

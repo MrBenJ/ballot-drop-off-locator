@@ -1,0 +1,10 @@
+{
+  "state": "TX",
+  "fips5": "48167",
+  "adminarea": "Galveston",
+  "urlvbmdropboxes": "https://www.galvestonvotes.org/voter-information/voting-by-mail/",
+  "urlearlyvoting": "https://www.galvestonvotes.org/election-information/polling-locations/",
+  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "flagboxes": 0,
+  "shortname": "galveston"
+}

@@ -1,0 +1,10 @@
+{
+  "state": "TX",
+  "fips5": "48469",
+  "adminarea": "Victoria",
+  "urlvbmdropboxes": "http://www.vctxelections.org/index.php/voter-info/early-voting-by-mail",
+  "urlearlyvoting": "http://www.vctxelections.org/Upload/EarlyVotingSchedule/EarlyVotingSchedule.pdf",
+  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "flagboxes": 0,
+  "shortname": "victoria"
+}

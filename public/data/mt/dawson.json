@@ -1,0 +1,10 @@
+{
+  "state": "MT",
+  "fips5": "30021",
+  "adminarea": "Dawson",
+  "urlvbmdropboxes": "http://dawsoncountymontana.com/departments/elections_voter_information/index.php",
+  "urlearlyvoting": "https://sosmt.gov/elections/absentee/",
+  "urlstatelevelvbm": "https://sosmt.gov/elections/absentee/",
+  "flagboxes": 0,
+  "shortname": "dawson"
+}

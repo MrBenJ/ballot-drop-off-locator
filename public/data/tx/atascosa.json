@@ -1,0 +1,11 @@
+{
+  "state": "TX",
+  "fips5": "48013",
+  "adminarea": "Atascosa",
+  "urlvbmdropboxes": "http://www.atascosacounty.texas.gov/page/atascosa.Elections",
+  "urlearlyvoting": "http://www.atascosacounty.texas.gov/upload/page/5328/docs/Elections/2020-11-03/EARLY%20VOTING%20LOCATIONS%20NOV%203%202020.pdf",
+  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "flagboxes": 0,
+  "areadatacode": 3,
+  "shortname": "atascosa"
+}

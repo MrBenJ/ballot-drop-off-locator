@@ -1,0 +1,10 @@
+{
+  "state": "NJ",
+  "fips5": "34029",
+  "adminarea": "Ocean",
+  "urlvbmdropboxes": "http://www.clerk.co.ocean.nj.us/frmElectionServices?page=voterinfo",
+  "urlstatelevelvbm": "https://nj.gov/state/elections/vote.shtml",
+  "flagboxes": 1,
+  "flagattn": 1,
+  "shortname": "ocean"
+}

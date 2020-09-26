@@ -1,0 +1,10 @@
+{
+  "state": "MT",
+  "fips5": "30065",
+  "adminarea": "Musselshell",
+  "urlvbmdropboxes": "https://musselshellcounty.org/public-office/elections/",
+  "urlearlyvoting": "https://sosmt.gov/elections/absentee/",
+  "urlstatelevelvbm": "https://sosmt.gov/elections/absentee/",
+  "flagboxes": 0,
+  "shortname": "musselshell"
+}

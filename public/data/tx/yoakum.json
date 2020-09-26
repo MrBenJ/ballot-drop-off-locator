@@ -1,0 +1,11 @@
+{
+  "state": "TX",
+  "fips5": "48501",
+  "adminarea": "Yoakum",
+  "urlvbmdropboxes": "http://www.co.yoakum.tx.us/page/yoakum.Elections",
+  "urlearlyvoting": "http://www.co.yoakum.tx.us/upload/page/4205/Notice%20of%20General%20Election.pdf",
+  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "flagboxes": 0,
+  "flagattn": 1,
+  "shortname": "yoakum"
+}

@@ -1,0 +1,10 @@
+{
+  "state": "TX",
+  "fips5": "48491",
+  "adminarea": "Williamson",
+  "urlvbmdropboxes": "https://www.wilco.org/Departments/Elections/Voting-By-Mail",
+  "urlearlyvoting": "https://www.wilco.org/Departments/Elections/Voting-in-Person/Early-Voting",
+  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "flagboxes": 0,
+  "shortname": "williamson"
+}

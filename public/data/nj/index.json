@@ -1,0 +1,86 @@
+[
+  {
+    "adminarea": "Atlantic",
+    "shortname": "atlantic"
+  },
+  {
+    "adminarea": "Bergen",
+    "shortname": "bergen"
+  },
+  {
+    "adminarea": "Burlington",
+    "shortname": "burlington"
+  },
+  {
+    "adminarea": "Camden",
+    "shortname": "camden"
+  },
+  {
+    "adminarea": "Cape May",
+    "shortname": "cape-may"
+  },
+  {
+    "adminarea": "Cumberland",
+    "shortname": "cumberland"
+  },
+  {
+    "adminarea": "Essex",
+    "shortname": "essex"
+  },
+  {
+    "adminarea": "Gloucester",
+    "shortname": "gloucester"
+  },
+  {
+    "adminarea": "Hudson",
+    "shortname": "hudson"
+  },
+  {
+    "adminarea": "Hunterdon",
+    "shortname": "hunterdon"
+  },
+  {
+    "adminarea": "Mercer",
+    "shortname": "mercer"
+  },
+  {
+    "adminarea": "Middlesex",
+    "shortname": "middlesex"
+  },
+  {
+    "adminarea": "Monmouth",
+    "shortname": "monmouth"
+  },
+  {
+    "adminarea": "Morris",
+    "shortname": "morris"
+  },
+  {
+    "adminarea": "Ocean",
+    "shortname": "ocean"
+  },
+  {
+    "adminarea": "Passaic",
+    "shortname": "passaic"
+  },
+  {
+    "adminarea": "Salem",
+    "shortname": "salem"
+  },
+  {
+    "adminarea": "Somerset",
+    "shortname": "somerset"
+  },
+  {
+    "adminarea": "Sussex",
+    "shortname": "sussex"
+  },
+  {
+    "adminarea": "Union",
+    "shortname": "union"
+  },
+  {
+    "adminarea": "Warren",
+    "shortname": "warren"
+  }
+]

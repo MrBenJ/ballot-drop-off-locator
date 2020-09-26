@@ -1,0 +1,10 @@
+{
+  "state": "MT",
+  "fips5": "30043",
+  "adminarea": "Jefferson",
+  "urlvbmdropboxes": "http://www.jeffersoncounty-mt.gov/elections.html",
+  "urlearlyvoting": "https://sosmt.gov/elections/absentee/",
+  "urlstatelevelvbm": "https://sosmt.gov/elections/absentee/",
+  "flagboxes": 0,
+  "shortname": "jefferson"
+}

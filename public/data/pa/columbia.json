@@ -1,0 +1,9 @@
+{
+  "state": "PA",
+  "fips5": "42037",
+  "adminarea": "Columbia",
+  "urlvbmdropboxes": "http://columbiapa.org/voter/index.php",
+  "urlstatelevelvbm": "https://www.votespa.com/Voting-in-PA/Pages/Mail-and-Absentee-Ballot.aspx",
+  "flagboxes": 0,
+  "shortname": "columbia"
+}

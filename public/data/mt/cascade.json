@@ -1,0 +1,10 @@
+{
+  "state": "MT",
+  "fips5": "30013",
+  "adminarea": "Cascade",
+  "urlvbmdropboxes": "https://www.cascadecountymt.gov/departments/elections",
+  "urlearlyvoting": "https://sosmt.gov/elections/absentee/",
+  "urlstatelevelvbm": "https://sosmt.gov/elections/absentee/",
+  "flagboxes": 0,
+  "shortname": "cascade"
+}

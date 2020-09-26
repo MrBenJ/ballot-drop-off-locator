@@ -1,0 +1,10 @@
+{
+  "state": "NJ",
+  "fips5": "34007",
+  "adminarea": "Camden",
+  "urlvbmdropboxes": "https://www.camdencounty.com/service/voting-and-elections/vote-by-mail-drop-boxes/",
+  "urlstatelevelvbm": "https://nj.gov/state/elections/vote.shtml",
+  "flagboxes": 1,
+  "flagattn": 1,
+  "shortname": "camden"
+}

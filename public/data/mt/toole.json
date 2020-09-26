@@ -1,0 +1,10 @@
+{
+  "state": "MT",
+  "fips5": "30101",
+  "adminarea": "Toole",
+  "urlvbmdropboxes": "https://toolecountymt.gov/elections_office.html",
+  "urlearlyvoting": "https://sosmt.gov/elections/absentee/",
+  "urlstatelevelvbm": "https://sosmt.gov/elections/absentee/",
+  "flagboxes": 0,
+  "shortname": "toole"
+}

@@ -1,0 +1,11 @@
+{
+  "state": "TX",
+  "fips5": "48411",
+  "adminarea": "San Saba",
+  "urlvbmdropboxes": "http://www.co.san-saba.tx.us/page/sansaba.Elections",
+  "urlearlyvoting": "http://www.co.san-saba.tx.us/upload/page/6028/docs/OrderofGeneralElection2020Aug.pdf",
+  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "flagboxes": 0,
+  "flagattn": 1,
+  "shortname": "san-saba"
+}

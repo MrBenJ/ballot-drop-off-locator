@@ -1,0 +1,10 @@
+{
+  "state": "TX",
+  "fips5": "48215",
+  "adminarea": "Hidalgo",
+  "urlvbmdropboxes": "https://www.hidalgocounty.us/DocumentCenter/View/40894/ORDER-OF-ELECTION?bidId=",
+  "urlearlyvoting": "https://www.hidalgocounty.us/DocumentCenter/View/40965/EARLY-VOTING-POLLING-LOCATIONS?bidId=",
+  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "flagboxes": 0,
+  "shortname": "hidalgo"
+}

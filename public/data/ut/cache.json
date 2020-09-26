@@ -1,0 +1,9 @@
+{
+  "state": "UT",
+  "fips5": "49005",
+  "adminarea": "Cache",
+  "urlvbmdropboxes": "https://www.cachecounty.org/elections/ballotdropofflocations.html",
+  "urlstatelevelvbm": "https://vote.utah.gov/",
+  "flagboxes": 1,
+  "shortname": "cache"
+}

@@ -1,0 +1,10 @@
+{
+  "state": "TX",
+  "fips5": "48067",
+  "adminarea": "Cass",
+  "urlvbmdropboxes": "http://www.co.cass.tx.us/page/cass.Elections",
+  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "flagboxes": 0,
+  "flagattn": 1,
+  "shortname": "cass"
+}

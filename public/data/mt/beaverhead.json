@@ -1,0 +1,10 @@
+{
+  "state": "MT",
+  "fips5": "30001",
+  "adminarea": "Beaverhead",
+  "urlvbmdropboxes": "https://beaverheadcounty.org/departments/election-office-new/",
+  "urlearlyvoting": "https://sosmt.gov/elections/absentee/",
+  "urlstatelevelvbm": "https://sosmt.gov/elections/absentee/",
+  "flagboxes": 1,
+  "shortname": "beaverhead"
+}

@@ -1,0 +1,10 @@
+{
+  "state": "TX",
+  "fips5": "48231",
+  "adminarea": "Hunt",
+  "urlvbmdropboxes": "http://www.huntcounty.net/page/hunt.ballotbymail",
+  "urlearlyvoting": "http://www.huntcounty.net/page/hunt.election",
+  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "flagboxes": 0,
+  "shortname": "hunt"
+}

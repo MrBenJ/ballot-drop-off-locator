@@ -1,0 +1,9 @@
+{
+  "state": "TX",
+  "fips5": "48201",
+  "adminarea": "Harris",
+  "urlvbmdropboxes": "https://www.harrisvotes.com/VotingInfo?lang=en-US#VoteByMail",
+  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "flagboxes": 0,
+  "shortname": "harris"
+}

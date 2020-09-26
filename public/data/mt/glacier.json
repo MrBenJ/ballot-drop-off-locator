@@ -1,0 +1,10 @@
+{
+  "state": "MT",
+  "fips5": "30035",
+  "adminarea": "Glacier",
+  "urlvbmdropboxes": "https://www.overseasvotefoundation.org/vote/election-official-directory/MT/Glacier%20County",
+  "urlearlyvoting": "https://sosmt.gov/elections/absentee/",
+  "urlstatelevelvbm": "https://sosmt.gov/elections/absentee/",
+  "flagboxes": 0,
+  "shortname": "glacier"
+}

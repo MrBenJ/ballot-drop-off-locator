@@ -1,0 +1,10 @@
+{
+  "state": "MT",
+  "fips5": "30051",
+  "adminarea": "Liberty",
+  "urlvbmdropboxes": "https://co.liberty.mt.us/elected-officials-2/clerk-and-recorder/election-information/",
+  "urlearlyvoting": "https://sosmt.gov/elections/absentee/",
+  "urlstatelevelvbm": "https://sosmt.gov/elections/absentee/",
+  "flagboxes": 0,
+  "shortname": "liberty"
+}

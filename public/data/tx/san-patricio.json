@@ -1,0 +1,10 @@
+{
+  "state": "TX",
+  "fips5": "48409",
+  "adminarea": "San Patricio",
+  "urlvbmdropboxes": "http://www.co.san-patricio.tx.us/page/sanpatricio.Elections",
+  "urlearlyvoting": "http://www.co.san-patricio.tx.us/upload/page/5572/docs/Elections/Early%20Voting%20-%20Election%20Day%20Schedule/Early%20Voting%20and%20Election%20Day%20Schedule%202020%20General%20Election.pdf",
+  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "flagboxes": 0,
+  "shortname": "san-patricio"
+}

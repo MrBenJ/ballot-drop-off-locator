@@ -1,0 +1,10 @@
+{
+  "state": "TX",
+  "fips5": "48071",
+  "adminarea": "Chambers",
+  "urlvbmdropboxes": "https://www.co.chambers.tx.us/page/elections",
+  "urlearlyvoting": "https://www.co.chambers.tx.us/upload/page/0204/docs/Joint%20GENERAL%20Election%2011.3.2020/EV%20Hours.Locations.pdf",
+  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "flagboxes": 0,
+  "shortname": "chambers"
+}

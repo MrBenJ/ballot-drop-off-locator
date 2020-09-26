@@ -1,0 +1,10 @@
+{
+  "state": "TX",
+  "fips5": "48493",
+  "adminarea": "Wilson",
+  "urlvbmdropboxes": "http://www.co.wilson.tx.us/page/wilson.Elections.AbsenteeVoting",
+  "urlearlyvoting": "http://www.co.wilson.tx.us/upload/page/2254/docs/Elections/Lesa/Oct2020EarlyVoting.pdf",
+  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "flagboxes": 0,
+  "shortname": "wilson"
+}

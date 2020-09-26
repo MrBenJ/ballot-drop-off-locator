@@ -1,0 +1,11 @@
+{
+  "state": "NM",
+  "fips5": "35055",
+  "adminarea": "Taos",
+  "urlvbmdropboxes": "https://www.taoscounty.org/175/Bureau-of-Elections",
+  "urlearlyvoting": "https://www.taoscounty.org/171/Alternate-Voting-Locations",
+  "urlstatelevelvbm": "https://www.sos.state.nm.us/voting-and-elections/voting-faqs/absentee-voting-by-mail/",
+  "flagboxes": 0,
+  "flagattn": 1,
+  "shortname": "taos"
+}

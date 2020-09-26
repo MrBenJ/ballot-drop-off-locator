@@ -1,0 +1,10 @@
+{
+  "state": "TX",
+  "fips5": "48003",
+  "adminarea": "Andrews",
+  "urlvbmdropboxes": "http://www.co.andrews.tx.us/departments/elections_department/voting_by_mail_(absentee).php",
+  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "flagboxes": 0,
+  "areadatacode": 3,
+  "shortname": "andrews"
+}

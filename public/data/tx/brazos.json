@@ -1,0 +1,10 @@
+{
+  "state": "TX",
+  "fips5": "48041",
+  "adminarea": "Brazos",
+  "urlvbmdropboxes": "http://www.brazosvotes.org/node/22",
+  "urlearlyvoting": "http://www.brazosvotes.org/node/197",
+  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "flagboxes": 0,
+  "shortname": "brazos"
+}

@@ -1,0 +1,10 @@
+{
+  "state": "SC",
+  "fips5": "45003",
+  "adminarea": "Aiken",
+  "urlvbmdropboxes": "https://www.aikencountysc.gov/DspDept?qDeptID=RNE",
+  "urlearlyvoting": "https://www.scvotes.gov/aiken",
+  "urlstatelevelvbm": "https://www.scvotes.gov/new-absentee-rules-2020-general-election",
+  "flagboxes": 0,
+  "shortname": "aiken"
+}

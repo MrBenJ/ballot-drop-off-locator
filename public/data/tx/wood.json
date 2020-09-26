@@ -1,0 +1,10 @@
+{
+  "state": "TX",
+  "fips5": "48499",
+  "adminarea": "Wood",
+  "urlvbmdropboxes": "https://elections.mywoodcounty.com/election-information/ballot-by-mail/",
+  "urlearlyvoting": "https://elections.mywoodcounty.com/election-information/polling-locations/",
+  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "flagboxes": 0,
+  "shortname": "wood"
+}

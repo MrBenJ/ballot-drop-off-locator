@@ -1,0 +1,10 @@
+{
+  "state": "TX",
+  "fips5": "48427",
+  "adminarea": "Starr",
+  "urlvbmdropboxes": "http://www.co.starr.tx.us/page/starr.Elections",
+  "urlearlyvoting": "http://www.co.starr.tx.us/upload/page/6487/docs/NoticeOfElection082020.pdf",
+  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "flagboxes": 0,
+  "shortname": "starr"
+}

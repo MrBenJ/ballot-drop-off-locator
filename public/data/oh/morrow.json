@@ -1,0 +1,9 @@
+{
+  "state": "OH",
+  "fips5": "39117",
+  "adminarea": "Morrow",
+  "urlvbmdropboxes": "https://boe.morrowcountyohio.gov/vote_by_mail/absentee_voting.php",
+  "urlstatelevelvbm": "https://www.ohiosos.gov/elections/voters/absentee-voting/#byMail",
+  "flagboxes": 0,
+  "shortname": "morrow"
+}

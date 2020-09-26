@@ -1,0 +1,11 @@
+{
+  "state": "TX",
+  "fips5": "48371",
+  "adminarea": "Pecos",
+  "urlvbmdropboxes": "https://www.co.pecos.tx.us/election-information/",
+  "urlearlyvoting": "https://www.co.pecos.tx.us/wp-content/uploads/2020/08/Order-of-General-Election-2020.pdf",
+  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "flagboxes": 0,
+  "flagattn": 1,
+  "shortname": "pecos"
+}

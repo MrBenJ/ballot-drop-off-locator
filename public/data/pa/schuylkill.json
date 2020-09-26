@@ -1,0 +1,9 @@
+{
+  "state": "PA",
+  "fips5": "42107",
+  "adminarea": "Schuylkill",
+  "urlvbmdropboxes": "https://www.co.schuylkill.pa.us/Offices/Election/index.asp",
+  "urlstatelevelvbm": "https://www.votespa.com/Voting-in-PA/Pages/Mail-and-Absentee-Ballot.aspx",
+  "flagboxes": 0,
+  "shortname": "schuylkill"
+}

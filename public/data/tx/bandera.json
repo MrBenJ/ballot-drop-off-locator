@@ -1,0 +1,10 @@
+{
+  "state": "TX",
+  "fips5": "48019",
+  "adminarea": "Bandera",
+  "urlvbmdropboxes": "https://www.banderacounty.org/Public/Elections/PollingLocations/PollingLocations.pdf",
+  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "flagboxes": 0,
+  "areadatacode": 3,
+  "shortname": "bandera"
+}

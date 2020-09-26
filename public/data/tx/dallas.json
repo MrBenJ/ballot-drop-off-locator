@@ -1,0 +1,10 @@
+{
+  "state": "TX",
+  "fips5": "48113",
+  "adminarea": "Dallas",
+  "urlvbmdropboxes": "https://www.dallascountyvotes.org/absentee-voting/",
+  "urlearlyvoting": "https://www.dallascountyvotes.org/early-voting-information/",
+  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "flagboxes": 0,
+  "shortname": "dallas"
+}

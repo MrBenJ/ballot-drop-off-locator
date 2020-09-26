@@ -1,0 +1,266 @@
+[
+  {
+    "adminarea": "Aurora",
+    "shortname": "aurora"
+  },
+  {
+    "adminarea": "Beadle",
+    "shortname": "beadle"
+  },
+  {
+    "adminarea": "Bennett",
+    "shortname": "bennett"
+  },
+  {
+    "adminarea": "Bon Homme",
+    "shortname": "bon-homme"
+  },
+  {
+    "adminarea": "Brookings",
+    "shortname": "brookings"
+  },
+  {
+    "adminarea": "Brown",
+    "shortname": "brown"
+  },
+  {
+    "adminarea": "Brule",
+    "shortname": "brule"
+  },
+  {
+    "adminarea": "Buffalo",
+    "shortname": "buffalo"
+  },
+  {
+    "adminarea": "Butte",
+    "shortname": "butte"
+  },
+  {
+    "adminarea": "Campbell",
+    "shortname": "campbell"
+  },
+  {
+    "adminarea": "Charles Mix",
+    "shortname": "charles-mix"
+  },
+  {
+    "adminarea": "Clark",
+    "shortname": "clark"
+  },
+  {
+    "adminarea": "Clay",
+    "shortname": "clay"
+  },
+  {
+    "adminarea": "Codington",
+    "shortname": "codington"
+  },
+  {
+    "adminarea": "Corson",
+    "shortname": "corson"
+  },
+  {
+    "adminarea": "Custer",
+    "shortname": "custer"
+  },
+  {
+    "adminarea": "Davison",
+    "shortname": "davison"
+  },
+  {
+    "adminarea": "Day",
+    "shortname": "day"
+  },
+  {
+    "adminarea": "Deuel",
+    "shortname": "deuel"
+  },
+  {
+    "adminarea": "Dewey",
+    "shortname": "dewey"
+  },
+  {
+    "adminarea": "Douglas",
+    "shortname": "douglas"
+  },
+  {
+    "adminarea": "Edmunds",
+    "shortname": "edmunds"
+  },
+  {
+    "adminarea": "Fall River",
+    "shortname": "fall-river"
+  },
+  {
+    "adminarea": "Faulk",
+    "shortname": "faulk"
+  },
+  {
+    "adminarea": "Grant",
+    "shortname": "grant"
+  },
+  {
+    "adminarea": "Gregory",
+    "shortname": "gregory"
+  },
+  {
+    "adminarea": "Haakon",
+    "shortname": "haakon"
+  },
+  {
+    "adminarea": "Hamlin",
+    "shortname": "hamlin"
+  },
+  {
+    "adminarea": "Hand",
+    "shortname": "hand"
+  },
+  {
+    "adminarea": "Hanson",
+    "shortname": "hanson"
+  },
+  {
+    "adminarea": "Harding",
+    "shortname": "harding"
+  },
+  {
+    "adminarea": "Hughes",
+    "shortname": "hughes"
+  },
+  {
+    "adminarea": "Hutchinson",
+    "shortname": "hutchinson"
+  },
+  {
+    "adminarea": "Hyde",
+    "shortname": "hyde"
+  },
+  {
+    "adminarea": "Jackson",
+    "shortname": "jackson"
+  },
+  {
+    "adminarea": "Jerauld",
+    "shortname": "jerauld"
+  },
+  {
+    "adminarea": "Jones",
+    "shortname": "jones"
+  },
+  {
+    "adminarea": "Kingsbury",
+    "shortname": "kingsbury"
+  },
+  {
+    "adminarea": "Lake",
+    "shortname": "lake"
+  },
+  {
+    "adminarea": "Lawrence",
+    "shortname": "lawrence"
+  },
+  {
+    "adminarea": "Lincoln",
+    "shortname": "lincoln"
+  },
+  {
+    "adminarea": "Lyman",
+    "shortname": "lyman"
+  },
+  {
+    "adminarea": "McCook",
+    "shortname": "mccook"
+  },
+  {
+    "adminarea": "McPherson",
+    "shortname": "mcpherson"
+  },
+  {
+    "adminarea": "Marshall",
+    "shortname": "marshall"
+  },
+  {
+    "adminarea": "Meade",
+    "shortname": "meade"
+  },
+  {
+    "adminarea": "Mellette",
+    "shortname": "mellette"
+  },
+  {
+    "adminarea": "Miner",
+    "shortname": "miner"
+  },
+  {
+    "adminarea": "Minnehaha",
+    "shortname": "minnehaha"
+  },
+  {
+    "adminarea": "Moody",
+    "shortname": "moody"
+  },
+  {
+    "adminarea": "Oglala Lakota",
+    "shortname": "oglala-lakota"
+  },
+  {
+    "adminarea": "Pennington",
+    "shortname": "pennington"
+  },
+  {
+    "adminarea": "Perkins",
+    "shortname": "perkins"
+  },
+  {
+    "adminarea": "Potter",
+    "shortname": "potter"
+  },
+  {
+    "adminarea": "Roberts",
+    "shortname": "roberts"
+  },
+  {
+    "adminarea": "Sanborn",
+    "shortname": "sanborn"
+  },
+  {
+    "adminarea": "Spink",
+    "shortname": "spink"
+  },
+  {
+    "adminarea": "Stanley",
+    "shortname": "stanley"
+  },
+  {
+    "adminarea": "Sully",
+    "shortname": "sully"
+  },
+  {
+    "adminarea": "Todd",
+    "shortname": "todd"
+  },
+  {
+    "adminarea": "Tripp",
+    "shortname": "tripp"
+  },
+  {
+    "adminarea": "Turner",
+    "shortname": "turner"
+  },
+  {
+    "adminarea": "Union",
+    "shortname": "union"
+  },
+  {
+    "adminarea": "Walworth",
+    "shortname": "walworth"
+  },
+  {
+    "adminarea": "Yankton",
+    "shortname": "yankton"
+  },
+  {
+    "adminarea": "Ziebach",
+    "shortname": "ziebach"
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "state": "TX",
+  "fips5": "48025",
+  "adminarea": "Bee",
+  "urlvbmdropboxes": "http://www.co.bee.tx.us/page/bee.ElectionAdministrator",
+  "urlearlyvoting": "http://www.co.bee.tx.us/upload/page/5259/docs/Elections/2020/November%20General/2020%20Nov%20EV%20Hours.pdf",
+  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "flagboxes": 0,
+  "areadatacode": 3,
+  "shortname": "bee"
+}

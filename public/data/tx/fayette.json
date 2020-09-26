@@ -1,0 +1,10 @@
+{
+  "state": "TX",
+  "fips5": "48149",
+  "adminarea": "Fayette",
+  "urlvbmdropboxes": "https://newtools.cira.state.tx.us/upload/page/1737/docs/Elections/2018/Voting%20by%20Mail.pdf",
+  "urlearlyvoting": "https://www.co.fayette.tx.us/upload/page/1737/2020%20Elections/early_voting_information_for_november_2.pdf",
+  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "flagboxes": 0,
+  "shortname": "fayette"
+}

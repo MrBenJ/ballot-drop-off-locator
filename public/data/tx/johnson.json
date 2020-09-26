@@ -1,0 +1,10 @@
+{
+  "state": "TX",
+  "fips5": "48251",
+  "adminarea": "Johnson",
+  "urlvbmdropboxes": "https://www.johnsoncountytx.org/departments/elections-office",
+  "urlearlyvoting": "https://www.johnsoncountytx.org/departments/elections-office/early-voting-locations",
+  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "flagboxes": 0,
+  "shortname": "johnson"
+}

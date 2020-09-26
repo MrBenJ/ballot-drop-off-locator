@@ -1,0 +1,11 @@
+{
+  "state": "TX",
+  "fips5": "48097",
+  "adminarea": "Cooke",
+  "urlvbmdropboxes": "https://www.co.cooke.tx.us/page/cooke.elections",
+  "urlearlyvoting": "https://newtools.cira.state.tx.us/upload/page/3107/docs/2020Nov3rdGeneralElectionPollingLocations.pdf",
+  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "flagboxes": 0,
+  "flagattn": 1,
+  "shortname": "cooke"
+}

@@ -1,0 +1,10 @@
+{
+  "state": "MT",
+  "fips5": "30075",
+  "adminarea": "Powder River",
+  "urlvbmdropboxes": "http://prco.mt.gov/ElectionInfo",
+  "urlearlyvoting": "https://sosmt.gov/elections/absentee/",
+  "urlstatelevelvbm": "https://sosmt.gov/elections/absentee/",
+  "flagboxes": 0,
+  "shortname": "powder-river"
+}

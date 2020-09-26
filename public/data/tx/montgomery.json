@@ -1,0 +1,10 @@
+{
+  "state": "TX",
+  "fips5": "48339",
+  "adminarea": "Montgomery",
+  "urlvbmdropboxes": "https://elections.mctx.org/",
+  "urlearlyvoting": "https://elections.mctx.org/evPolls.asp?ELID=69&curLang=English&ElectionId=GEN110320",
+  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "flagboxes": 0,
+  "shortname": "montgomery"
+}

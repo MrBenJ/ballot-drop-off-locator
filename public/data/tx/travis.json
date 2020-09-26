@@ -1,0 +1,10 @@
+{
+  "state": "TX",
+  "fips5": "48453",
+  "adminarea": "Travis",
+  "urlvbmdropboxes": "https://countyclerk.traviscountytx.gov/elections/ballot-by-mail.html",
+  "urlearlyvoting": "https://countyclerk.traviscountytx.gov/images/pdfs/polling_locations/11.03.20/early_voting_flyer.pdf",
+  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "flagboxes": 0,
+  "shortname": "travis"
+}

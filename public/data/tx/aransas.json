@@ -1,0 +1,11 @@
+{
+  "state": "TX",
+  "fips5": "48007",
+  "adminarea": "Aransas",
+  "urlvbmdropboxes": "https://www.aransascountytx.gov/electionadmin/voteelectinfo.php",
+  "urlearlyvoting": "https://www.aransascountytx.gov/electionadmin/e-docs/2020%20NOV%203%20VOTE%20SCHEDULE.pdf",
+  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "flagboxes": 0,
+  "areadatacode": 3,
+  "shortname": "aransas"
+}

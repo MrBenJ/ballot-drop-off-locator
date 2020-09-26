@@ -1,0 +1,10 @@
+{
+  "state": "TX",
+  "fips5": "48131",
+  "adminarea": "Duval",
+  "urlvbmdropboxes": "http://www.co.duval.tx.us/page/Elections",
+  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "flagboxes": 0,
+  "flagattn": 1,
+  "shortname": "duval"
+}

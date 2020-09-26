@@ -1,0 +1,10 @@
+{
+  "state": "NJ",
+  "fips5": "34003",
+  "adminarea": "Bergen",
+  "urlvbmdropboxes": "https://www.co.bergen.nj.us/county-officials/superintendant-of-elections",
+  "urlstatelevelvbm": "https://nj.gov/state/elections/vote.shtml",
+  "flagboxes": 1,
+  "flagattn": 1,
+  "shortname": "bergen"
+}

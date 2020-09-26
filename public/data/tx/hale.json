@@ -1,0 +1,11 @@
+{
+  "state": "TX",
+  "fips5": "48189",
+  "adminarea": "Hale",
+  "urlvbmdropboxes": "https://www.plainviewtx.org/87/Absentee-Ballots",
+  "urlearlyvoting": "https://www.plainviewtx.org/88/Polling-Locations",
+  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "flagboxes": 0,
+  "flagattn": 1,
+  "shortname": "hale"
+}

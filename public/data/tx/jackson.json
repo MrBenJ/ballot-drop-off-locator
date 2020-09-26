@@ -1,0 +1,10 @@
+{
+  "state": "TX",
+  "fips5": "48239",
+  "adminarea": "Jackson",
+  "urlvbmdropboxes": "http://www.co.jackson.tx.us/page/jackson.VotingElectionInformation",
+  "urlearlyvoting": "http://www.co.jackson.tx.us/upload/page/2405/docs/Voters/2019/Early%20Voting.pdf",
+  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "flagboxes": 0,
+  "shortname": "jackson"
+}

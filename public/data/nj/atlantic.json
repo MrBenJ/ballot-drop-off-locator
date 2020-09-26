@@ -1,0 +1,10 @@
+{
+  "state": "NJ",
+  "fips5": "34001",
+  "adminarea": "Atlantic",
+  "urlvbmdropboxes": "https://www.atlantic-county.org/elections/",
+  "urlstatelevelvbm": "https://nj.gov/state/elections/vote.shtml",
+  "flagboxes": 1,
+  "flagattn": 1,
+  "shortname": "atlantic"
+}

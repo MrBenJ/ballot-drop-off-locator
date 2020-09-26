@@ -1,0 +1,10 @@
+{
+  "state": "MT",
+  "fips5": "30025",
+  "adminarea": "Fallon",
+  "urlvbmdropboxes": "https://www.falloncounty.net/elections.html#gsc.tab=0",
+  "urlearlyvoting": "https://sosmt.gov/elections/absentee/",
+  "urlstatelevelvbm": "https://sosmt.gov/elections/absentee/",
+  "flagboxes": 0,
+  "shortname": "fallon"
+}

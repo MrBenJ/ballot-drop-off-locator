@@ -1,0 +1,11 @@
+{
+  "state": "TX",
+  "fips5": "48235",
+  "adminarea": "Irion",
+  "urlvbmdropboxes": "http://www.co.irion.tx.us/page/irion.Contact",
+  "urlearlyvoting": "https://www.votetexas.gov/voting/when.html#early-voting",
+  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "flagboxes": 0,
+  "flagattn": 1,
+  "shortname": "irion"
+}

@@ -1,0 +1,11 @@
+{
+  "state": "TX",
+  "fips5": "48043",
+  "adminarea": "Brewster",
+  "urlvbmdropboxes": "http://www.brewstercountytx.com/vote/",
+  "urlearlyvoting": "http://www.brewstercountytx.com/wp-content/uploads/2020/08/Order-of-General-Election.pdf",
+  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "flagboxes": 0,
+  "flagattn": 1,
+  "shortname": "brewster"
+}

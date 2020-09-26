@@ -1,0 +1,10 @@
+{
+  "state": "NJ",
+  "fips5": "34017",
+  "adminarea": "Hudson",
+  "urlvbmdropboxes": "https://www.hudsoncountyclerk.org/elections/vote-by-mail/",
+  "urlstatelevelvbm": "https://nj.gov/state/elections/vote.shtml",
+  "flagboxes": 1,
+  "flagattn": 1,
+  "shortname": "hudson"
+}

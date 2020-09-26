@@ -1,0 +1,10 @@
+{
+  "state": "TX",
+  "fips5": "48397",
+  "adminarea": "Rockwall",
+  "urlvbmdropboxes": "https://www.rockwallvotes.com/",
+  "urlearlyvoting": "https://www.rockwallvotes.com/wp-content/uploads/2020/08/Nov-2020-EV-Schedule.pdf",
+  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "flagboxes": 0,
+  "shortname": "rockwall"
+}

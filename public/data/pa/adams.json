@@ -1,0 +1,9 @@
+{
+  "state": "PA",
+  "fips5": "42001",
+  "adminarea": "Adams",
+  "urlvbmdropboxes": "http://www.adamscounty.us/Dept/ElectVoteReg/Pages/Act77.aspx",
+  "urlstatelevelvbm": "https://www.votespa.com/Voting-in-PA/Pages/Mail-and-Absentee-Ballot.aspx",
+  "flagboxes": 0,
+  "shortname": "adams"
+}

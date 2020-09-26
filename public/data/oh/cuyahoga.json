@@ -1,0 +1,9 @@
+{
+  "state": "OH",
+  "fips5": "39035",
+  "adminarea": "Cuyahoga",
+  "urlvbmdropboxes": "https://boe.cuyahogacounty.gov/en-us/BallotDropBox.aspx",
+  "urlstatelevelvbm": "https://www.ohiosos.gov/elections/voters/absentee-voting/#byMail",
+  "flagboxes": 1,
+  "shortname": "cuyahoga"
+}

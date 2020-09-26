@@ -1,0 +1,118 @@
+[
+  {
+    "adminarea": "Beaver",
+    "shortname": "beaver"
+  },
+  {
+    "adminarea": "Box Elder",
+    "shortname": "box-elder"
+  },
+  {
+    "adminarea": "Cache",
+    "shortname": "cache"
+  },
+  {
+    "adminarea": "Carbon",
+    "shortname": "carbon"
+  },
+  {
+    "adminarea": "Daggett",
+    "shortname": "daggett"
+  },
+  {
+    "adminarea": "Davis",
+    "shortname": "davis"
+  },
+  {
+    "adminarea": "Duchesne",
+    "shortname": "duchesne"
+  },
+  {
+    "adminarea": "Emery",
+    "shortname": "emery"
+  },
+  {
+    "adminarea": "Garfield",
+    "shortname": "garfield"
+  },
+  {
+    "adminarea": "Grand",
+    "shortname": "grand"
+  },
+  {
+    "adminarea": "Iron",
+    "shortname": "iron"
+  },
+  {
+    "adminarea": "Juab",
+    "shortname": "juab"
+  },
+  {
+    "adminarea": "Kane",
+    "shortname": "kane"
+  },
+  {
+    "adminarea": "Millard",
+    "shortname": "millard"
+  },
+  {
+    "adminarea": "Morgan",
+    "shortname": "morgan"
+  },
+  {
+    "adminarea": "Piute",
+    "shortname": "piute"
+  },
+  {
+    "adminarea": "Rich",
+    "shortname": "rich"
+  },
+  {
+    "adminarea": "Salt Lake",
+    "shortname": "salt-lake"
+  },
+  {
+    "adminarea": "San Juan",
+    "shortname": "san-juan"
+  },
+  {
+    "adminarea": "Sanpete",
+    "shortname": "sanpete"
+  },
+  {
+    "adminarea": "Sevier",
+    "shortname": "sevier"
+  },
+  {
+    "adminarea": "Summit",
+    "shortname": "summit"
+  },
+  {
+    "adminarea": "Tooele",
+    "shortname": "tooele"
+  },
+  {
+    "adminarea": "Uintah",
+    "shortname": "uintah"
+  },
+  {
+    "adminarea": "Utah",
+    "shortname": "utah"
+  },
+  {
+    "adminarea": "Wasatch",
+    "shortname": "wasatch"
+  },
+  {
+    "adminarea": "Washington",
+    "shortname": "washington"
+  },
+  {
+    "adminarea": "Wayne",
+    "shortname": "wayne"
+  },
+  {
+    "adminarea": "Weber",
+    "shortname": "weber"
+  }
+]

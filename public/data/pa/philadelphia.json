@@ -1,0 +1,9 @@
+{
+  "state": "PA",
+  "fips5": "42101",
+  "adminarea": "Philadelphia",
+  "urlvbmdropboxes": "https://www.philadelphiavotes.com/en/voters/mail-in-and-absentee-ballots",
+  "urlstatelevelvbm": "https://www.votespa.com/Voting-in-PA/Pages/Mail-and-Absentee-Ballot.aspx",
+  "flagboxes": 0,
+  "shortname": "philadelphia"
+}

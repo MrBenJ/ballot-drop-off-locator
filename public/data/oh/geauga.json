@@ -1,0 +1,9 @@
+{
+  "state": "OH",
+  "fips5": "39055",
+  "adminarea": "Geauga",
+  "urlvbmdropboxes": "https://boelections.geauga.oh.gov/",
+  "urlstatelevelvbm": "https://www.ohiosos.gov/elections/voters/absentee-voting/#byMail",
+  "flagboxes": 1,
+  "shortname": "geauga"
+}

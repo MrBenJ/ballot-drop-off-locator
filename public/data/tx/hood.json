@@ -1,0 +1,10 @@
+{
+  "state": "TX",
+  "fips5": "48221",
+  "adminarea": "Hood",
+  "urlvbmdropboxes": "https://www.co.hood.tx.us/894/Ballot-by-Mail",
+  "urlearlyvoting": "https://www.co.hood.tx.us/771/Early-Voting",
+  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "flagboxes": 0,
+  "shortname": "hood"
+}

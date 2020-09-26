@@ -1,0 +1,10 @@
+{
+  "state": "TX",
+  "fips5": "48101",
+  "adminarea": "Cottle",
+  "urlvbmdropboxes": "http://www.co.cottle.tx.us/page/cottle.Elections",
+  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "flagboxes": 0,
+  "flagattn": 1,
+  "shortname": "cottle"
+}

@@ -1,0 +1,10 @@
+{
+  "state": "TX",
+  "fips5": "48465",
+  "adminarea": "Val Verde",
+  "urlvbmdropboxes": "https://valverdecounty.texas.gov/270/Elections",
+  "urlearlyvoting": "https://valverdecounty.texas.gov/DocumentCenter/View/4048/2020-EARLY-VOTING-SCHEDULE",
+  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "flagboxes": 0,
+  "shortname": "val-verde"
+}

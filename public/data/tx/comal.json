@@ -1,0 +1,10 @@
+{
+  "state": "TX",
+  "fips5": "48091",
+  "adminarea": "Comal",
+  "urlvbmdropboxes": "https://www.co.comal.tx.us/Elections.htm",
+  "urlearlyvoting": "https://www.co.comal.tx.us/Vote/2020/11-03-2020/2020%20General%20Early%20Voting%20Locations.pdf",
+  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "flagboxes": 0,
+  "shortname": "comal"
+}

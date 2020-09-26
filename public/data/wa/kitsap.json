@@ -1,0 +1,9 @@
+{
+  "state": "WA",
+  "fips5": "53035",
+  "adminarea": "Kitsap",
+  "urlvbmdropboxes": "https://www.kitsapgov.com/auditor/Pages/kitsap-county-voting-locations.aspx",
+  "urlearlyvoting": "https://www.kitsapgov.com/auditor/Pages/elections.aspx",
+  "flagboxes": 1,
+  "shortname": "kitsap"
+}

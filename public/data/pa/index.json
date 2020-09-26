@@ -1,0 +1,270 @@
+[
+  {
+    "adminarea": "Adams",
+    "shortname": "adams"
+  },
+  {
+    "adminarea": "Allegheny",
+    "shortname": "allegheny"
+  },
+  {
+    "adminarea": "Armstrong",
+    "shortname": "armstrong"
+  },
+  {
+    "adminarea": "Beaver",
+    "shortname": "beaver"
+  },
+  {
+    "adminarea": "Bedford",
+    "shortname": "bedford"
+  },
+  {
+    "adminarea": "Berks",
+    "shortname": "berks"
+  },
+  {
+    "adminarea": "Blair",
+    "shortname": "blair"
+  },
+  {
+    "adminarea": "Bradford",
+    "shortname": "bradford"
+  },
+  {
+    "adminarea": "Bucks",
+    "shortname": "bucks"
+  },
+  {
+    "adminarea": "Butler",
+    "shortname": "butler"
+  },
+  {
+    "adminarea": "Cambria",
+    "shortname": "cambria"
+  },
+  {
+    "adminarea": "Cameron",
+    "shortname": "cameron"
+  },
+  {
+    "adminarea": "Carbon",
+    "shortname": "carbon"
+  },
+  {
+    "adminarea": "Centre",
+    "shortname": "centre"
+  },
+  {
+    "adminarea": "Chester",
+    "shortname": "chester"
+  },
+  {
+    "adminarea": "Clarion",
+    "shortname": "clarion"
+  },
+  {
+    "adminarea": "Clearfield",
+    "shortname": "clearfield"
+  },
+  {
+    "adminarea": "Clinton",
+    "shortname": "clinton"
+  },
+  {
+    "adminarea": "Columbia",
+    "shortname": "columbia"
+  },
+  {
+    "adminarea": "Crawford",
+    "shortname": "crawford"
+  },
+  {
+    "adminarea": "Cumberland",
+    "shortname": "cumberland"
+  },
+  {
+    "adminarea": "Dauphin",
+    "shortname": "dauphin"
+  },
+  {
+    "adminarea": "Delaware",
+    "shortname": "delaware"
+  },
+  {
+    "adminarea": "Elk",
+    "shortname": "elk"
+  },
+  {
+    "adminarea": "Erie",
+    "shortname": "erie"
+  },
+  {
+    "adminarea": "Fayette",
+    "shortname": "fayette"
+  },
+  {
+    "adminarea": "Forest",
+    "shortname": "forest"
+  },
+  {
+    "adminarea": "Franklin",
+    "shortname": "franklin"
+  },
+  {
+    "adminarea": "Fulton",
+    "shortname": "fulton"
+  },
+  {
+    "adminarea": "Greene",
+    "shortname": "greene"
+  },
+  {
+    "adminarea": "Huntingdon",
+    "shortname": "huntingdon"
+  },
+  {
+    "adminarea": "Indiana",
+    "shortname": "indiana"
+  },
+  {
+    "adminarea": "Jefferson",
+    "shortname": "jefferson"
+  },
+  {
+    "adminarea": "Juniata",
+    "shortname": "juniata"
+  },
+  {
+    "adminarea": "Lackawanna",
+    "shortname": "lackawanna"
+  },
+  {
+    "adminarea": "Lancaster",
+    "shortname": "lancaster"
+  },
+  {
+    "adminarea": "Lawrence",
+    "shortname": "lawrence"
+  },
+  {
+    "adminarea": "Lebanon",
+    "shortname": "lebanon"
+  },
+  {
+    "adminarea": "Lehigh",
+    "shortname": "lehigh"
+  },
+  {
+    "adminarea": "Luzerne",
+    "shortname": "luzerne"
+  },
+  {
+    "adminarea": "Lycoming",
+    "shortname": "lycoming"
+  },
+  {
+    "adminarea": "McKean",
+    "shortname": "mckean"
+  },
+  {
+    "adminarea": "Mercer",
+    "shortname": "mercer"
+  },
+  {
+    "adminarea": "Mifflin",
+    "shortname": "mifflin"
+  },
+  {
+    "adminarea": "Monroe",
+    "shortname": "monroe"
+  },
+  {
+    "adminarea": "Montgomery",
+    "shortname": "montgomery"
+  },
+  {
+    "adminarea": "Montour",
+    "shortname": "montour"
+  },
+  {
+    "adminarea": "Northampton",
+    "shortname": "northampton"
+  },
+  {
+    "adminarea": "Northumberland",
+    "shortname": "northumberland"
+  },
+  {
+    "adminarea": "Perry",
+    "shortname": "perry"
+  },
+  {
+    "adminarea": "Philadelphia",
+    "shortname": "philadelphia"
+  },
+  {
+    "adminarea": "Pike",
+    "shortname": "pike"
+  },
+  {
+    "adminarea": "Potter",
+    "shortname": "potter"
+  },
+  {
+    "adminarea": "Schuylkill",
+    "shortname": "schuylkill"
+  },
+  {
+    "adminarea": "Snyder",
+    "shortname": "snyder"
+  },
+  {
+    "adminarea": "Somerset",
+    "shortname": "somerset"
+  },
+  {
+    "adminarea": "Sullivan",
+    "shortname": "sullivan"
+  },
+  {
+    "adminarea": "Susquehanna",
+    "shortname": "susquehanna"
+  },
+  {
+    "adminarea": "Tioga",
+    "shortname": "tioga"
+  },
+  {
+    "adminarea": "Union",
+    "shortname": "union"
+  },
+  {
+    "adminarea": "Venango",
+    "shortname": "venango"
+  },
+  {
+    "adminarea": "Warren",
+    "shortname": "warren"
+  },
+  {
+    "adminarea": "Washington",
+    "shortname": "washington"
+  },
+  {
+    "adminarea": "Wayne",
+    "shortname": "wayne"
+  },
+  {
+    "adminarea": "Westmoreland",
+    "shortname": "westmoreland"
+  },
+  {
+    "adminarea": "Wyoming",
+    "shortname": "wyoming"
+  },
+  {
+    "adminarea": "York",
+    "shortname": "york"
+  }
+]

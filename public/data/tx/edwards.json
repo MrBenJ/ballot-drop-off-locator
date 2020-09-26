@@ -1,0 +1,11 @@
+{
+  "state": "TX",
+  "fips5": "48137",
+  "adminarea": "Edwards",
+  "urlvbmdropboxes": "http://www.co.edwards.tx.us/page/edwards.electionsnew",
+  "urlearlyvoting": "http://www.co.edwards.tx.us/upload/page/8518/Edwards%20County%20Polling%20Locations%202020.pdf",
+  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "flagboxes": 0,
+  "flagattn": 1,
+  "shortname": "edwards"
+}

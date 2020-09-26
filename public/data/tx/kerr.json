@@ -1,0 +1,10 @@
+{
+  "state": "TX",
+  "fips5": "48265",
+  "adminarea": "Kerr",
+  "urlvbmdropboxes": "https://www.co.kerr.tx.us/elections/",
+  "urlearlyvoting": "https://www.co.kerr.tx.us/elections/notices/2020/2020-11-03/Notice_of_EARLY_VOTING_DATES_TIMES-General.pdf",
+  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "flagboxes": 0,
+  "shortname": "kerr"
+}

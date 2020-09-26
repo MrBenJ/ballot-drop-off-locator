@@ -1,0 +1,9 @@
+{
+  "state": "PA",
+  "fips5": "42099",
+  "adminarea": "Perry",
+  "urlvbmdropboxes": "http://www.perryco.org/Dept/Elections/Pages/ElectionsandVoterRegistration.aspx",
+  "urlstatelevelvbm": "https://www.votespa.com/Voting-in-PA/Pages/Mail-and-Absentee-Ballot.aspx",
+  "flagboxes": 0,
+  "shortname": "perry"
+}

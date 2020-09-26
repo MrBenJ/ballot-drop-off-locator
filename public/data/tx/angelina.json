@@ -1,0 +1,12 @@
+{
+  "state": "TX",
+  "fips5": "48005",
+  "adminarea": "Angelina",
+  "urlvbmdropboxes": "https://www.angelinacounty.net/elections/",
+  "urlearlyvoting": "https://www.angelinacounty.net/elections/",
+  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "flagboxes": 0,
+  "areadatacode": 4,
+  "flagattn": 1,
+  "shortname": "angelina"
+}

@@ -1,0 +1,10 @@
+{
+  "state": "TX",
+  "fips5": "48039",
+  "adminarea": "Brazoria",
+  "urlvbmdropboxes": "https://www.brazoriacountyclerk.net/departments/elections/vote-by-mail",
+  "urlearlyvoting": "https://www.brazoriacountyclerk.net/departments/elections/polling-places-early-voting",
+  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "flagboxes": 0,
+  "shortname": "brazoria"
+}

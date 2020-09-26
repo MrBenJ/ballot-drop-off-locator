@@ -1,0 +1,10 @@
+{
+  "state": "MT",
+  "fips5": "30063",
+  "adminarea": "Missoula",
+  "urlvbmdropboxes": "https://www.missoulacounty.us/government/administration/elections-office/ballot-voting-information/absentee-voting",
+  "urlearlyvoting": "https://sosmt.gov/elections/absentee/",
+  "urlstatelevelvbm": "https://sosmt.gov/elections/absentee/",
+  "flagboxes": 0,
+  "shortname": "missoula"
+}

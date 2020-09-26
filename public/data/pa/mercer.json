@@ -1,0 +1,9 @@
+{
+  "state": "PA",
+  "fips5": "42085",
+  "adminarea": "Mercer",
+  "urlvbmdropboxes": "https://www.mcc.co.mercer.pa.us/Election/default.HTM",
+  "urlstatelevelvbm": "https://www.votespa.com/Voting-in-PA/Pages/Mail-and-Absentee-Ballot.aspx",
+  "flagboxes": 0,
+  "shortname": "mercer"
+}

@@ -1,0 +1,9 @@
+{
+  "state": "PA",
+  "fips5": "42115",
+  "adminarea": "Susquehanna",
+  "urlvbmdropboxes": "http://www.susqco.com/Dept/Voter/Pages/default.aspx",
+  "urlstatelevelvbm": "https://www.votespa.com/Voting-in-PA/Pages/Mail-and-Absentee-Ballot.aspx",
+  "flagboxes": 0,
+  "shortname": "susquehanna"
+}

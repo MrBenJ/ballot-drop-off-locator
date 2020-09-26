@@ -1,0 +1,9 @@
+{
+  "state": "OH",
+  "fips5": "39051",
+  "adminarea": "Fulton",
+  "urlvbmdropboxes": "https://www.boe.ohio.gov/fulton",
+  "urlstatelevelvbm": "https://www.ohiosos.gov/elections/voters/absentee-voting/#byMail",
+  "flagboxes": 1,
+  "shortname": "fulton"
+}

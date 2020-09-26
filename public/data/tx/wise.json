@@ -1,0 +1,10 @@
+{
+  "state": "TX",
+  "fips5": "48497",
+  "adminarea": "Wise",
+  "urlvbmdropboxes": "https://www.co.wise.tx.us/315/Elections",
+  "urlearlyvoting": "https://www.co.wise.tx.us/DocumentCenter/View/2363/Early-Voting-Locations",
+  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "flagboxes": 0,
+  "shortname": "wise"
+}

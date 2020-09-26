@@ -1,0 +1,10 @@
+{
+  "state": "TX",
+  "fips5": "48111",
+  "adminarea": "Dallam",
+  "urlvbmdropboxes": "http://www.dallam.org/vote/",
+  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "flagboxes": 0,
+  "flagattn": 1,
+  "shortname": "dallam"
+}

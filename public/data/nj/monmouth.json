@@ -1,0 +1,10 @@
+{
+  "state": "NJ",
+  "fips5": "34025",
+  "adminarea": "Monmouth",
+  "urlvbmdropboxes": "https://www.monmouthcountyvotes.com/elections/general-election/",
+  "urlstatelevelvbm": "https://nj.gov/state/elections/vote.shtml",
+  "flagboxes": 1,
+  "flagattn": 1,
+  "shortname": "monmouth"
+}

@@ -1,0 +1,10 @@
+{
+  "state": "TX",
+  "fips5": "48053",
+  "adminarea": "Burnet",
+  "urlvbmdropboxes": "http://www.burnetcountytexas.org/page/elect.home",
+  "urlearlyvoting": "http://www.burnetcountytexas.org/upload/page/0144/docs/Change%20of%20voting%20location%20EV%20pct2.pdf",
+  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "flagboxes": 0,
+  "shortname": "burnet"
+}

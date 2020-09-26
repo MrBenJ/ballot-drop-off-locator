@@ -1,0 +1,158 @@
+[
+  {
+    "adminarea": "Adams",
+    "shortname": "adams"
+  },
+  {
+    "adminarea": "Asotin",
+    "shortname": "asotin"
+  },
+  {
+    "adminarea": "Benton",
+    "shortname": "benton"
+  },
+  {
+    "adminarea": "Chelan",
+    "shortname": "chelan"
+  },
+  {
+    "adminarea": "Clallam",
+    "shortname": "clallam"
+  },
+  {
+    "adminarea": "Clark",
+    "shortname": "clark"
+  },
+  {
+    "adminarea": "Columbia",
+    "shortname": "columbia"
+  },
+  {
+    "adminarea": "Cowlitz",
+    "shortname": "cowlitz"
+  },
+  {
+    "adminarea": "Douglas",
+    "shortname": "douglas"
+  },
+  {
+    "adminarea": "Ferry",
+    "shortname": "ferry"
+  },
+  {
+    "adminarea": "Franklin",
+    "shortname": "franklin"
+  },
+  {
+    "adminarea": "Garfield",
+    "shortname": "garfield"
+  },
+  {
+    "adminarea": "Grant",
+    "shortname": "grant"
+  },
+  {
+    "adminarea": "Grays Harbor",
+    "shortname": "grays-harbor"
+  },
+  {
+    "adminarea": "Island",
+    "shortname": "island"
+  },
+  {
+    "adminarea": "Jefferson",
+    "shortname": "jefferson"
+  },
+  {
+    "adminarea": "King",
+    "shortname": "king"
+  },
+  {
+    "adminarea": "Kitsap",
+    "shortname": "kitsap"
+  },
+  {
+    "adminarea": "Kittitas",
+    "shortname": "kittitas"
+  },
+  {
+    "adminarea": "Klickitat",
+    "shortname": "klickitat"
+  },
+  {
+    "adminarea": "Lewis",
+    "shortname": "lewis"
+  },
+  {
+    "adminarea": "Lincoln",
+    "shortname": "lincoln"
+  },
+  {
+    "adminarea": "Mason",
+    "shortname": "mason"
+  },
+  {
+    "adminarea": "Okanogan",
+    "shortname": "okanogan"
+  },
+  {
+    "adminarea": "Pacific",
+    "shortname": "pacific"
+  },
+  {
+    "adminarea": "Pend Oreille",
+    "shortname": "pend-oreille"
+  },
+  {
+    "adminarea": "Pierce",
+    "shortname": "pierce"
+  },
+  {
+    "adminarea": "San Juan",
+    "shortname": "san-juan"
+  },
+  {
+    "adminarea": "Skagit",
+    "shortname": "skagit"
+  },
+  {
+    "adminarea": "Skamania",
+    "shortname": "skamania"
+  },
+  {
+    "adminarea": "Snohomish",
+    "shortname": "snohomish"
+  },
+  {
+    "adminarea": "Spokane",
+    "shortname": "spokane"
+  },
+  {
+    "adminarea": "Stevens",
+    "shortname": "stevens"
+  },
+  {
+    "adminarea": "Thurston",
+    "shortname": "thurston"
+  },
+  {
+    "adminarea": "Wahkiakum",
+    "shortname": "wahkiakum"
+  },
+  {
+    "adminarea": "Walla Walla",
+    "shortname": "walla-walla"
+  },
+  {
+    "adminarea": "Whatcom",
+    "shortname": "whatcom"
+  },
+  {
+    "adminarea": "Whitman",
+    "shortname": "whitman"
+  },
+  {
+    "adminarea": "Yakima",
+    "shortname": "yakima"
+  }
+]

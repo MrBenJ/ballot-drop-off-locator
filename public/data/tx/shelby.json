@@ -1,0 +1,11 @@
+{
+  "state": "TX",
+  "fips5": "48419",
+  "adminarea": "Shelby",
+  "urlvbmdropboxes": "http://www.co.shelby.tx.us/page/shelby.Elections",
+  "urlearlyvoting": "http://www.co.shelby.tx.us/upload/page/2753/docs/Order%20Of%20General%20Election.pdf",
+  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "flagboxes": 0,
+  "flagattn": 1,
+  "shortname": "shelby"
+}

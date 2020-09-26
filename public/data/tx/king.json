@@ -1,0 +1,10 @@
+{
+  "state": "TX",
+  "fips5": "48269",
+  "adminarea": "King",
+  "urlvbmdropboxes": "https://www.sos.state.tx.us/elections/voter/county.shtml#K",
+  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "flagboxes": 0,
+  "flagattn": 1,
+  "shortname": "king"
+}

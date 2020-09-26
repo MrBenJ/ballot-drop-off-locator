@@ -1,0 +1,1018 @@
+[
+  {
+    "adminarea": "Anderson",
+    "shortname": "anderson"
+  },
+  {
+    "adminarea": "Andrews",
+    "shortname": "andrews"
+  },
+  {
+    "adminarea": "Angelina",
+    "shortname": "angelina"
+  },
+  {
+    "adminarea": "Aransas",
+    "shortname": "aransas"
+  },
+  {
+    "adminarea": "Archer",
+    "shortname": "archer"
+  },
+  {
+    "adminarea": "Armstrong",
+    "shortname": "armstrong"
+  },
+  {
+    "adminarea": "Atascosa",
+    "shortname": "atascosa"
+  },
+  {
+    "adminarea": "Austin",
+    "shortname": "austin"
+  },
+  {
+    "adminarea": "Bailey",
+    "shortname": "bailey"
+  },
+  {
+    "adminarea": "Bandera",
+    "shortname": "bandera"
+  },
+  {
+    "adminarea": "Bastrop",
+    "shortname": "bastrop"
+  },
+  {
+    "adminarea": "Baylor",
+    "shortname": "baylor"
+  },
+  {
+    "adminarea": "Bee",
+    "shortname": "bee"
+  },
+  {
+    "adminarea": "Bell",
+    "shortname": "bell"
+  },
+  {
+    "adminarea": "Bexar",
+    "shortname": "bexar"
+  },
+  {
+    "adminarea": "Blanco",
+    "shortname": "blanco"
+  },
+  {
+    "adminarea": "Borden",
+    "shortname": "borden"
+  },
+  {
+    "adminarea": "Bosque",
+    "shortname": "bosque"
+  },
+  {
+    "adminarea": "Bowie",
+    "shortname": "bowie"
+  },
+  {
+    "adminarea": "Brazoria",
+    "shortname": "brazoria"
+  },
+  {
+    "adminarea": "Brazos",
+    "shortname": "brazos"
+  },
+  {
+    "adminarea": "Brewster",
+    "shortname": "brewster"
+  },
+  {
+    "adminarea": "Briscoe",
+    "shortname": "briscoe"
+  },
+  {
+    "adminarea": "Brooks",
+    "shortname": "brooks"
+  },
+  {
+    "adminarea": "Brown",
+    "shortname": "brown"
+  },
+  {
+    "adminarea": "Burleson",
+    "shortname": "burleson"
+  },
+  {
+    "adminarea": "Burnet",
+    "shortname": "burnet"
+  },
+  {
+    "adminarea": "Caldwell",
+    "shortname": "caldwell"
+  },
+  {
+    "adminarea": "Calhoun",
+    "shortname": "calhoun"
+  },
+  {
+    "adminarea": "Callahan",
+    "shortname": "callahan"
+  },
+  {
+    "adminarea": "Cameron",
+    "shortname": "cameron"
+  },
+  {
+    "adminarea": "Camp",
+    "shortname": "camp"
+  },
+  {
+    "adminarea": "Carson",
+    "shortname": "carson"
+  },
+  {
+    "adminarea": "Cass",
+    "shortname": "cass"
+  },
+  {
+    "adminarea": "Castro",
+    "shortname": "castro"
+  },
+  {
+    "adminarea": "Chambers",
+    "shortname": "chambers"
+  },
+  {
+    "adminarea": "Cherokee",
+    "shortname": "cherokee"
+  },
+  {
+    "adminarea": "Childress",
+    "shortname": "childress"
+  },
+  {
+    "adminarea": "Clay",
+    "shortname": "clay"
+  },
+  {
+    "adminarea": "Cochran",
+    "shortname": "cochran"
+  },
+  {
+    "adminarea": "Coke",
+    "shortname": "coke"
+  },
+  {
+    "adminarea": "Coleman",
+    "shortname": "coleman"
+  },
+  {
+    "adminarea": "Collin",
+    "shortname": "collin"
+  },
+  {
+    "adminarea": "Collingsworth",
+    "shortname": "collingsworth"
+  },
+  {
+    "adminarea": "Colorado",
+    "shortname": "colorado"
+  },
+  {
+    "adminarea": "Comal",
+    "shortname": "comal"
+  },
+  {
+    "adminarea": "Comanche",
+    "shortname": "comanche"
+  },
+  {
+    "adminarea": "Concho",
+    "shortname": "concho"
+  },
+  {
+    "adminarea": "Cooke",
+    "shortname": "cooke"
+  },
+  {
+    "adminarea": "Coryell",
+    "shortname": "coryell"
+  },
+  {
+    "adminarea": "Cottle",
+    "shortname": "cottle"
+  },
+  {
+    "adminarea": "Crane",
+    "shortname": "crane"
+  },
+  {
+    "adminarea": "Crockett",
+    "shortname": "crockett"
+  },
+  {
+    "adminarea": "Crosby",
+    "shortname": "crosby"
+  },
+  {
+    "adminarea": "Culberson",
+    "shortname": "culberson"
+  },
+  {
+    "adminarea": "Dallam",
+    "shortname": "dallam"
+  },
+  {
+    "adminarea": "Dallas",
+    "shortname": "dallas"
+  },
+  {
+    "adminarea": "Dawson",
+    "shortname": "dawson"
+  },
+  {
+    "adminarea": "Deaf Smith",
+    "shortname": "deaf-smith"
+  },
+  {
+    "adminarea": "Delta",
+    "shortname": "delta"
+  },
+  {
+    "adminarea": "Denton",
+    "shortname": "denton"
+  },
+  {
+    "adminarea": "DeWitt",
+    "shortname": "dewitt"
+  },
+  {
+    "adminarea": "Dickens",
+    "shortname": "dickens"
+  },
+  {
+    "adminarea": "Dimmit",
+    "shortname": "dimmit"
+  },
+  {
+    "adminarea": "Donley",
+    "shortname": "donley"
+  },
+  {
+    "adminarea": "Duval",
+    "shortname": "duval"
+  },
+  {
+    "adminarea": "Eastland",
+    "shortname": "eastland"
+  },
+  {
+    "adminarea": "Ector",
+    "shortname": "ector"
+  },
+  {
+    "adminarea": "Edwards",
+    "shortname": "edwards"
+  },
+  {
+    "adminarea": "Ellis",
+    "shortname": "ellis"
+  },
+  {
+    "adminarea": "El Paso",
+    "shortname": "el-paso"
+  },
+  {
+    "adminarea": "Erath",
+    "shortname": "erath"
+  },
+  {
+    "adminarea": "Falls",
+    "shortname": "falls"
+  },
+  {
+    "adminarea": "Fannin",
+    "shortname": "fannin"
+  },
+  {
+    "adminarea": "Fayette",
+    "shortname": "fayette"
+  },
+  {
+    "adminarea": "Fisher",
+    "shortname": "fisher"
+  },
+  {
+    "adminarea": "Floyd",
+    "shortname": "floyd"
+  },
+  {
+    "adminarea": "Foard",
+    "shortname": "foard"
+  },
+  {
+    "adminarea": "Fort Bend",
+    "shortname": "fort-bend"
+  },
+  {
+    "adminarea": "Franklin",
+    "shortname": "franklin"
+  },
+  {
+    "adminarea": "Freestone",
+    "shortname": "freestone"
+  },
+  {
+    "adminarea": "Frio",
+    "shortname": "frio"
+  },
+  {
+    "adminarea": "Gaines",
+    "shortname": "gaines"
+  },
+  {
+    "adminarea": "Galveston",
+    "shortname": "galveston"
+  },
+  {
+    "adminarea": "Garza",
+    "shortname": "garza"
+  },
+  {
+    "adminarea": "Gillespie",
+    "shortname": "gillespie"
+  },
+  {
+    "adminarea": "Glasscock",
+    "shortname": "glasscock"
+  },
+  {
+    "adminarea": "Goliad",
+    "shortname": "goliad"
+  },
+  {
+    "adminarea": "Gonzales",
+    "shortname": "gonzales"
+  },
+  {
+    "adminarea": "Gray",
+    "shortname": "gray"
+  },
+  {
+    "adminarea": "Grayson",
+    "shortname": "grayson"
+  },
+  {
+    "adminarea": "Gregg",
+    "shortname": "gregg"
+  },
+  {
+    "adminarea": "Grimes",
+    "shortname": "grimes"
+  },
+  {
+    "adminarea": "Guadalupe",
+    "shortname": "guadalupe"
+  },
+  {
+    "adminarea": "Hale",
+    "shortname": "hale"
+  },
+  {
+    "adminarea": "Hall",
+    "shortname": "hall"
+  },
+  {
+    "adminarea": "Hamilton",
+    "shortname": "hamilton"
+  },
+  {
+    "adminarea": "Hansford",
+    "shortname": "hansford"
+  },
+  {
+    "adminarea": "Hardeman",
+    "shortname": "hardeman"
+  },
+  {
+    "adminarea": "Hardin",
+    "shortname": "hardin"
+  },
+  {
+    "adminarea": "Harris",
+    "shortname": "harris"
+  },
+  {
+    "adminarea": "Harrison",
+    "shortname": "harrison"
+  },
+  {
+    "adminarea": "Hartley",
+    "shortname": "hartley"
+  },
+  {
+    "adminarea": "Haskell",
+    "shortname": "haskell"
+  },
+  {
+    "adminarea": "Hays",
+    "shortname": "hays"
+  },
+  {
+    "adminarea": "Hemphill",
+    "shortname": "hemphill"
+  },
+  {
+    "adminarea": "Henderson",
+    "shortname": "henderson"
+  },
+  {
+    "adminarea": "Hidalgo",
+    "shortname": "hidalgo"
+  },
+  {
+    "adminarea": "Hill",
+    "shortname": "hill"
+  },
+  {
+    "adminarea": "Hockley",
+    "shortname": "hockley"
+  },
+  {
+    "adminarea": "Hood",
+    "shortname": "hood"
+  },
+  {
+    "adminarea": "Hopkins",
+    "shortname": "hopkins"
+  },
+  {
+    "adminarea": "Houston",
+    "shortname": "houston"
+  },
+  {
+    "adminarea": "Howard",
+    "shortname": "howard"
+  },
+  {
+    "adminarea": "Hudspeth",
+    "shortname": "hudspeth"
+  },
+  {
+    "adminarea": "Hunt",
+    "shortname": "hunt"
+  },
+  {
+    "adminarea": "Hutchinson",
+    "shortname": "hutchinson"
+  },
+  {
+    "adminarea": "Irion",
+    "shortname": "irion"
+  },
+  {
+    "adminarea": "Jack",
+    "shortname": "jack"
+  },
+  {
+    "adminarea": "Jackson",
+    "shortname": "jackson"
+  },
+  {
+    "adminarea": "Jasper",
+    "shortname": "jasper"
+  },
+  {
+    "adminarea": "Jeff Davis",
+    "shortname": "jeff-davis"
+  },
+  {
+    "adminarea": "Jefferson",
+    "shortname": "jefferson"
+  },
+  {
+    "adminarea": "Jim Hogg",
+    "shortname": "jim-hogg"
+  },
+  {
+    "adminarea": "Jim Wells",
+    "shortname": "jim-wells"
+  },
+  {
+    "adminarea": "Johnson",
+    "shortname": "johnson"
+  },
+  {
+    "adminarea": "Jones",
+    "shortname": "jones"
+  },
+  {
+    "adminarea": "Karnes",
+    "shortname": "karnes"
+  },
+  {
+    "adminarea": "Kaufman",
+    "shortname": "kaufman"
+  },
+  {
+    "adminarea": "Kendall",
+    "shortname": "kendall"
+  },
+  {
+    "adminarea": "Kenedy",
+    "shortname": "kenedy"
+  },
+  {
+    "adminarea": "Kent",
+    "shortname": "kent"
+  },
+  {
+    "adminarea": "Kerr",
+    "shortname": "kerr"
+  },
+  {
+    "adminarea": "Kimble",
+    "shortname": "kimble"
+  },
+  {
+    "adminarea": "King",
+    "shortname": "king"
+  },
+  {
+    "adminarea": "Kinney",
+    "shortname": "kinney"
+  },
+  {
+    "adminarea": "Kleberg",
+    "shortname": "kleberg"
+  },
+  {
+    "adminarea": "Knox",
+    "shortname": "knox"
+  },
+  {
+    "adminarea": "Lamar",
+    "shortname": "lamar"
+  },
+  {
+    "adminarea": "Lamb",
+    "shortname": "lamb"
+  },
+  {
+    "adminarea": "Lampasas",
+    "shortname": "lampasas"
+  },
+  {
+    "adminarea": "La Salle",
+    "shortname": "la-salle"
+  },
+  {
+    "adminarea": "Lavaca",
+    "shortname": "lavaca"
+  },
+  {
+    "adminarea": "Lee",
+    "shortname": "lee"
+  },
+  {
+    "adminarea": "Leon",
+    "shortname": "leon"
+  },
+  {
+    "adminarea": "Liberty",
+    "shortname": "liberty"
+  },
+  {
+    "adminarea": "Limestone",
+    "shortname": "limestone"
+  },
+  {
+    "adminarea": "Lipscomb",
+    "shortname": "lipscomb"
+  },
+  {
+    "adminarea": "Live Oak",
+    "shortname": "live-oak"
+  },
+  {
+    "adminarea": "Llano",
+    "shortname": "llano"
+  },
+  {
+    "adminarea": "Loving",
+    "shortname": "loving"
+  },
+  {
+    "adminarea": "Lubbock",
+    "shortname": "lubbock"
+  },
+  {
+    "adminarea": "Lynn",
+    "shortname": "lynn"
+  },
+  {
+    "adminarea": "McCulloch",
+    "shortname": "mcculloch"
+  },
+  {
+    "adminarea": "McLennan",
+    "shortname": "mclennan"
+  },
+  {
+    "adminarea": "McMullen",
+    "shortname": "mcmullen"
+  },
+  {
+    "adminarea": "Madison",
+    "shortname": "madison"
+  },
+  {
+    "adminarea": "Marion",
+    "shortname": "marion"
+  },
+  {
+    "adminarea": "Martin",
+    "shortname": "martin"
+  },
+  {
+    "adminarea": "Mason",
+    "shortname": "mason"
+  },
+  {
+    "adminarea": "Matagorda",
+    "shortname": "matagorda"
+  },
+  {
+    "adminarea": "Maverick",
+    "shortname": "maverick"
+  },
+  {
+    "adminarea": "Medina",
+    "shortname": "medina"
+  },
+  {
+    "adminarea": "Menard",
+    "shortname": "menard"
+  },
+  {
+    "adminarea": "Midland",
+    "shortname": "midland"
+  },
+  {
+    "adminarea": "Milam",
+    "shortname": "milam"
+  },
+  {
+    "adminarea": "Mills",
+    "shortname": "mills"
+  },
+  {
+    "adminarea": "Mitchell",
+    "shortname": "mitchell"
+  },
+  {
+    "adminarea": "Montague",
+    "shortname": "montague"
+  },
+  {
+    "adminarea": "Montgomery",
+    "shortname": "montgomery"
+  },
+  {
+    "adminarea": "Moore",
+    "shortname": "moore"
+  },
+  {
+    "adminarea": "Morris",
+    "shortname": "morris"
+  },
+  {
+    "adminarea": "Motley",
+    "shortname": "motley"
+  },
+  {
+    "adminarea": "Nacogdoches",
+    "shortname": "nacogdoches"
+  },
+  {
+    "adminarea": "Navarro",
+    "shortname": "navarro"
+  },
+  {
+    "adminarea": "Newton",
+    "shortname": "newton"
+  },
+  {
+    "adminarea": "Nolan",
+    "shortname": "nolan"
+  },
+  {
+    "adminarea": "Nueces",
+    "shortname": "nueces"
+  },
+  {
+    "adminarea": "Ochiltree",
+    "shortname": "ochiltree"
+  },
+  {
+    "adminarea": "Oldham",
+    "shortname": "oldham"
+  },
+  {
+    "adminarea": "Orange",
+    "shortname": "orange"
+  },
+  {
+    "adminarea": "Palo Pinto",
+    "shortname": "palo-pinto"
+  },
+  {
+    "adminarea": "Panola",
+    "shortname": "panola"
+  },
+  {
+    "adminarea": "Parker",
+    "shortname": "parker"
+  },
+  {
+    "adminarea": "Parmer",
+    "shortname": "parmer"
+  },
+  {
+    "adminarea": "Pecos",
+    "shortname": "pecos"
+  },
+  {
+    "adminarea": "Polk",
+    "shortname": "polk"
+  },
+  {
+    "adminarea": "Potter",
+    "shortname": "potter"
+  },
+  {
+    "adminarea": "Presidio",
+    "shortname": "presidio"
+  },
+  {
+    "adminarea": "Rains",
+    "shortname": "rains"
+  },
+  {
+    "adminarea": "Randall",
+    "shortname": "randall"
+  },
+  {
+    "adminarea": "Reagan",
+    "shortname": "reagan"
+  },
+  {
+    "adminarea": "Real",
+    "shortname": "real"
+  },
+  {
+    "adminarea": "Red River",
+    "shortname": "red-river"
+  },
+  {
+    "adminarea": "Reeves",
+    "shortname": "reeves"
+  },
+  {
+    "adminarea": "Refugio",
+    "shortname": "refugio"
+  },
+  {
+    "adminarea": "Roberts",
+    "shortname": "roberts"
+  },
+  {
+    "adminarea": "Robertson",
+    "shortname": "robertson"
+  },
+  {
+    "adminarea": "Rockwall",
+    "shortname": "rockwall"
+  },
+  {
+    "adminarea": "Runnels",
+    "shortname": "runnels"
+  },
+  {
+    "adminarea": "Rusk",
+    "shortname": "rusk"
+  },
+  {
+    "adminarea": "Sabine",
+    "shortname": "sabine"
+  },
+  {
+    "adminarea": "San Augustine",
+    "shortname": "san-augustine"
+  },
+  {
+    "adminarea": "San Jacinto",
+    "shortname": "san-jacinto"
+  },
+  {
+    "adminarea": "San Patricio",
+    "shortname": "san-patricio"
+  },
+  {
+    "adminarea": "San Saba",
+    "shortname": "san-saba"
+  },
+  {
+    "adminarea": "Schleicher",
+    "shortname": "schleicher"
+  },
+  {
+    "adminarea": "Scurry",
+    "shortname": "scurry"
+  },
+  {
+    "adminarea": "Shackelford",
+    "shortname": "shackelford"
+  },
+  {
+    "adminarea": "Shelby",
+    "shortname": "shelby"
+  },
+  {
+    "adminarea": "Sherman",
+    "shortname": "sherman"
+  },
+  {
+    "adminarea": "Smith",
+    "shortname": "smith"
+  },
+  {
+    "adminarea": "Somervell",
+    "shortname": "somervell"
+  },
+  {
+    "adminarea": "Starr",
+    "shortname": "starr"
+  },
+  {
+    "adminarea": "Stephens",
+    "shortname": "stephens"
+  },
+  {
+    "adminarea": "Sterling",
+    "shortname": "sterling"
+  },
+  {
+    "adminarea": "Stonewall",
+    "shortname": "stonewall"
+  },
+  {
+    "adminarea": "Sutton",
+    "shortname": "sutton"
+  },
+  {
+    "adminarea": "Swisher",
+    "shortname": "swisher"
+  },
+  {
+    "adminarea": "Tarrant",
+    "shortname": "tarrant"
+  },
+  {
+    "adminarea": "Taylor",
+    "shortname": "taylor"
+  },
+  {
+    "adminarea": "Terrell",
+    "shortname": "terrell"
+  },
+  {
+    "adminarea": "Terry",
+    "shortname": "terry"
+  },
+  {
+    "adminarea": "Throckmorton",
+    "shortname": "throckmorton"
+  },
+  {
+    "adminarea": "Titus",
+    "shortname": "titus"
+  },
+  {
+    "adminarea": "Tom Green",
+    "shortname": "tom-green"
+  },
+  {
+    "adminarea": "Travis",
+    "shortname": "travis"
+  },
+  {
+    "adminarea": "Trinity",
+    "shortname": "trinity"
+  },
+  {
+    "adminarea": "Tyler",
+    "shortname": "tyler"
+  },
+  {
+    "adminarea": "Upshur",
+    "shortname": "upshur"
+  },
+  {
+    "adminarea": "Upton",
+    "shortname": "upton"
+  },
+  {
+    "adminarea": "Uvalde",
+    "shortname": "uvalde"
+  },
+  {
+    "adminarea": "Val Verde",
+    "shortname": "val-verde"
+  },
+  {
+    "adminarea": "Van Zandt",
+    "shortname": "van-zandt"
+  },
+  {
+    "adminarea": "Victoria",
+    "shortname": "victoria"
+  },
+  {
+    "adminarea": "Walker",
+    "shortname": "walker"
+  },
+  {
+    "adminarea": "Waller",
+    "shortname": "waller"
+  },
+  {
+    "adminarea": "Ward",
+    "shortname": "ward"
+  },
+  {
+    "adminarea": "Washington",
+    "shortname": "washington"
+  },
+  {
+    "adminarea": "Webb",
+    "shortname": "webb"
+  },
+  {
+    "adminarea": "Wharton",
+    "shortname": "wharton"
+  },
+  {
+    "adminarea": "Wheeler",
+    "shortname": "wheeler"
+  },
+  {
+    "adminarea": "Wichita",
+    "shortname": "wichita"
+  },
+  {
+    "adminarea": "Wilbarger",
+    "shortname": "wilbarger"
+  },
+  {
+    "adminarea": "Willacy",
+    "shortname": "willacy"
+  },
+  {
+    "adminarea": "Williamson",
+    "shortname": "williamson"
+  },
+  {
+    "adminarea": "Wilson",
+    "shortname": "wilson"
+  },
+  {
+    "adminarea": "Winkler",
+    "shortname": "winkler"
+  },
+  {
+    "adminarea": "Wise",
+    "shortname": "wise"
+  },
+  {
+    "adminarea": "Wood",
+    "shortname": "wood"
+  },
+  {
+    "adminarea": "Yoakum",
+    "shortname": "yoakum"
+  },
+  {
+    "adminarea": "Young",
+    "shortname": "young"
+  },
+  {
+    "adminarea": "Zapata",
+    "shortname": "zapata"
+  },
+  {
+    "adminarea": "Zavala",
+    "shortname": "zavala"
+  }
+]

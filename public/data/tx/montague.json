@@ -1,0 +1,11 @@
+{
+  "state": "TX",
+  "fips5": "48337",
+  "adminarea": "Montague",
+  "urlvbmdropboxes": "http://www.co.montague.tx.us/page/montague.FormsInfo",
+  "urlearlyvoting": "http://www.co.montague.tx.us/page/montague.PollingTimes",
+  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "flagboxes": 0,
+  "flagattn": 1,
+  "shortname": "montague"
+}

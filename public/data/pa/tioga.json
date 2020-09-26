@@ -1,0 +1,9 @@
+{
+  "state": "PA",
+  "fips5": "42117",
+  "adminarea": "Tioga",
+  "urlvbmdropboxes": "http://www.tiogacountypa.us/Departments/Elections_Voter_Registration/Pages/ElectionsVoterRegistration.aspx",
+  "urlstatelevelvbm": "https://www.votespa.com/Voting-in-PA/Pages/Mail-and-Absentee-Ballot.aspx",
+  "flagboxes": 0,
+  "shortname": "tioga"
+}

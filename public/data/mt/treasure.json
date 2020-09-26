@@ -1,0 +1,11 @@
+{
+  "state": "MT",
+  "fips5": "30103",
+  "adminarea": "Treasure",
+  "urlvbmdropboxes": "https://sosmt.gov/Portals/142/Elections/Forms/electionadministrators.pdf",
+  "urlearlyvoting": "https://sosmt.gov/elections/absentee/",
+  "urlstatelevelvbm": "https://sosmt.gov/elections/absentee/",
+  "flagboxes": 0,
+  "flagattn": 1,
+  "shortname": "treasure"
+}

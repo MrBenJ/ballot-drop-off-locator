@@ -1,0 +1,10 @@
+{
+  "state": "TX",
+  "fips5": "48193",
+  "adminarea": "Hamilton",
+  "urlvbmdropboxes": "http://www.co.hamilton.tx.us/page/hamilton.elections",
+  "urlearlyvoting": "http://www.co.hamilton.tx.us/upload/page/8825/Voting%20Locations%202020.pdf",
+  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "flagboxes": 0,
+  "shortname": "hamilton"
+}

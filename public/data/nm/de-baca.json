@@ -1,0 +1,11 @@
+{
+  "state": "NM",
+  "fips5": "35011",
+  "adminarea": "De Baca",
+  "urlvbmdropboxes": "https://www.sos.state.nm.us/voting-and-elections/voter-information-portal/county-clerk-information/",
+  "urlearlyvoting": "https://www.sos.state.nm.us/voting-and-elections/voter-information-portal/county-clerk-information/",
+  "urlstatelevelvbm": "https://www.sos.state.nm.us/voting-and-elections/voting-faqs/absentee-voting-by-mail/",
+  "flagboxes": 0,
+  "flagattn": 1,
+  "shortname": "de-baca"
+}

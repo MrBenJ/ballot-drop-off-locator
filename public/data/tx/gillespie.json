@@ -1,0 +1,10 @@
+{
+  "state": "TX",
+  "fips5": "48171",
+  "adminarea": "Gillespie",
+  "urlvbmdropboxes": "https://www.gillespiecounty.org/page/election_info",
+  "urlearlyvoting": "https://www.gillespiecounty.org/upload/page/0051/docs/elections/11-3-20%20EV%20Schedule%2020200903web.pdf",
+  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "flagboxes": 0,
+  "shortname": "gillespie"
+}

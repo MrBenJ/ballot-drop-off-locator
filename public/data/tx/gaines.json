@@ -1,0 +1,11 @@
+{
+  "state": "TX",
+  "fips5": "48165",
+  "adminarea": "Gaines",
+  "urlvbmdropboxes": "http://www.co.gaines.tx.us/page/gaines.elections2",
+  "urlearlyvoting": "http://www.co.gaines.tx.us/page/gaines.Elections.Locations",
+  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "flagboxes": 0,
+  "flagattn": 1,
+  "shortname": "gaines"
+}

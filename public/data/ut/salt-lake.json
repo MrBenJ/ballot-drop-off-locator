@@ -1,0 +1,9 @@
+{
+  "state": "UT",
+  "fips5": "49035",
+  "adminarea": "Salt Lake",
+  "urlvbmdropboxes": "https://slco.org/clerk/elections/vote-by-mail/ballot-drop-box-locations/",
+  "urlstatelevelvbm": "https://vote.utah.gov/",
+  "flagboxes": 1,
+  "shortname": "salt-lake"
+}

@@ -1,0 +1,10 @@
+{
+  "state": "TX",
+  "fips5": "48485",
+  "adminarea": "Wichita",
+  "urlvbmdropboxes": "https://wichitacountytx.com/elections/",
+  "urlearlyvoting": "https://wichitacountytx.com/download/early-voting-locations/?wpdmdl=1132&refresh=5f62e99a4bce51600317850",
+  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "flagboxes": 0,
+  "shortname": "wichita"
+}

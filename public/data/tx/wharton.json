@@ -1,0 +1,10 @@
+{
+  "state": "TX",
+  "fips5": "48481",
+  "adminarea": "Wharton",
+  "urlvbmdropboxes": "http://www.co.wharton.tx.us/page/wharton.Elections",
+  "urlearlyvoting": "http://www.co.wharton.tx.us/page/wharton.ElectionsEarlyVoting",
+  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "flagboxes": 0,
+  "shortname": "wharton"
+}

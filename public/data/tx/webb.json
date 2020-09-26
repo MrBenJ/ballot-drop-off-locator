@@ -1,0 +1,10 @@
+{
+  "state": "TX",
+  "fips5": "48479",
+  "adminarea": "Webb",
+  "urlvbmdropboxes": "https://www.webbcountytx.gov/ElectionsAdministration/ApplicationforBallotbyMail/",
+  "urlearlyvoting": "https://www.webbcountytx.gov/ElectionsAdministration/11032020-EarlyVotingSites.pdf",
+  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "flagboxes": 0,
+  "shortname": "webb"
+}

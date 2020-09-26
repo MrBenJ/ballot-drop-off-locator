@@ -1,0 +1,11 @@
+{
+  "state": "TX",
+  "fips5": "48361",
+  "adminarea": "Orange",
+  "urlvbmdropboxes": "https://www.co.orange.tx.us/departments/ElectionsAdministration",
+  "urlearlyvoting": "https://www.co.orange.tx.us/media/Elections/2020%20General%20(EV).pdf",
+  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "flagboxes": 0,
+  "flagattn": 1,
+  "shortname": "orange"
+}

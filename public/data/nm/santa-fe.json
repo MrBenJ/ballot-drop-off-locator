@@ -1,0 +1,11 @@
+{
+  "state": "NM",
+  "fips5": "35049",
+  "adminarea": "Santa Fe",
+  "urlvbmdropboxes": "https://www.santafecountynm.gov/clerk/elections_information",
+  "urlearlyvoting": "https://www.santafecountynm.gov/media/files/2020%20Genavevschedules%20(Updated).pdf",
+  "urlstatelevelvbm": "https://www.sos.state.nm.us/voting-and-elections/voting-faqs/absentee-voting-by-mail/",
+  "flagboxes": 0,
+  "flagattn": 1,
+  "shortname": "santa-fe"
+}

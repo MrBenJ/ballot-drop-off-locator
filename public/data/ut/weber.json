@@ -1,0 +1,9 @@
+{
+  "state": "UT",
+  "fips5": "49057",
+  "adminarea": "Weber",
+  "urlvbmdropboxes": "http://www.weberelections.com/vote/polling_locations.php",
+  "urlstatelevelvbm": "https://vote.utah.gov/",
+  "flagboxes": 1,
+  "shortname": "weber"
+}

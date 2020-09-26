@@ -1,0 +1,10 @@
+{
+  "state": "MT",
+  "fips5": "30053",
+  "adminarea": "Lincoln",
+  "urlvbmdropboxes": "http://www.lincolncountymt.us/elections/elections-faq",
+  "urlearlyvoting": "https://sosmt.gov/elections/absentee/",
+  "urlstatelevelvbm": "https://sosmt.gov/elections/absentee/",
+  "flagboxes": 0,
+  "shortname": "lincoln"
+}

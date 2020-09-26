@@ -1,0 +1,11 @@
+{
+  "state": "MT",
+  "fips5": "30069",
+  "adminarea": "Petroleum",
+  "urlvbmdropboxes": "https://petroleumcountymt.org/departments/elections/",
+  "urlearlyvoting": "https://sosmt.gov/elections/absentee/",
+  "urlstatelevelvbm": "https://sosmt.gov/elections/absentee/",
+  "flagboxes": 0,
+  "flagattn": 1,
+  "shortname": "petroleum"
+}

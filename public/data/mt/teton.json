@@ -1,0 +1,10 @@
+{
+  "state": "MT",
+  "fips5": "30099",
+  "adminarea": "Teton",
+  "urlvbmdropboxes": "https://tetoncomt.org/clerk-recorder-elections/",
+  "urlearlyvoting": "https://sosmt.gov/elections/absentee/",
+  "urlstatelevelvbm": "https://sosmt.gov/elections/absentee/",
+  "flagboxes": 0,
+  "shortname": "teton"
+}
