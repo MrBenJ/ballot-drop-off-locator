@@ -1,7 +1,12 @@
 {
+  "state": "NV",
+  "fips5": "32005",
   "adminarea": "Clark",
-  "shortname": "clark",
   "urlvbmdropboxes": "https://cms8.revize.com/revize/clarknv/Election%20Department/MB-Drop-20G.pdf?t=1599176108827&t=1599176108827",
   "urlearlyvoting": "https://www.clarkcountynv.gov/government/departments/elections/index.php",
-  "flagboxes": 1
+  "urlstatelevelvbm": "https://www.nvsos.gov/sos/elections/voters/absentee-voting",
+  "flagboxes": 1,
+  "areadatacode": 1,
+  "flagattn": 1,
+  "shortname": "clark"
 }

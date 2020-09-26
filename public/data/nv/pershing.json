@@ -1,7 +1,12 @@
 {
+  "state": "NV",
+  "fips5": "32029",
   "adminarea": "Pershing",
-  "shortname": "pershing",
   "urlvbmdropboxes": "https://www.nvsos.gov/sos/home/showdocument?id=8644",
   "urlearlyvoting": "https://www.nvsos.gov/sos/elections/election-information/2012-early-voting-turnout-statistics/pershing-county-early-voting-general-2010",
-  "flagboxes": 1
+  "urlstatelevelvbm": "https://www.nvsos.gov/sos/elections/voters/absentee-voting",
+  "flagboxes": 1,
+  "areadatacode": 1,
+  "flagattn": 1,
+  "shortname": "pershing"
 }

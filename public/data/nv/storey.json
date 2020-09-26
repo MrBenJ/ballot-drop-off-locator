@@ -1,7 +1,12 @@
 {
+  "state": "NV",
+  "fips5": "32031",
   "adminarea": "Storey",
-  "shortname": "storey",
   "urlvbmdropboxes": "https://www.nvsos.gov/sos/home/showdocument?id=8644",
   "urlearlyvoting": "https://storeycounty.org/208/Election-Information",
-  "flagboxes": 1
+  "urlstatelevelvbm": "https://www.nvsos.gov/sos/elections/voters/absentee-voting",
+  "flagboxes": 1,
+  "areadatacode": 1,
+  "flagattn": 1,
+  "shortname": "storey"
 }

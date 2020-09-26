@@ -1,7 +1,12 @@
 {
+  "state": "NV",
+  "fips5": "32009",
   "adminarea": "Elko",
-  "shortname": "elko",
   "urlvbmdropboxes": "https://www.elkocountynv.net/departments/clerk/2020/2020%20ELECTION%20DATES%20updated%20for%20Gen.pdf",
   "urlearlyvoting": "https://www.elkocountynv.net/departments/clerk/elections.php",
-  "flagboxes": 1
+  "urlstatelevelvbm": "https://www.nvsos.gov/sos/elections/voters/absentee-voting",
+  "flagboxes": 1,
+  "areadatacode": 1,
+  "flagattn": 1,
+  "shortname": "elko"
 }

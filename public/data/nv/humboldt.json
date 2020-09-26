@@ -1,7 +1,12 @@
 {
+  "state": "NV",
+  "fips5": "32015",
   "adminarea": "Humboldt",
-  "shortname": "humboldt",
   "urlvbmdropboxes": "https://www.nvsos.gov/sos/home/showdocument?id=8644",
   "urlearlyvoting": "https://www.hcnv.us/317/Elections",
-  "flagboxes": 1
+  "urlstatelevelvbm": "https://www.nvsos.gov/sos/elections/voters/absentee-voting",
+  "flagboxes": 1,
+  "areadatacode": 1,
+  "flagattn": 1,
+  "shortname": "humboldt"
 }

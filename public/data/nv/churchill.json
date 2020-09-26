@@ -1,6 +1,11 @@
 {
+  "state": "NV",
+  "fips5": "32003",
   "adminarea": "Churchill",
   "urlvbmdropboxes": "https://www.nvsos.gov/sos/home/showdocument?id=8644",
   "urlearlyvoting": "https://www.churchillcounty.org/951/Vote-By-Mail",
-  "flagboxes": 0
+  "urlstatelevelvbm": "https://www.nvsos.gov/sos/elections/voters/absentee-voting",
+  "flagboxes": 1,
+  "areadatacode": 1,
+  "shortname": "churchill"
 }
