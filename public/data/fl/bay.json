@@ -3,7 +3,7 @@
   "fips5": "12005",
   "adminarea": "Bay",
   "urlvbmdropboxes": "https://www.bayvotes.org/Voter-Info/Vote-By-Mail-Frequent-Asked-Questions",
-  "urlearlyvoting": 0,
+  "urlearlyvoting": "",
   "flagboxes": 1,
   "areadatacode": 1,
   "flagattn": 1,
