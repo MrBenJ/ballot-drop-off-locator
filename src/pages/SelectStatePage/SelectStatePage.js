@@ -3,6 +3,7 @@ import { useTranslation } from 'react-i18next';
 import { Link } from 'react-router-dom';
 
 import Text from '../../components/Text';
+import StateBanner from '../../components/StateBanner';
 
 import { STATES_MAP } from '../../constants';
 import './SelectStatePage.scss';
@@ -12,26 +13,21 @@ const SelectStatePage = () => {
 
   return (
     <div className="SelectStatePage">
-      <div className="instructions-container">
-        <Text className="flavor">{t('StatePage.flavorText')}</Text>
-        <Text className="instruction">{t('StatePage.selectState')}</Text>
-      </div>
+      <StateBanner>
+        {t('StatePage.locateText')}
+        {t('StatePage.selectState')}
+      </StateBanner>
       <div className="item-container">
         {Object.entries(STATES_MAP).map(([abbrev, state]) => {
           return (
-            <Link
-              key={abbrev}
-              to={`/state/${abbrev}`}
-              className="link state-link">
-              {state}
-            </Link>
+            <Text className="link" key={abbrev}>
+              <Link className="link-item" to={`/state/${abbrev}`}>
+                {state}
+              </Link>
+            </Text>
           );
         })}
       </div>
-      <Text>Select State Page</Text>
-      <Link to="/">Home</Link>
-      <br />
-      <Link to="/select-state">Select State</Link>
     </div>
   );
 };

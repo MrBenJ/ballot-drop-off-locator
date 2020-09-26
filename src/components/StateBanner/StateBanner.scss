@@ -1,0 +1,14 @@
+@import "../../style/variables";
+.StateBanner {
+  border-bottom: .5rem solid $red;
+  padding: 1rem 0;
+  margin-bottom: 1rem;
+
+  .StateBanner-top {
+    font-size: 1.2rem;
+  }
+
+  .StateBanner-bottom {
+    font-size: 1.4rem;
+  }
+}

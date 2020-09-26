@@ -22,12 +22,15 @@
     "siteProvidesEnd": "showing the best available information on ballot dropboxes or other options to directly drop your completed ballot with election officials."
   },
   "StatePage": {
-    "flavorText": "Locate the drop off locations for your Ballot.",
+    "locateText": "Locate the drop off locations for your Ballot.",
     "selectState": "First, select your State below"
   },
   "CountyPage": {
-    "selectCounty": "Select county for state: ",
+    "selectCounty": "Next, select your Jursidiction. ",
     "countyErrorGeneric": "There was an issue finding the data for this page"
+  },
+  "CountyBanner": {
+    "countiesIn": "Counties in "
   },
   "Footer": {
     "MyBallotDrop": "MY BALLOT DROP",
