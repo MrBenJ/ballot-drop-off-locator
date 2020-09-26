@@ -1,3 +1,24 @@
-.Footer {
+@import "../../style/variables";
 
+.Footer {
+  border-top: .5rem solid $red;
 }
+
+.footer-ballot-drop {
+  font-size: 1rem;
+  padding: 1.6rem 0;
+}
+
+.footer-links-list, .voter-info-project {
+  font-size: 1rem;
+}
+
+.footer-links-list {
+  display: flex;
+  justify-content: space-around;
+  .divider {
+    margin: 0 1rem;
+  }
+  padding-bottom: .5rem;
+}
+

@@ -24,5 +24,12 @@
   "CountyPage": {
     "selectCounty": "Select county for state: ",
     "countyErrorGeneric": "There was an issue finding the data for this page"
+  },
+  "Footer": {
+    "MyBallotDrop": "MY BALLOT DROP",
+    "linkAboutProject": "About the Project",
+    "linkDataIntegrity": "Data Integrity",
+    "linkContactUs": "Contact Us",
+    "linkVoterInfo": "Voter Information Project"
   }
 }
