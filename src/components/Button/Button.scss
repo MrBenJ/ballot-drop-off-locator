@@ -1,0 +1,21 @@
+@import "../../style/variables";
+
+$button-bg-color: rgb(42, 139, 167);
+$button-text-color: rgb(255, 255, 255);
+$button-border-color: rgb(63, 180, 214);
+
+.Button {
+  text-align: center;
+  font-size: 1.2rem;
+  padding: 1rem 3rem;
+  background-color: $button-bg-color;
+  color: $button-text-color;
+  border: 2px solid $button-border-color;
+  transition: all .3s;
+  font-weight: 700;
+
+  &:hover {
+    cursor: pointer;
+    filter: brightness(1.1);
+  }
+}

@@ -15,6 +15,10 @@ const Text = props => {
       return <h2 className={cn('Text', className)}>{children}</h2>;
     }
 
+    case 'span': {
+      return <span className={cn('Text', className)}>{children}</span>;
+    }
+
     default: {
       return <p className={cn('Text', className)}>{children}</p>;
     }

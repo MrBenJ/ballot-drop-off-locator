@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="23" height="23" viewBox="0 0 23 23">
+    <g fill="none" fill-rule="evenodd">
+        <g stroke="#51545F">
+            <g transform="translate(-20 -125) translate(20 125)">
+                <ellipse cx="11.056" cy="11.164" rx="11.056" ry="11.164"/>
+                <ellipse cx="11.056" cy="11.164" rx="4.02" ry="11.164"/>
+                <path d="M0 10.475h22.112M1.23 5.986h19.652M.5 14.965h21"/>
+            </g>
+        </g>
+    </g>
+</svg>

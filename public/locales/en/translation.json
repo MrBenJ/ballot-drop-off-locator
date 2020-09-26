@@ -1,7 +1,21 @@
 {
   "title": "Ballot Drop off Locator",
   "IndexPage": {
-
+    "findBoxBold": "Find a Drop Box near you to turn in your completed ballot",
+    "absenteeText": "As an absentee OR vote-by-mail voter in 2020, make sure your ballot is received and counted.",
+    "aboutMyBallotDrop": "My Ballot Drop will help you find how to directly drop your ballot with election officials.",
+    "buttonCTA": "GET STARTED",
+    "boldLocate": "Locate secure ballot dropboxes",
+    "whereAvailable": "(where available)",
+    "boldDropDirectly": "OR drop off directly",
+    "atJursidiction": "at the election office in your county or juristiction.",
+    "tealBolded": "Make sure your ballot is received on time.",
+    "tealBolded2": "Make sure your vote is counted!",
+    "siteProvides": "This site provides links to direct",
+    "boldedCounty": "county",
+    "or": "or",
+    "boldedStateGov": "state government webpages",
+    "siteProvidesEnd": "showing the best available information on ballot dropboxes or other options to directly drop your completed ballot with election officials."
   },
   "StatePage": {
     "flavorText": "Locate the drop off locations for your Ballot.",

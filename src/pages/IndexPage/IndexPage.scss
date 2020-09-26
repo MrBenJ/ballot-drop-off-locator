@@ -1,0 +1,50 @@
+@import "../../style/variables";
+.IndexPage {
+  padding: 0 $border-padding;
+  background-image: linear-gradient(rbg(255,255,255), rgb(234, 234, 234));
+
+  .button-cta {
+    max-width: 200px;
+    margin: 0 auto;
+    padding: .5rem 1rem;
+  }
+}
+
+.drop-img-bg {
+  height: 350px;
+  width: 100%;
+  background-image: url('https://placehold.it/414x247');
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.dropbox-bolded {
+  padding: 1rem;
+  font-size: 1.3rem;
+}
+
+.dropbox-copy {
+  padding-bottom: 1.5rem;
+  font-size: 1.2rem;
+}
+
+.locate-copy-wrapper {
+  padding: 1.5rem 0;
+  font-size: 1.2rem;
+}
+
+.ensure-text-teal.Text {
+  font-size: 1.2rem;
+  padding: 1rem 0;
+  color: $teal;
+}
+
+.locate-svg {
+  margin: 0 auto;
+  text-align: center;
+  padding: 1rem 0;
+}
+
+.county-gov-copy {
+  font-size: 1.2rem;
+}

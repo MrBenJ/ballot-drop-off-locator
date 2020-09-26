@@ -1,5 +1,15 @@
+@import  './style/variables';
+
 // Base stylesheet
 .App {
   font-size: 1.4rem;
   font-weight: normal;
+}
+
+a {
+  text-decoration: none;
+
+  &:visited {
+    color: $text-color;
+  }
 }
