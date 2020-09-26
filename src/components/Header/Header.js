@@ -1,8 +1,9 @@
 import React from 'react';
 import cn from 'classnames';
 import { useTranslation } from 'react-i18next';
-import { HiGlobeAlt } from 'react-icons/hi';
-import Text from '../Text';
+
+import { ReactComponent as GlobeSVG } from './globe.svg';
+import { ReactComponent as MenuSVG } from './menu.svg';
 
 import './Header.scss';
 
@@ -10,13 +11,22 @@ const Header = props => {
   const { className } = props;
   const { t } = useTranslation();
 
+  // TODO: Add language picker
+
   return (
     <header className={cn('Header', className)}>
-      <Text className="title" variant="h1">
-        {t('title')}
-      </Text>
-      <div className="globe">
-        <HiGlobeAlt />
+      <div className="globe" onClick={() => {}}>
+        <GlobeSVG />
+      </div>
+      <div className="logo-wrapper">
+        <img
+          alt="My Ballot Drop"
+          src="logo.png"
+          srcSet="logo.png 1x, logo@2x.png 2x, logo@3x.png, 3x"
+        />
+      </div>
+      <div className="menu">
+        <MenuSVG />
       </div>
     </header>
   );
