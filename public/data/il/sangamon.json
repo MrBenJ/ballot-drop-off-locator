@@ -1,0 +1,9 @@
+{
+  "state": "IL",
+  "fips5": "17167",
+  "adminarea": "Sangamon",
+  "urlvbmdropboxes": "https://www.sangamoncountyclerk.com/Elections/Vote/Absentee.aspx#absentee",
+  "urlearlyvoting": "https://www.sangamoncountyclerk.com/Elections/Vote/Absentee.aspx#early",
+  "flagboxes": 0,
+  "shortname": "sangamon"
+}

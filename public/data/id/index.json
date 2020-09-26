@@ -1,0 +1,178 @@
+[
+  {
+    "adminarea": "Ada",
+    "shortname": "ada"
+  },
+  {
+    "adminarea": "Adams",
+    "shortname": "adams"
+  },
+  {
+    "adminarea": "Bannock",
+    "shortname": "bannock"
+  },
+  {
+    "adminarea": "Bear Lake",
+    "shortname": "bear-lake"
+  },
+  {
+    "adminarea": "Benewah",
+    "shortname": "benewah"
+  },
+  {
+    "adminarea": "Bingham",
+    "shortname": "bingham"
+  },
+  {
+    "adminarea": "Blaine",
+    "shortname": "blaine"
+  },
+  {
+    "adminarea": "Boise",
+    "shortname": "boise"
+  },
+  {
+    "adminarea": "Bonner",
+    "shortname": "bonner"
+  },
+  {
+    "adminarea": "Bonneville",
+    "shortname": "bonneville"
+  },
+  {
+    "adminarea": "Boundary",
+    "shortname": "boundary"
+  },
+  {
+    "adminarea": "Butte",
+    "shortname": "butte"
+  },
+  {
+    "adminarea": "Camas",
+    "shortname": "camas"
+  },
+  {
+    "adminarea": "Canyon",
+    "shortname": "canyon"
+  },
+  {
+    "adminarea": "Caribou",
+    "shortname": "caribou"
+  },
+  {
+    "adminarea": "Cassia",
+    "shortname": "cassia"
+  },
+  {
+    "adminarea": "Clark",
+    "shortname": "clark"
+  },
+  {
+    "adminarea": "Clearwater",
+    "shortname": "clearwater"
+  },
+  {
+    "adminarea": "Custer",
+    "shortname": "custer"
+  },
+  {
+    "adminarea": "Elmore",
+    "shortname": "elmore"
+  },
+  {
+    "adminarea": "Franklin",
+    "shortname": "franklin"
+  },
+  {
+    "adminarea": "Fremont",
+    "shortname": "fremont"
+  },
+  {
+    "adminarea": "Gem",
+    "shortname": "gem"
+  },
+  {
+    "adminarea": "Gooding",
+    "shortname": "gooding"
+  },
+  {
+    "adminarea": "Idaho",
+    "shortname": "idaho"
+  },
+  {
+    "adminarea": "Jefferson",
+    "shortname": "jefferson"
+  },
+  {
+    "adminarea": "Jerome",
+    "shortname": "jerome"
+  },
+  {
+    "adminarea": "Kootenai",
+    "shortname": "kootenai"
+  },
+  {
+    "adminarea": "Latah",
+    "shortname": "latah"
+  },
+  {
+    "adminarea": "Lemhi",
+    "shortname": "lemhi"
+  },
+  {
+    "adminarea": "Lewis",
+    "shortname": "lewis"
+  },
+  {
+    "adminarea": "Lincoln",
+    "shortname": "lincoln"
+  },
+  {
+    "adminarea": "Madison",
+    "shortname": "madison"
+  },
+  {
+    "adminarea": "Minidoka",
+    "shortname": "minidoka"
+  },
+  {
+    "adminarea": "Nez Perce",
+    "shortname": "nez-perce"
+  },
+  {
+    "adminarea": "Oneida",
+    "shortname": "oneida"
+  },
+  {
+    "adminarea": "Owyhee",
+    "shortname": "owyhee"
+  },
+  {
+    "adminarea": "Payette",
+    "shortname": "payette"
+  },
+  {
+    "adminarea": "Power",
+    "shortname": "power"
+  },
+  {
+    "adminarea": "Shoshone",
+    "shortname": "shoshone"
+  },
+  {
+    "adminarea": "Teton",
+    "shortname": "teton"
+  },
+  {
+    "adminarea": "Twin Falls",
+    "shortname": "twin-falls"
+  },
+  {
+    "adminarea": "Valley",
+    "shortname": "valley"
+  },
+  {
+    "adminarea": "Washington",
+    "shortname": "washington"
+  }
+]
