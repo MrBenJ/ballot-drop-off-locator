@@ -78,7 +78,7 @@ const CountyPage = () => {
         <Banner backlink="/select-state" bold>
           {[fullStateName]}
         </Banner>
-        <SubBanner backlink={`/state/${state.toUpperCase()}/${data.shortname}`}>
+        <SubBanner backlink={`/state/${state.toUpperCase()}`}>
           {`${data.adminarea} ${t('CountyPage.county')}`}
         </SubBanner>
         <div className="container">
@@ -97,11 +97,27 @@ const CountyPage = () => {
             </a>{' '}
             {t('CountyPage.button')} {t('CountyPage.jurisdictionCopyEnd')}
           </Text>
-          <Button>{t('CountyPage.dropOffLinkText').toUpperCase()}</Button>
-          <Text className="button-flavor-copy center">
-            {t('CountyPage.findMore')}
-          </Text>
-          <Button>{t('CountyPage.stateBallotButtonText').toUpperCase()}</Button>
+          <a
+            href={data.urlvbmdropboxes}
+            target="_blank"
+            rel="noopener noreferrer">
+            <Button>{t('CountyPage.dropOffLinkText').toUpperCase()}</Button>
+          </a>
+          {data.urlearlyvoting && (
+            <>
+              <Text className="button-flavor-copy center">
+                {t('CountyPage.findMore')}
+              </Text>
+              <a
+                href={data.urlearlyvoting}
+                target="_blank"
+                rel="noopener noreferrer">
+                <Button>
+                  {t('CountyPage.stateBallotButtonText').toUpperCase()}
+                </Button>
+              </a>
+            </>
+          )}
           <Text className="button-flavor-copy center">
             {t('CountyPage.seeMoreMapCopy')}{' '}
             <Text variant="span" className="link">
