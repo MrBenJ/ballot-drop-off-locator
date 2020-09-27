@@ -1,6 +1,6 @@
 import React, { useReducer, useEffect } from 'react';
 import { useTranslation } from 'react-i18next';
-import { useParams, Link } from 'react-router-dom';
+import { useParams } from 'react-router-dom';
 
 import Banner from '../../components/Banner';
 import SubBanner from '../../components/SubBanner';
