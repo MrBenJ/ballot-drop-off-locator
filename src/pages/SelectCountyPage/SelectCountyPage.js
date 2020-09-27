@@ -3,7 +3,9 @@ import { useTranslation } from 'react-i18next';
 import { useParams, useHistory, Link } from 'react-router-dom';
 
 import Text from '../../components/Text';
-import CountyBanner from '../../components/CountyBanner';
+import Banner from '../../components/Banner';
+import SubBanner from '../../components/SubBanner';
+
 import { STATES_MAP } from '../../constants';
 import '../SelectStatePage/SelectStatePage.scss';
 
@@ -78,10 +80,11 @@ const SelectCountyPage = () => {
 
   return (
     <div className="SelectCountyPage">
-      <CountyBanner backlink="/select-state">
+      <Banner backlink="/select-state">
         {fullStateName}
         {t('CountyPage.selectCounty')}
-      </CountyBanner>
+      </Banner>
+      <SubBanner>{`${t('CountyPage.countiesIn')} ${fullStateName}`}</SubBanner>
       {pageState.error && <Text>{pageState.error}</Text>}
       <div className="item-container">
         {pageState.data.map(item => {

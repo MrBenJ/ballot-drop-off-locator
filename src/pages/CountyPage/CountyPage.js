@@ -1,10 +1,11 @@
 import React, { useReducer, useEffect } from 'react';
 import { useTranslation } from 'react-i18next';
-import { useParams, useHistory } from 'react-router-dom';
+import { useParams /* , useHistory */ } from 'react-router-dom';
 
 import ConditionalLoader from '../../components/ConditionalLoader';
 import Text from '../../components/Text';
 
+import { STATES_MAP } from '../../constants';
 import './CountyPage.scss';
 
 const Reducer = (state, action) => {
@@ -36,6 +37,7 @@ const CountyPage = () => {
   const { state, county } = useParams();
   // const history = useHistory();
   const [pageState, dispatch] = useReducer(Reducer, initialState);
+  const fullStateName = STATES_MAP[state.toUpperCase()];
 
   useEffect(() => {
     const fetchCountyDropboxes = async () => {
