@@ -14,8 +14,8 @@ const SelectStatePage = () => {
   return (
     <div className="SelectStatePage">
       <Banner>
-        {t('StatePage.locateText')}
-        {t('StatePage.selectState')}
+        {t('SelectStatePage.locateText')}
+        {t('SelectStatePage.selectState')}
       </Banner>
       <div className="item-container">
         {Object.entries(STATES_MAP).map(([abbrev, state]) => {

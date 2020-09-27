@@ -63,7 +63,7 @@ const SelectCountyPage = () => {
         } else {
           dispatch({
             type: 'SET_ERROR',
-            value: t('CountyPage.countyErrorGeneric')
+            value: t('SelectCountyPage.countyErrorGeneric')
           });
         }
       }
@@ -82,9 +82,11 @@ const SelectCountyPage = () => {
     <div className="SelectCountyPage">
       <Banner backlink="/select-state">
         {fullStateName}
-        {t('CountyPage.selectCounty')}
+        {t('SelectCountyPage.selectCounty')}
       </Banner>
-      <SubBanner>{`${t('CountyPage.countiesIn')} ${fullStateName}`}</SubBanner>
+      <SubBanner>{`${t(
+        'SelectCountyPage.countiesIn'
+      )} ${fullStateName}`}</SubBanner>
       {pageState.error && <Text>{pageState.error}</Text>}
       <div className="item-container">
         {pageState.data.map(item => {

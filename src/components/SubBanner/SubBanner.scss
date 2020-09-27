@@ -1,0 +1,16 @@
+@import "../../style/variables";
+
+.SubBanner {
+  position: relative;
+  width: 100%;
+  border-bottom: .2rem solid $teal;
+  padding-bottom: .5rem;
+  margin-bottom: .5rem;
+
+  .back-arrow {
+    position: absolute;
+    top: 50%;
+    left: 1rem;
+    transform: translateY(-50%);
+  }
+}

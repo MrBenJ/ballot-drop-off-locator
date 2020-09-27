@@ -1,0 +1,36 @@
+@import "../../style/variables";
+
+.CountyPage {
+  .container {
+    padding: 0 $border-padding;
+  }
+
+  .link {
+    color: $teal;
+    font-weight: 700;
+
+    &-orange {
+      color: $orange;
+    }
+  }
+
+  .jurisdiction-copy {
+    font-size: 1.2rem;
+    margin-bottom: 2rem;
+
+  }
+
+  .button-flavor-copy {
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+  }
+
+  .Button {
+    max-width: 80%;
+    margin: 0 auto;
+    margin-bottom: 2rem;
+    &.less-margin {
+      margin-bottom: .5rem;
+    }
+  }
+}
