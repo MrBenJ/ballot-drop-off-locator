@@ -20,7 +20,7 @@ const Footer = props => {
   const { t } = useTranslation();
 
   return (
-    <div className={cn('Footer', className)}>
+    <footer className={cn('Footer', className)}>
       <Text className="footer-ballot-drop center">
         {t('Footer.MyBallotDrop')}
       </Text>
@@ -37,7 +37,7 @@ const Footer = props => {
       <Text className="voter-info-project center">
         {t('Footer.linkVoterInfo')}
       </Text>
-    </div>
+    </footer>
   );
 };
 

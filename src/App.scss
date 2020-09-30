@@ -2,8 +2,22 @@
 
 // Base stylesheet
 .App {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  justify-content: space-between;
   font-size: 1.4rem;
   font-weight: normal;
+}
+
+header, footer {
+  flex: 0;
+}
+
+main {
+  flex: 1;
+  height: 100%;
+  width: 100%;
 }
 
 a {

@@ -42,6 +42,10 @@ main {
   background-image: linear-gradient(rgb(234,234,234), rgb(255, 255, 255));
 }
 
+#root {
+  height: 100vh;
+}
+
 .state-link {
   color: $teal;
   text-decoration: none;
