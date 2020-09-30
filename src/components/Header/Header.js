@@ -20,6 +20,7 @@ const Header = props => {
       </div>
       <div className="logo-wrapper">
         <img
+          className="logo-img"
           alt={t('Header.altLogo')}
           src="logo.png"
           srcSet="logo.png 1x, logo@2x.png 2x, logo@3x.png, 3x"

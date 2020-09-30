@@ -8,7 +8,15 @@
   padding: 1rem $border-padding;
   padding-bottom: .5rem;
   border-bottom: .8rem solid rgb(0, 44, 73);
+  position: sticky;
+  top: 0;
+  background-color: white;
+  z-index: 1000;
 
+  .logo-img {
+    height: 4rem;
+    object-fit: contain;
+  }
 }
 
 @media screen and (min-width: 768px) {
