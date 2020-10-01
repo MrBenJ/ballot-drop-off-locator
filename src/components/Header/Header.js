@@ -1,6 +1,7 @@
 import React from 'react';
 import cn from 'classnames';
 import { useTranslation } from 'react-i18next';
+import { Link } from 'react-router-dom';
 
 import { ReactComponent as GlobeSVG } from './globe.svg';
 import { ReactComponent as MenuSVG } from './menu.svg';
@@ -19,12 +20,14 @@ const Header = props => {
         <GlobeSVG />
       </div>
       <div className="logo-wrapper">
-        <img
-          className="logo-img"
-          alt={t('Header.altLogo')}
-          src="logo.png"
-          srcSet="logo.png 1x, logo@2x.png 2x, logo@3x.png, 3x"
-        />
+        <Link to="/">
+          <img
+            className="logo-img"
+            alt={t('Header.altLogo')}
+            src="logo.png"
+            srcSet="logo.png 1x, logo@2x.png 2x, logo@3x.png, 3x"
+          />
+        </Link>
       </div>
       <div className="menu">
         <MenuSVG />
