@@ -70,8 +70,6 @@ const CountyPage = () => {
   }, [pageState.didFetch, county, state, t]);
   const { data } = pageState;
 
-  const hasDropboxes = data.flagboxes || false;
-
   return (
     <div className="CountyPage">
       <ConditionalLoader condition={pageState.didFetch}>
@@ -82,21 +80,7 @@ const CountyPage = () => {
           {`${data.adminarea} ${t('CountyPage.county')}`}
         </SubBanner>
         <div className="container">
-          <Text className="jurisdiction-copy center">
-            {t('CountyPage.yourJurisdiction')}{' '}
-            <Text variant="span" className="bold">
-              {t(hasDropboxes ? 'CountyPage.does' : 'CountyPage.doesnot')}
-            </Text>{' '}
-            {t('CountyPage.haveBallotDrops')} {t('CountyPage.the')}{' '}
-            <a
-              className="link"
-              href={data.urlvbmdropboxes}
-              target="_blank"
-              rel="noopener noreferrer">
-              {t('CountyPage.dropOffLinkText')}
-            </a>{' '}
-            {t('CountyPage.button')} {t('CountyPage.jurisdictionCopyEnd')}
-          </Text>
+          <Text className="jurisdiction-copy center">{data.arealeveltext}</Text>
           <a
             href={data.urlvbmdropboxes}
             target="_blank"
