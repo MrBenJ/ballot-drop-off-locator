@@ -4,6 +4,9 @@
   "adminarea": "Taylor",
   "urlvbmdropboxes": "https://www.taylorelections.com/",
   "urlearlyvoting": "https://www.taylorelections.com/Voter-Information/Vote-Early",
+  "urlstatelevelvbm": "https://dos.myflorida.com/elections/for-voters/voting/vote-by-mail/",
   "flagboxes": 1,
+  "areadatacode": 3,
+  "arealeveltext": "Your county has Vote-By-Mail ballot drop-off ONLY at the Supervisor of Elections office. The Show Drop-Off Options button will take you to your county webpage showing the address for the Elections office and any information on the ballot dropbox there, where available.",
   "shortname": "taylor"
 }

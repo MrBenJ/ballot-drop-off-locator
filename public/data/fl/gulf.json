@@ -2,9 +2,11 @@
   "state": "FL",
   "fips5": "12043",
   "adminarea": "Gulf",
-  "urlvbmdropboxes": "https://www.votegulf.com/Voting-Information/Mail-Ballot-Voting",
+  "urlvbmdropboxes": "https://www.votegulf.com/",
   "urlearlyvoting": "https://www.votegulf.com/Voting-Information/Early-Voting",
+  "urlstatelevelvbm": "https://dos.myflorida.com/elections/for-voters/voting/vote-by-mail/",
   "flagboxes": 0,
-  "areadatacode": 3,
+  "areadatacode": 1,
+  "arealeveltext": "Your county DOES have Vote-By-Mail ballot dropboxes. The Show Drop-Off Options button will take you to your county webpage with a list of ballot dropboxes available in your area. Vote-By-Mail ballots can also be dropped at any Early Voting location.",
   "shortname": "gulf"
 }

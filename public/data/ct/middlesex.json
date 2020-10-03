@@ -2,7 +2,11 @@
   "state": "CT",
   "fips5": "09007",
   "adminarea": "Middlesex",
-  "urlvbmdropboxes": "https://portal.ct.gov/SOTS/Election-Services/Voter-Information/Where-and-how-do-I-vote",
+  "urlvbmdropboxes": "https://portal.ct.gov/-/media/SOTS/ElectionServices/Town-Clerk/Town-Clerks-List.pdf",
+  "urlstatelevelvbm": "https://portal.ct.gov/SOTS/Election-Services/Voter-Information/Absentee-Ballot-Process",
   "flagboxes": 0,
+  "areadatacode": 4,
+  "arealeveltext": "Connecticut absentee ballots are returned to Town Clerks, not at the county level. The Show Drop-Off Options button will take you to a statewide list of Town Clerk offices - your ballot can be hand delivered to your Town Clerk.",
+  "flagattn": 1,
   "shortname": "middlesex"
 }

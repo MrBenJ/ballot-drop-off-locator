@@ -3,8 +3,10 @@
   "fips5": "12009",
   "adminarea": "Brevard",
   "urlvbmdropboxes": "https://www.votebrevard.gov/Election-Information/Early-Voting",
-  "urlearlyvoting": "",
+  "urlearlyvoting": 0,
+  "urlstatelevelvbm": "https://dos.myflorida.com/elections/for-voters/voting/vote-by-mail/",
   "flagboxes": 1,
   "areadatacode": 1,
+  "arealeveltext": "Your county has Vote-By-Mail ballot dropoff ONLY at Early Voting locations of the Supervisor of Elections office. The Show Drop-Off Options button will take you to your county webpage showing a list of Early Voting locations and dropbox hours.",
   "shortname": "brevard"
 }

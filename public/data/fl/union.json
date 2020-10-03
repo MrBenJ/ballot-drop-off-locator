@@ -2,8 +2,10 @@
   "state": "FL",
   "fips5": "12125",
   "adminarea": "Union",
-  "urlvbmdropboxes": "https://ucnj.org/boe/ballot-drop-box-locations/",
-  "urlearlyvoting": "https://www.bradfordelections.com/Voter-Information/Early-Voting",
-  "flagboxes": 0,
+  "urlvbmdropboxes": "https://www.unionflvotes.com/Election-Information/Early-Voting",
+  "urlstatelevelvbm": "https://dos.myflorida.com/elections/for-voters/voting/vote-by-mail/",
+  "flagboxes": 1,
+  "areadatacode": 3,
+  "arealeveltext": "Your county has Vote-By-Mail ballot drop-off ONLY at the Supervisor of Elections office. The Show Drop-Off Options button will take you to your county webpage showing the address for the Elections office and any information on the ballot dropbox there, where available.",
   "shortname": "union"
 }

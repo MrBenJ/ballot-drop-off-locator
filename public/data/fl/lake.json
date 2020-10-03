@@ -2,8 +2,11 @@
   "state": "FL",
   "fips5": "12067",
   "adminarea": "Lake",
-  "urlvbmdropboxes": "https://www.lakevotes.com/Portals/Lake/Documents/2020%20Voter%20Guide%20Eng-Spn%20updated.pdf?ver=2020-04-23-193639-923",
+  "urlvbmdropboxes": "https://www.lakevotes.com/Voter-Information/Early-Voting",
   "urlearlyvoting": "https://www.lakevotes.com/Voter-Information/Early-Voting",
+  "urlstatelevelvbm": "https://dos.myflorida.com/elections/for-voters/voting/vote-by-mail/",
   "flagboxes": 1,
+  "areadatacode": 1,
+  "arealeveltext": "Your county has Vote-By-Mail ballot dropoff ONLY at Early Voting locations of the Supervisor of Elections office. The Show Drop-Off Options button will take you to your county webpage showing a list of Early Voting locations and dropbox hours.",
   "shortname": "lake"
 }

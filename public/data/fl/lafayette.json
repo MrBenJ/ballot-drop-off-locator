@@ -2,10 +2,12 @@
   "state": "FL",
   "fips5": "12065",
   "adminarea": "Lafayette",
-  "urlvbmdropboxes": "https://www.lafayettevotes.net/Voter-Information/Vote-By-Mail",
+  "urlvbmdropboxes": "https://www.lafayettevotes.net/Voter-Information/Early-Voting",
   "urlearlyvoting": "https://www.lafayettevotes.net/Voter-Information/Early-Voting",
-  "flagboxes": 0,
+  "urlstatelevelvbm": "https://dos.myflorida.com/elections/for-voters/voting/vote-by-mail/",
+  "flagboxes": 1,
   "areadatacode": 3,
+  "arealeveltext": "Your county has Vote-By-Mail ballot drop-off ONLY at the Supervisor of Elections office. The Show Drop-Off Options button will take you to your county webpage showing the address for the Elections office and any information on the ballot dropbox there, where available.",
   "flagattn": 1,
   "shortname": "lafayette"
 }

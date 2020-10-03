@@ -2,7 +2,10 @@
   "state": "AL",
   "fips5": "01099",
   "adminarea": "Monroe",
-  "urlvbmdropboxes": "https://www.countyoffice.org/monroe-county-board-of-elections-monroeville-al-b6e/",
+  "urlvbmdropboxes": "https://www.sos.alabama.gov/city-county-lookup/monroe",
+  "urlstatelevelvbm": "https://www.sos.alabama.gov/alabama-votes/voter/absentee-voting",
   "flagboxes": 0,
+  "areadatacode": 4,
+  "arealeveltext": "Your county DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to a state-level webpage showing the Absentee Elections Office address for your county, where you can hand deliver your ballot.",
   "shortname": "monroe"
 }

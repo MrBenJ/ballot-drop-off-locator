@@ -2,8 +2,11 @@
   "state": "FL",
   "fips5": "12129",
   "adminarea": "Wakulla",
-  "urlvbmdropboxes": "https://www.overseasvotefoundation.org/vote/election-official-directory/FL/Wakulla%20County",
+  "urlvbmdropboxes": "https://www.wakullaelection.com/m/Voting-Methods",
   "urlearlyvoting": "https://www.wakullaelection.com/m/Voting-Methods",
-  "flagboxes": 0,
+  "urlstatelevelvbm": "https://dos.myflorida.com/elections/for-voters/voting/vote-by-mail/",
+  "flagboxes": 1,
+  "areadatacode": 3,
+  "arealeveltext": "Your county has Vote-By-Mail ballot drop-off ONLY at the Supervisor of Elections office. The Show Drop-Off Options button will take you to your county webpage showing the address for the Elections office (bottom of page) and any information on the ballot dropbox there, where available.",
   "shortname": "wakulla"
 }

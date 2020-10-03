@@ -2,9 +2,11 @@
   "state": "FL",
   "fips5": "12027",
   "adminarea": "Dixie",
-  "urlvbmdropboxes": "https://www.dixievotes.com/",
+  "urlvbmdropboxes": "https://www.dixievotes.com/Vote-By-Mail-Absentee/Absentee-Ballot-Information",
   "urlearlyvoting": "https://www.dixievotes.com/Voter-Information/Early-Voting",
+  "urlstatelevelvbm": "https://dos.myflorida.com/elections/for-voters/voting/vote-by-mail/",
   "flagboxes": 1,
-  "areadatacode": 1,
+  "areadatacode": 3,
+  "arealeveltext": "Your county has Vote-By-Mail ballot drop-off ONLY at the Supervisor of Elections office. The Show Drop-Off Options button will take you to your county webpage showing the address for the Elections office and any information on the ballot dropbox there, where available.",
   "shortname": "dixie"
 }

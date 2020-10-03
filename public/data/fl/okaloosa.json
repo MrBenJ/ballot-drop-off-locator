@@ -2,8 +2,11 @@
   "state": "FL",
   "fips5": "12091",
   "adminarea": "Okaloosa",
-  "urlvbmdropboxes": "ttps://www.voteokaloosa.gov/Portals/Okaloosa/2020_04_03%20COVID%2019%20Office%20Lobby%20Closures.pdf",
+  "urlvbmdropboxes": "https://www.voteokaloosa.gov/Ways-to-Vote/Vote-Early",
   "urlearlyvoting": "https://www.govote-okaloosa.com/Ways-to-Vote/Vote-Early",
+  "urlstatelevelvbm": "https://dos.myflorida.com/elections/for-voters/voting/vote-by-mail/",
   "flagboxes": 1,
+  "areadatacode": 1,
+  "arealeveltext": "Your county has Vote-By-Mail ballot dropoff ONLY at Early Voting locations of the Supervisor of Elections office. The Show Drop-Off Options button will take you to your county webpage showing a list of Early Voting locations and dropbox hours.",
   "shortname": "okaloosa"
 }

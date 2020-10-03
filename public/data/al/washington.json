@@ -2,7 +2,10 @@
   "state": "AL",
   "fips5": "01129",
   "adminarea": "Washington",
-  "urlvbmdropboxes": "https://www.countyoffice.org/washington-county-board-of-elections-chatom-al-1c9/",
+  "urlvbmdropboxes": "https://www.sos.alabama.gov/city-county-lookup/washington",
+  "urlstatelevelvbm": "https://www.sos.alabama.gov/alabama-votes/voter/absentee-voting",
   "flagboxes": 0,
+  "areadatacode": 4,
+  "arealeveltext": "Your county DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to a state-level webpage showing the Absentee Elections Office address for your county, where you can hand deliver your ballot.",
   "shortname": "washington"
 }

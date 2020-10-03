@@ -2,9 +2,12 @@
   "state": "FL",
   "fips5": "12105",
   "adminarea": "Polk",
-  "urlvbmdropboxes": "https://www.polkelections.com/Voter-Services/Vote-by-Mail-FAQ",
+  "urlvbmdropboxes": "https://www.polkelections.com/Voter-Services/Early-Voting",
   "urlearlyvoting": "https://www.polkelections.com/Voter-Services/Early-Voting",
+  "urlstatelevelvbm": "https://dos.myflorida.com/elections/for-voters/voting/vote-by-mail/",
   "flagboxes": 1,
+  "areadatacode": 1,
+  "arealeveltext": "Your county has Vote-By-Mail ballot dropoff ONLY at Early Voting locations of the Supervisor of Elections office. The Show Drop-Off Options button will take you to your county webpage showing a list of Early Voting locations and dropbox hours.",
   "flagattn": 1,
   "shortname": "polk"
 }

@@ -3,7 +3,9 @@
   "fips5": "01003",
   "adminarea": "Baldwin",
   "urlvbmdropboxes": "https://baldwincountyal.gov/Government/probate/elections/absentee-voting",
+  "urlstatelevelvbm": "https://www.sos.alabama.gov/alabama-votes/voter/absentee-voting",
   "flagboxes": 0,
-  "arealeveltext": "*In some counties, the information is so vague that the state site seems like the best option -francisco",
+  "areadatacode": 3,
+  "arealeveltext": "Your county DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage showing the Absentee Elections Office address, where you can hand deliver your ballot.",
   "shortname": "baldwin"
 }

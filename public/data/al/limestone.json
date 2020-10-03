@@ -3,6 +3,9 @@
   "fips5": "01083",
   "adminarea": "Limestone",
   "urlvbmdropboxes": "https://www.votelimestone.com/voter-information/absentee-voting/",
+  "urlstatelevelvbm": "https://www.sos.alabama.gov/alabama-votes/voter/absentee-voting",
   "flagboxes": 0,
+  "areadatacode": 3,
+  "arealeveltext": "Your county DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage showing the Absentee Elections Office address, where you can hand deliver your ballot.",
   "shortname": "limestone"
 }

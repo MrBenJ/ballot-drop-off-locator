@@ -2,9 +2,11 @@
   "state": "FL",
   "fips5": "12017",
   "adminarea": "Citrus",
-  "urlvbmdropboxes": "https://www.votecitrus.com/",
+  "urlvbmdropboxes": "https://www.votecitrus.com/Vote-by-Mail-and-Early-Voting/2020-Early-Voting-Schedule",
   "urlearlyvoting": "https://www.votecitrus.com/Vote-by-Mail-and-Early-Voting/2020-Early-Voting-Schedule",
+  "urlstatelevelvbm": "https://dos.myflorida.com/elections/for-voters/voting/vote-by-mail/",
   "flagboxes": 1,
   "areadatacode": 1,
+  "arealeveltext": "Your county has Vote-By-Mail ballot dropoff ONLY at Early Voting locations of the Supervisor of Elections office. The Show Drop-Off Options button will take you to your county webpage showing a list of Early Voting locations and dropbox hours.",
   "shortname": "citrus"
 }

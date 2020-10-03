@@ -4,6 +4,9 @@
   "adminarea": "Nassau",
   "urlvbmdropboxes": "https://www.votenassau.com/Voting-How-When-Where/Ballot-Drop-off-Locations",
   "urlearlyvoting": "https://www.votenassau.com/Voting-How-When-Where/Early-Voting",
+  "urlstatelevelvbm": "https://dos.myflorida.com/elections/for-voters/voting/vote-by-mail/",
   "flagboxes": 1,
+  "areadatacode": 1,
+  "arealeveltext": "Your county DOES have Vote-By-Mail ballot dropboxes. The Show Drop-Off Options button will take you to your county webpage with a list of ballot dropboxes available in your area. Vote-By-Mail ballots can also be dropped at any Early Voting location.",
   "shortname": "nassau"
 }

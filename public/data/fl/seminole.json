@@ -2,8 +2,11 @@
   "state": "FL",
   "fips5": "12117",
   "adminarea": "Seminole",
-  "urlvbmdropboxes": "https://content.web-repository.com/s/64283614912134331/uploads/Graphics/Vote_by_Mail_FAQs_Download_Poulalion_Campaign-8206237.pdf",
+  "urlvbmdropboxes": "https://www.voteseminole.org/early-voting",
   "urlearlyvoting": "https://www.voteseminole.org/early-voting#gsc.tab=0",
-  "flagboxes": 0,
+  "urlstatelevelvbm": "https://dos.myflorida.com/elections/for-voters/voting/vote-by-mail/",
+  "flagboxes": 1,
+  "areadatacode": 1,
+  "arealeveltext": "Your county has Vote-By-Mail ballot dropoff ONLY at Early Voting locations of the Supervisor of Elections office. The Show Drop-Off Options button will take you to your county webpage showing a list of Early Voting locations and dropbox hours.",
   "shortname": "seminole"
 }

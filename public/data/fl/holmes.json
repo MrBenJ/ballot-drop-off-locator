@@ -2,9 +2,11 @@
   "state": "FL",
   "fips5": "12057",
   "adminarea": "Holmes",
-  "urlvbmdropboxes": "https://www.holmeselections.com/3-Ways-to-Vote/Vote-By-Mail-Absentee",
+  "urlvbmdropboxes": "https://www.holmeselections.com/3-Ways-to-Vote/Vote-Early",
   "urlearlyvoting": "https://www.holmeselections.com/Election-Information/Upcoming-Elections",
+  "urlstatelevelvbm": "https://dos.myflorida.com/elections/for-voters/voting/vote-by-mail/",
   "flagboxes": 1,
-  "areadatacode": 1,
+  "areadatacode": 3,
+  "arealeveltext": "Your county has Vote-By-Mail ballot drop-off ONLY at the Supervisor of Elections office. The Show Drop-Off Options button will take you to your county webpage showing the address for the Elections office and any information on the ballot dropbox there, where available.",
   "shortname": "holmes"
 }

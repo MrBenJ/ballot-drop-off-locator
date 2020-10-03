@@ -2,8 +2,11 @@
   "state": "FL",
   "fips5": "12075",
   "adminarea": "Liberty",
-  "urlvbmdropboxes": "https://www.libertyelections.com/",
+  "urlvbmdropboxes": "https://www.libertyelections.com/Voter-Information/-Early-Voting",
   "urlearlyvoting": "https://www.libertyelections.com/",
+  "urlstatelevelvbm": "https://dos.myflorida.com/elections/for-voters/voting/vote-by-mail/",
   "flagboxes": 1,
+  "areadatacode": 1,
+  "arealeveltext": "Your county has Vote-By-Mail ballot dropoff ONLY at Early Voting locations of the Supervisor of Elections office. The Show Drop-Off Options button will take you to your county webpage showing a list of Early Voting locations and dropbox hours.",
   "shortname": "liberty"
 }

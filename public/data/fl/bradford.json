@@ -4,8 +4,10 @@
   "adminarea": "Bradford",
   "urlvbmdropboxes": "https://www.bradfordelections.com/Voter-Information/Vote-By-Mail-Information-and-Request-Form",
   "urlearlyvoting": "https://www.bradfordelections.com/Voter-Information/Vote-By-Mail-Information-and-Request-Form",
+  "urlstatelevelvbm": "https://dos.myflorida.com/elections/for-voters/voting/vote-by-mail/",
   "flagboxes": 1,
-  "areadatacode": 1,
+  "areadatacode": 3,
+  "arealeveltext": "Your county has Vote-By-Mail ballot drop-off ONLY at the Supervisor of Elections office. The Show Drop-Off Options button will take you to your county webpage for the Elections office. The address is: 945 N Temple Ave Suite C, Starke, FL 32091",
   "flagattn": 1,
   "shortname": "bradford"
 }

@@ -4,7 +4,9 @@
   "adminarea": "Gilchrist",
   "urlvbmdropboxes": "https://www.votegilchrist.com/Information-for-Voters/Absentee-Voting",
   "urlearlyvoting": "https://www.votegilchrist.com/Information-for-Voters/Early-Voting",
+  "urlstatelevelvbm": "https://dos.myflorida.com/elections/for-voters/voting/vote-by-mail/",
   "flagboxes": 0,
   "areadatacode": 3,
+  "arealeveltext": "Your county has Vote-By-Mail ballot drop-off ONLY at the Supervisor of Elections office. The Show Drop-Off Options button will take you to your county webpage showing the address for the Elections office and any information on the ballot dropbox there, where available.",
   "shortname": "gilchrist"
 }

@@ -3,7 +3,9 @@
   "fips5": "01017",
   "adminarea": "Chambers",
   "urlvbmdropboxes": "https://chamberscountyal.gov/departments/probate-office/election-management",
+  "urlstatelevelvbm": "https://www.sos.alabama.gov/alabama-votes/voter/absentee-voting",
   "flagboxes": 0,
-  "arealeveltext": "state redirect for absentee voting - https://www.sos.alabama.gov/alabama-votes/voter/absentee-voting",
+  "areadatacode": 3,
+  "arealeveltext": "Your county DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage showing the Absentee Elections Office address, where you can hand deliver your ballot.",
   "shortname": "chambers"
 }

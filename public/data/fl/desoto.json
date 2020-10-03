@@ -2,9 +2,11 @@
   "state": "FL",
   "fips5": "12025",
   "adminarea": "DeSoto",
-  "urlvbmdropboxes": "https://www.votedesoto.com/",
+  "urlvbmdropboxes": "https://www.votedesoto.com/Voter-Info/Vote-by-Mail",
   "urlearlyvoting": "https://www.votedesoto.com/Election-Info/Early-Voting",
+  "urlstatelevelvbm": "https://dos.myflorida.com/elections/for-voters/voting/vote-by-mail/",
   "flagboxes": 1,
-  "areadatacode": 1,
+  "areadatacode": 3,
+  "arealeveltext": "Your county has Vote-By-Mail ballot drop-off ONLY at the Supervisor of Elections office. The Show Drop-Off Options button will take you to your county webpage showing the address for the Elections office and any information on the ballot dropbox there, where available.",
   "shortname": "desoto"
 }

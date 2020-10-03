@@ -3,6 +3,9 @@
   "fips5": "01049",
   "adminarea": "DeKalb",
   "urlvbmdropboxes": "http://www.dekalbcountyal.us/board-of-registrars/",
+  "urlstatelevelvbm": "https://www.sos.alabama.gov/alabama-votes/voter/absentee-voting",
   "flagboxes": 0,
+  "areadatacode": 3,
+  "arealeveltext": "Your county DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage showing the Absentee Elections Office address, where you can hand deliver your ballot.",
   "shortname": "dekalb"
 }

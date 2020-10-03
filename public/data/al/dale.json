@@ -2,8 +2,10 @@
   "state": "AL",
   "fips5": "01045",
   "adminarea": "Dale",
-  "urlvbmdropboxes": "https://www.dalecountyprobate.org/elections/elections/",
+  "urlvbmdropboxes": "https://www.sos.alabama.gov/city-county-lookup/dale",
+  "urlstatelevelvbm": "https://www.sos.alabama.gov/alabama-votes/voter/absentee-voting",
   "flagboxes": 0,
-  "arealeveltext": "https://www.sos.alabama.gov/alabama-votes",
+  "areadatacode": 4,
+  "arealeveltext": "Your county DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to a state-level webpage showing the Absentee Elections Office address for your county, where you can hand deliver your ballot.",
   "shortname": "dale"
 }

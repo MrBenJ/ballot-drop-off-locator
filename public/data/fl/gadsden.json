@@ -2,10 +2,12 @@
   "state": "FL",
   "fips5": "12037",
   "adminarea": "Gadsden",
-  "urlvbmdropboxes": "https://www.gadsdensoe.com/",
+  "urlvbmdropboxes": "https://www.gadsdensoe.com/LinkClick.aspx?fileticket=_oDsg5gtm0g%3d&tabid=11471&portalid=90",
   "urlearlyvoting": "https://www.gadsdensoe.com/Early-Voting/Early-Voting-Information",
+  "urlstatelevelvbm": "https://dos.myflorida.com/elections/for-voters/voting/vote-by-mail/",
   "flagboxes": 1,
   "areadatacode": 1,
+  "arealeveltext": "Your county has Vote-By-Mail ballot dropoff ONLY at Early Voting locations of the Supervisor of Elections office. The Show Drop-Off Options button will take you to your county webpage showing a list of Early Voting locations and dropbox hours.",
   "flagattn": 1,
   "shortname": "gadsden"
 }

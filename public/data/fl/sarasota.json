@@ -2,8 +2,12 @@
   "state": "FL",
   "fips5": "12115",
   "adminarea": "Sarasota",
-  "urlvbmdropboxes": "file:///C:/Users/Owner/Downloads/VBM%20Fact%20Sheet%20-%20Nov%203%202020.pdf",
+  "urlvbmdropboxes": "https://www.sarasotavotes.com/GetDocument.aspx?id=696",
   "urlearlyvoting": "file:///C:/Users/Owner/Downloads/VBM%20Fact%20Sheet%20-%20Nov%203%202020.pdf",
+  "urlstatelevelvbm": "https://dos.myflorida.com/elections/for-voters/voting/vote-by-mail/",
   "flagboxes": 1,
+  "areadatacode": 1,
+  "arealeveltext": "Your county has Vote-By-Mail ballot dropoff ONLY at Early Voting locations of the Supervisor of Elections office. The Show Drop-Off Options button will take you to your county webpage showing a list of Early Voting locations and dropbox hours.",
+  "flagattn": 1,
   "shortname": "sarasota"
 }
