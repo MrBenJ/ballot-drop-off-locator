@@ -1,0 +1,11 @@
+{
+  "state": "MI",
+  "fips5": "26095",
+  "adminarea": "Luce",
+  "urlvbmdropboxes": "https://mvic.sos.state.mi.us/Voter/Index/#yourclerk",
+  "urlstatelevelvbm": "https://www.michigan.gov/sos/0,4670,7-127-1633_8716_8728-21037--,00.html",
+  "flagboxes": 1,
+  "areadatacode": 261,
+  "arealeveltext": "Michigan absentee ballots are returned to City/Township Clerks, not at the county level. The SHOW DROP-OFF OPTIONS button will take you to a state voter information search to find your City Clerk’s office for ballot delivery, including dropbox locations where available.",
+  "shortname": "luce"
+}

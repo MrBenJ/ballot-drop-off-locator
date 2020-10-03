@@ -1,0 +1,11 @@
+{
+  "state": "WI",
+  "fips5": "55059",
+  "adminarea": "Kenosha",
+  "urlvbmdropboxes": "https://www.kenoshacounty.org/DocumentCenter/View/11280/ABSENTEE-BALLOT-DROP-BOX-LOCATIONS",
+  "urlstatelevelvbm": "https://elections.wi.gov/2020",
+  "flagboxes": 1,
+  "areadatacode": 552,
+  "arealeveltext": "Wisconsin absentee ballots are returned to Municipal Clerks, not at the county level. The SHOW DROP-OFF OPTIONS button will take you to a county-level list of cities/towns to find your Municipal Clerk’s office, where your ballot can be hand delivered. Your ballot can also be dropped at your polling place on Election Day.",
+  "shortname": "kenosha"
+}

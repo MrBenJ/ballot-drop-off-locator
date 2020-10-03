@@ -1,0 +1,290 @@
+[
+  {
+    "adminarea": "Adams",
+    "shortname": "adams"
+  },
+  {
+    "adminarea": "Ashland",
+    "shortname": "ashland"
+  },
+  {
+    "adminarea": "Barron",
+    "shortname": "barron"
+  },
+  {
+    "adminarea": "Bayfield",
+    "shortname": "bayfield"
+  },
+  {
+    "adminarea": "Brown",
+    "shortname": "brown"
+  },
+  {
+    "adminarea": "Buffalo",
+    "shortname": "buffalo"
+  },
+  {
+    "adminarea": "Burnett",
+    "shortname": "burnett"
+  },
+  {
+    "adminarea": "Calumet",
+    "shortname": "calumet"
+  },
+  {
+    "adminarea": "Chippewa",
+    "shortname": "chippewa"
+  },
+  {
+    "adminarea": "Clark",
+    "shortname": "clark"
+  },
+  {
+    "adminarea": "Columbia",
+    "shortname": "columbia"
+  },
+  {
+    "adminarea": "Crawford",
+    "shortname": "crawford"
+  },
+  {
+    "adminarea": "Dane",
+    "shortname": "dane"
+  },
+  {
+    "adminarea": "Dodge",
+    "shortname": "dodge"
+  },
+  {
+    "adminarea": "Door",
+    "shortname": "door"
+  },
+  {
+    "adminarea": "Douglas",
+    "shortname": "douglas"
+  },
+  {
+    "adminarea": "Dunn",
+    "shortname": "dunn"
+  },
+  {
+    "adminarea": "Eau Claire",
+    "shortname": "eau-claire"
+  },
+  {
+    "adminarea": "Florence",
+    "shortname": "florence"
+  },
+  {
+    "adminarea": "Fond du Lac",
+    "shortname": "fond-du lac"
+  },
+  {
+    "adminarea": "Forest",
+    "shortname": "forest"
+  },
+  {
+    "adminarea": "Grant",
+    "shortname": "grant"
+  },
+  {
+    "adminarea": "Green",
+    "shortname": "green"
+  },
+  {
+    "adminarea": "Green Lake",
+    "shortname": "green-lake"
+  },
+  {
+    "adminarea": "Iowa",
+    "shortname": "iowa"
+  },
+  {
+    "adminarea": "Iron",
+    "shortname": "iron"
+  },
+  {
+    "adminarea": "Jackson",
+    "shortname": "jackson"
+  },
+  {
+    "adminarea": "Jefferson",
+    "shortname": "jefferson"
+  },
+  {
+    "adminarea": "Juneau",
+    "shortname": "juneau"
+  },
+  {
+    "adminarea": "Kenosha",
+    "shortname": "kenosha"
+  },
+  {
+    "adminarea": "Kewaunee",
+    "shortname": "kewaunee"
+  },
+  {
+    "adminarea": "La Crosse",
+    "shortname": "la-crosse"
+  },
+  {
+    "adminarea": "Lafayette",
+    "shortname": "lafayette"
+  },
+  {
+    "adminarea": "Langlade",
+    "shortname": "langlade"
+  },
+  {
+    "adminarea": "Lincoln",
+    "shortname": "lincoln"
+  },
+  {
+    "adminarea": "Manitowoc",
+    "shortname": "manitowoc"
+  },
+  {
+    "adminarea": "Marathon",
+    "shortname": "marathon"
+  },
+  {
+    "adminarea": "Marinette",
+    "shortname": "marinette"
+  },
+  {
+    "adminarea": "Marquette",
+    "shortname": "marquette"
+  },
+  {
+    "adminarea": "Menominee",
+    "shortname": "menominee"
+  },
+  {
+    "adminarea": "Milwaukee",
+    "shortname": "milwaukee"
+  },
+  {
+    "adminarea": "Monroe",
+    "shortname": "monroe"
+  },
+  {
+    "adminarea": "Oconto",
+    "shortname": "oconto"
+  },
+  {
+    "adminarea": "Oneida",
+    "shortname": "oneida"
+  },
+  {
+    "adminarea": "Outagamie",
+    "shortname": "outagamie"
+  },
+  {
+    "adminarea": "Ozaukee",
+    "shortname": "ozaukee"
+  },
+  {
+    "adminarea": "Pepin",
+    "shortname": "pepin"
+  },
+  {
+    "adminarea": "Pierce",
+    "shortname": "pierce"
+  },
+  {
+    "adminarea": "Polk",
+    "shortname": "polk"
+  },
+  {
+    "adminarea": "Portage",
+    "shortname": "portage"
+  },
+  {
+    "adminarea": "Price",
+    "shortname": "price"
+  },
+  {
+    "adminarea": "Racine",
+    "shortname": "racine"
+  },
+  {
+    "adminarea": "Richland",
+    "shortname": "richland"
+  },
+  {
+    "adminarea": "Rock",
+    "shortname": "rock"
+  },
+  {
+    "adminarea": "Rusk",
+    "shortname": "rusk"
+  },
+  {
+    "adminarea": "St. Croix",
+    "shortname": "st.-croix"
+  },
+  {
+    "adminarea": "Sauk",
+    "shortname": "sauk"
+  },
+  {
+    "adminarea": "Sawyer",
+    "shortname": "sawyer"
+  },
+  {
+    "adminarea": "Shawano",
+    "shortname": "shawano"
+  },
+  {
+    "adminarea": "Sheboygan",
+    "shortname": "sheboygan"
+  },
+  {
+    "adminarea": "Taylor",
+    "shortname": "taylor"
+  },
+  {
+    "adminarea": "Trempealeau",
+    "shortname": "trempealeau"
+  },
+  {
+    "adminarea": "Vernon",
+    "shortname": "vernon"
+  },
+  {
+    "adminarea": "Vilas",
+    "shortname": "vilas"
+  },
+  {
+    "adminarea": "Walworth",
+    "shortname": "walworth"
+  },
+  {
+    "adminarea": "Washburn",
+    "shortname": "washburn"
+  },
+  {
+    "adminarea": "Washington",
+    "shortname": "washington"
+  },
+  {
+    "adminarea": "Waukesha",
+    "shortname": "waukesha"
+  },
+  {
+    "adminarea": "Waupaca",
+    "shortname": "waupaca"
+  },
+  {
+    "adminarea": "Waushara",
+    "shortname": "waushara"
+  },
+  {
+    "adminarea": "Winnebago",
+    "shortname": "winnebago"
+  },
+  {
+    "adminarea": "Wood",
+    "shortname": "wood"
+  }
+]

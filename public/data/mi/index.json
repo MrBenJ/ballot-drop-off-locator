@@ -1,0 +1,334 @@
+[
+  {
+    "adminarea": "Alcona",
+    "shortname": "alcona"
+  },
+  {
+    "adminarea": "Alger",
+    "shortname": "alger"
+  },
+  {
+    "adminarea": "Allegan",
+    "shortname": "allegan"
+  },
+  {
+    "adminarea": "Alpena",
+    "shortname": "alpena"
+  },
+  {
+    "adminarea": "Antrim",
+    "shortname": "antrim"
+  },
+  {
+    "adminarea": "Arenac",
+    "shortname": "arenac"
+  },
+  {
+    "adminarea": "Baraga",
+    "shortname": "baraga"
+  },
+  {
+    "adminarea": "Barry",
+    "shortname": "barry"
+  },
+  {
+    "adminarea": "Bay",
+    "shortname": "bay"
+  },
+  {
+    "adminarea": "Benzie",
+    "shortname": "benzie"
+  },
+  {
+    "adminarea": "Berrien",
+    "shortname": "berrien"
+  },
+  {
+    "adminarea": "Branch",
+    "shortname": "branch"
+  },
+  {
+    "adminarea": "Calhoun",
+    "shortname": "calhoun"
+  },
+  {
+    "adminarea": "Cass",
+    "shortname": "cass"
+  },
+  {
+    "adminarea": "Charlevoix",
+    "shortname": "charlevoix"
+  },
+  {
+    "adminarea": "Cheboygan",
+    "shortname": "cheboygan"
+  },
+  {
+    "adminarea": "Chippewa",
+    "shortname": "chippewa"
+  },
+  {
+    "adminarea": "Clare",
+    "shortname": "clare"
+  },
+  {
+    "adminarea": "Clinton",
+    "shortname": "clinton"
+  },
+  {
+    "adminarea": "Crawford",
+    "shortname": "crawford"
+  },
+  {
+    "adminarea": "Delta",
+    "shortname": "delta"
+  },
+  {
+    "adminarea": "Dickinson",
+    "shortname": "dickinson"
+  },
+  {
+    "adminarea": "Eaton",
+    "shortname": "eaton"
+  },
+  {
+    "adminarea": "Emmet",
+    "shortname": "emmet"
+  },
+  {
+    "adminarea": "Genesee",
+    "shortname": "genesee"
+  },
+  {
+    "adminarea": "Gladwin",
+    "shortname": "gladwin"
+  },
+  {
+    "adminarea": "Gogebic",
+    "shortname": "gogebic"
+  },
+  {
+    "adminarea": "Grand Traverse",
+    "shortname": "grand-traverse"
+  },
+  {
+    "adminarea": "Gratiot",
+    "shortname": "gratiot"
+  },
+  {
+    "adminarea": "Hillsdale",
+    "shortname": "hillsdale"
+  },
+  {
+    "adminarea": "Houghton",
+    "shortname": "houghton"
+  },
+  {
+    "adminarea": "Huron",
+    "shortname": "huron"
+  },
+  {
+    "adminarea": "Ingham",
+    "shortname": "ingham"
+  },
+  {
+    "adminarea": "Ionia",
+    "shortname": "ionia"
+  },
+  {
+    "adminarea": "Iosco",
+    "shortname": "iosco"
+  },
+  {
+    "adminarea": "Iron",
+    "shortname": "iron"
+  },
+  {
+    "adminarea": "Isabella",
+    "shortname": "isabella"
+  },
+  {
+    "adminarea": "Jackson",
+    "shortname": "jackson"
+  },
+  {
+    "adminarea": "Kalamazoo",
+    "shortname": "kalamazoo"
+  },
+  {
+    "adminarea": "Kalkaska",
+    "shortname": "kalkaska"
+  },
+  {
+    "adminarea": "Kent",
+    "shortname": "kent"
+  },
+  {
+    "adminarea": "Keweenaw",
+    "shortname": "keweenaw"
+  },
+  {
+    "adminarea": "Lake",
+    "shortname": "lake"
+  },
+  {
+    "adminarea": "Lapeer",
+    "shortname": "lapeer"
+  },
+  {
+    "adminarea": "Leelanau",
+    "shortname": "leelanau"
+  },
+  {
+    "adminarea": "Lenawee",
+    "shortname": "lenawee"
+  },
+  {
+    "adminarea": "Livingston",
+    "shortname": "livingston"
+  },
+  {
+    "adminarea": "Luce",
+    "shortname": "luce"
+  },
+  {
+    "adminarea": "Mackinac",
+    "shortname": "mackinac"
+  },
+  {
+    "adminarea": "Macomb",
+    "shortname": "macomb"
+  },
+  {
+    "adminarea": "Manistee",
+    "shortname": "manistee"
+  },
+  {
+    "adminarea": "Marquette",
+    "shortname": "marquette"
+  },
+  {
+    "adminarea": "Mason",
+    "shortname": "mason"
+  },
+  {
+    "adminarea": "Mecosta",
+    "shortname": "mecosta"
+  },
+  {
+    "adminarea": "Menominee",
+    "shortname": "menominee"
+  },
+  {
+    "adminarea": "Midland",
+    "shortname": "midland"
+  },
+  {
+    "adminarea": "Missaukee",
+    "shortname": "missaukee"
+  },
+  {
+    "adminarea": "Monroe",
+    "shortname": "monroe"
+  },
+  {
+    "adminarea": "Montcalm",
+    "shortname": "montcalm"
+  },
+  {
+    "adminarea": "Montmorency",
+    "shortname": "montmorency"
+  },
+  {
+    "adminarea": "Muskegon",
+    "shortname": "muskegon"
+  },
+  {
+    "adminarea": "Newaygo",
+    "shortname": "newaygo"
+  },
+  {
+    "adminarea": "Oakland",
+    "shortname": "oakland"
+  },
+  {
+    "adminarea": "Oceana",
+    "shortname": "oceana"
+  },
+  {
+    "adminarea": "Ogemaw",
+    "shortname": "ogemaw"
+  },
+  {
+    "adminarea": "Ontonagon",
+    "shortname": "ontonagon"
+  },
+  {
+    "adminarea": "Osceola",
+    "shortname": "osceola"
+  },
+  {
+    "adminarea": "Oscoda",
+    "shortname": "oscoda"
+  },
+  {
+    "adminarea": "Otsego",
+    "shortname": "otsego"
+  },
+  {
+    "adminarea": "Ottawa",
+    "shortname": "ottawa"
+  },
+  {
+    "adminarea": "Presque Isle",
+    "shortname": "presque-isle"
+  },
+  {
+    "adminarea": "Roscommon",
+    "shortname": "roscommon"
+  },
+  {
+    "adminarea": "Saginaw",
+    "shortname": "saginaw"
+  },
+  {
+    "adminarea": "Sanilac",
+    "shortname": "sanilac"
+  },
+  {
+    "adminarea": "Schoolcraft",
+    "shortname": "schoolcraft"
+  },
+  {
+    "adminarea": "Shiawassee",
+    "shortname": "shiawassee"
+  },
+  {
+    "adminarea": "St. Clair",
+    "shortname": "st.-clair"
+  },
+  {
+    "adminarea": "St. Joseph",
+    "shortname": "st.-joseph"
+  },
+  {
+    "adminarea": "Tuscola",
+    "shortname": "tuscola"
+  },
+  {
+    "adminarea": "Van Buren",
+    "shortname": "van-buren"
+  },
+  {
+    "adminarea": "Washtenaw",
+    "shortname": "washtenaw"
+  },
+  {
+    "adminarea": "Wayne",
+    "shortname": "wayne"
+  },
+  {
+    "adminarea": "Wexford",
+    "shortname": "wexford"
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "state": "WI",
+  "fips5": "55075",
+  "adminarea": "Marinette",
+  "urlvbmdropboxes": "https://myvote.wi.gov/en-US/MyMunicipalClerk",
+  "urlstatelevelvbm": "https://elections.wi.gov/2020",
+  "flagboxes": 0,
+  "areadatacode": 551,
+  "arealeveltext": "Wisconsin absentee ballots are returned to Municipal Clerks, not at the county level. The SHOW DROP-OFF OPTIONS button will take you to a state-level search to find your Municipal Clerk’s office, where your ballot can be hand delivered. Your ballot can also be dropped at your polling place on Election Day.",
+  "shortname": "marinette"
+}
