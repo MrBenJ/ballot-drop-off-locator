@@ -2,8 +2,10 @@
   "state": "PA",
   "fips5": "42017",
   "adminarea": "Bucks",
-  "urlvbmdropboxes": "http://buckscounty.org/government/administration/ChiefClerk/BoardofElections",
+  "urlvbmdropboxes": "https://www.votespa.com/voting-in-pa/pages/drop-box.aspx",
   "urlstatelevelvbm": "https://www.votespa.com/Voting-in-PA/Pages/Mail-and-Absentee-Ballot.aspx",
-  "flagboxes": 0,
+  "flagboxes": 1,
+  "areadatacode": 422,
+  "arealeveltext": "Your county DOES have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to state-level webpage showing a statewide list of ballot dropboxes, including ones available in your area.",
   "shortname": "bucks"
 }

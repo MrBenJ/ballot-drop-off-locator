@@ -94,6 +94,9 @@ test(
         },
         flagboxes: {
           type: 'number'
+        },
+        arealeveltext: {
+          type: 'string'
         }
       }
     };

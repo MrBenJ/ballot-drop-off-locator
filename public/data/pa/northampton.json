@@ -4,6 +4,8 @@
   "adminarea": "Northampton",
   "urlvbmdropboxes": "https://www.northamptoncounty.org/CTYADMN/ELECTNS/Pages/AbsenteeVoting.aspx",
   "urlstatelevelvbm": "https://www.votespa.com/Voting-in-PA/Pages/Mail-and-Absentee-Ballot.aspx",
-  "flagboxes": 0,
+  "flagboxes": 1,
+  "areadatacode": 421,
+  "arealeveltext": "Your county DOES have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to your county elections webpage showing a list of ballot dropboxes available in your area.",
   "shortname": "northampton"
 }

@@ -2,11 +2,12 @@
   "state": "NV",
   "fips5": "32029",
   "adminarea": "Pershing",
-  "urlvbmdropboxes": "https://www.nvsos.gov/sos/home/showdocument?id=8644",
+  "urlvbmdropboxes": "https://www.pershingcountynv.gov/government/clerk-treasurer/elections.php",
   "urlearlyvoting": "https://www.nvsos.gov/sos/elections/election-information/2012-early-voting-turnout-statistics/pershing-county-early-voting-general-2010",
   "urlstatelevelvbm": "https://www.nvsos.gov/sos/elections/voters/absentee-voting",
   "flagboxes": 1,
-  "areadatacode": 1,
+  "areadatacode": 321,
+  "arealeveltext": "Your county DOES have ballot drop-off at any Early Voting or Election Day polling place. The SHOW DROP-OFF OPTIONS button will take you to your county elections webpage show Early Voting locations and dates, and Election Day polling places to drop your ballot.",
   "flagattn": 1,
   "shortname": "pershing"
 }

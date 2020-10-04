@@ -2,8 +2,10 @@
   "state": "PA",
   "fips5": "42005",
   "adminarea": "Armstrong",
-  "urlvbmdropboxes": "https://www.co.armstrong.pa.us/index.php/departments-m/elections-voters-registration-m/election-faqs-m",
+  "urlvbmdropboxes": "https://www.co.armstrong.pa.us/index.php/departments-m/elections-voters-registration-m",
   "urlstatelevelvbm": "https://www.votespa.com/Voting-in-PA/Pages/Mail-and-Absentee-Ballot.aspx",
   "flagboxes": 0,
+  "areadatacode": 423,
+  "arealeveltext": "Your county DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage which shows the address for your county’s Election & Voter Registration office, where you can drop off your completed ballot.",
   "shortname": "armstrong"
 }

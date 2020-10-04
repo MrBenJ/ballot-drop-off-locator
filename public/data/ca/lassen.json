@@ -2,9 +2,10 @@
   "state": "CA",
   "fips5": "06035",
   "adminarea": "Lassen",
-  "urlvbmdropboxes": "http://www.lassencounty.org/sites/all/modules/pubdlcnt/pubdlcnt.php?fid=462",
+  "urlvbmdropboxes": "https://caearlyvoting.sos.ca.gov/",
+  "urlstatelevelvbm": "https://www.sos.ca.gov/elections/voter-registration/vote-mail",
   "flagboxes": 1,
-  "flagattn": 1,
-  "undefined": "is this current? are there more/new boxes?",
+  "areadatacode": "062",
+  "arealeveltext": "Your county DOES have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to a state-level county finder: select your county to see a list of ballot dropboxes in your area. Ballots can be dropped in a dropbox or brought to any Vote Center or polling place.",
   "shortname": "lassen"
 }

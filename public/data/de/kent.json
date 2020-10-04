@@ -4,5 +4,6 @@
   "adminarea": "Kent",
   "urlvbmdropboxes": "https://elections.delaware.gov/services/voter/votebymail/index.shtml",
   "flagboxes": 1,
+  "areadatacode": 102,
   "shortname": "kent"
 }

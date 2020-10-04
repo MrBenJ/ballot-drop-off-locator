@@ -2,8 +2,11 @@
   "state": "AZ",
   "fips5": "04005",
   "adminarea": "Coconino",
-  "urlvbmdropboxes": "https://www.coconino.az.gov/DocumentCenter/View/36811/Coconino-County-Ballot-Drop-Box-Locations-2020-Primary?bidId=",
+  "urlvbmdropboxes": "https://www.coconino.az.gov/DocumentCenter/View/37871/",
+  "urlstatelevelvbm": "https://azsos.gov/votebymail",
   "flagboxes": 1,
+  "areadatacode": "041",
+  "arealeveltext": "Your county DOES have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage with a list of ballot dropboxes available in your area. Ballots can be dropped in any dropbox, Early Voting location, or polling location on Election Day.",
   "flagattn": 1,
   "shortname": "coconino"
 }
