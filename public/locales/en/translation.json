@@ -32,6 +32,7 @@
   },
   "CountyPage": {
     "countyErrorGeneric": "There was an issue finding the data for this page",
+    "dropOffButtonText": "Show Drop-Off Options",
     "county": "County",
     "findMore": "Find out more about your state ballot.",
     "stateBallotButtonText": "State Ballot Info",
