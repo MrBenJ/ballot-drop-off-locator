@@ -4,5 +4,6 @@
   "adminarea": "Sussex",
   "urlvbmdropboxes": "https://elections.delaware.gov/services/voter/votebymail/index.shtml",
   "flagboxes": 1,
+  "areadatacode": 2,
   "shortname": "sussex"
 }

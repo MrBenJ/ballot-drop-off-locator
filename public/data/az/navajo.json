@@ -2,7 +2,10 @@
   "state": "AZ",
   "fips5": "04017",
   "adminarea": "Navajo",
-  "urlvbmdropboxes": "https://www.navajocountyaz.gov/Departments/Elections/Voter-Information",
+  "urlvbmdropboxes": "https://www.navajocountyaz.gov/Departments/Elections/Voter-Information/Early-Voting-Sites",
+  "urlstatelevelvbm": "https://azsos.gov/votebymail",
   "flagboxes": 0,
+  "areadatacode": "043",
+  "arealeveltext": "Your county DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage with the address for your county’s election office for hand delivery of your completed ballot. Ballots can also be dropped at any Early Voting location or polling location on Election Day.",
   "shortname": "navajo"
 }

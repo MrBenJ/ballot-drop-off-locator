@@ -2,8 +2,10 @@
   "state": "PA",
   "fips5": "42101",
   "adminarea": "Philadelphia",
-  "urlvbmdropboxes": "https://www.philadelphiavotes.com/en/voters/mail-in-and-absentee-ballots",
+  "urlvbmdropboxes": "https://www.philadelphiavotes.com/en/home/item/1845-open_satellite_election_offices_on_a_rolling_basis",
   "urlstatelevelvbm": "https://www.votespa.com/Voting-in-PA/Pages/Mail-and-Absentee-Ballot.aspx",
-  "flagboxes": 0,
+  "flagboxes": 1,
+  "areadatacode": 421,
+  "arealeveltext": "Your county DOES have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to your county elections webpage showing a list of ballot dropboxes available in your area.",
   "shortname": "philadelphia"
 }

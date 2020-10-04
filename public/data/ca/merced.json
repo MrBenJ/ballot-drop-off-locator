@@ -3,6 +3,9 @@
   "fips5": "06047",
   "adminarea": "Merced",
   "urlvbmdropboxes": "https://www.co.merced.ca.us/DocumentCenter/View/25421/",
+  "urlstatelevelvbm": "https://www.sos.ca.gov/elections/voter-registration/vote-mail",
   "flagboxes": 1,
+  "areadatacode": "061",
+  "arealeveltext": "Your county DOES have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage with a list of ballot dropboxes in your area. Ballots can be dropped in a dropbox or brought to any Vote Center or polling place.",
   "shortname": "merced"
 }

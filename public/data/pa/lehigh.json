@@ -2,8 +2,10 @@
   "state": "PA",
   "fips5": "42077",
   "adminarea": "Lehigh",
-  "urlvbmdropboxes": "https://www.lehighcounty.org/Departments/Voter-Registration/Absentee-Mail-In-Ballot",
+  "urlvbmdropboxes": "https://www.lehighcounty.org/Portals/0/PDF/PublicInformation/Lettered_County%20Drop%20Boxes%20Announcement%20%20Press%20Release_table.pdf?ver=2020-09-24-144953-347",
   "urlstatelevelvbm": "https://www.votespa.com/Voting-in-PA/Pages/Mail-and-Absentee-Ballot.aspx",
-  "flagboxes": 0,
+  "flagboxes": 1,
+  "areadatacode": 421,
+  "arealeveltext": "Your county DOES have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to your county elections webpage showing a list of ballot dropboxes available in your area.",
   "shortname": "lehigh"
 }

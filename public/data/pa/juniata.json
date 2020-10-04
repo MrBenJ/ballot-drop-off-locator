@@ -2,8 +2,10 @@
   "state": "PA",
   "fips5": "42067",
   "adminarea": "Juniata",
-  "urlvbmdropboxes": "https://www.juniataco.org/departments/voter-registration/",
+  "urlvbmdropboxes": "https://www.votespa.com/Resources/Pages/Contact-Your-Election-Officials.aspx",
   "urlstatelevelvbm": "https://www.votespa.com/Voting-in-PA/Pages/Mail-and-Absentee-Ballot.aspx",
   "flagboxes": 0,
+  "areadatacode": 424,
+  "arealeveltext": "Your county DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to a state-level finder where you can find the address of your county's Election & Voter Registration office, where you can drop off your completed ballot.",
   "shortname": "juniata"
 }

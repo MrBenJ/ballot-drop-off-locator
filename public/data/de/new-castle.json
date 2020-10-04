@@ -2,7 +2,8 @@
   "state": "DE",
   "fips5": "10003",
   "adminarea": "New Castle",
-  "urlvbmdropboxes": "https://elections.delaware.gov/services/voter/votebymail/index.shtml",
+  "urlvbmdropboxes": " https://elections.delaware.gov/services/voter/votebymail/index.shtml",
   "flagboxes": 1,
+  "areadatacode": 2,
   "shortname": "new-castle"
 }

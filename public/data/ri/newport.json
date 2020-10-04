@@ -1,0 +1,14 @@
+{
+  "state": "RI",
+  "fips5": "44005",
+  "adminarea": "Newport",
+  "urlvbmdropboxes": "https://vote.sos.ri.gov/Elections/LocalBoards",
+  "urlearlyvoting": "https://vote.sos.ri.gov/Voter/PersonVotingPage",
+  "urlstatelevelvbm": "https://vote.sos.ri.gov/Voter/VotebyMail",
+  "urlaux1": "https://ristate.maps.arcgis.com/apps/instant/nearby/index.html?appid=72c6ecd6bddd44cbbd3f007969fb1c35&sliderDistance=40&find=114%2520Old%2520River%2520Rd%252C%2520Lincoln%252C%2520Rhode%2520Island%252C%252002865",
+  "flagboxes": 1,
+  "areadatacode": "442",
+  "arealeveltext": "Your county DOES have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to a statewide list of local canvassing boards, and your completed ballot can be dropped at any location. All locations have an exterior dropbox available 24/7.",
+  "flagattn": 1,
+  "shortname": "newport"
+}

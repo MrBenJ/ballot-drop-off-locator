@@ -6,7 +6,8 @@
   "urlearlyvoting": "https://cltr.douglasnv.us/elections/",
   "urlstatelevelvbm": "https://www.nvsos.gov/sos/elections/voters/absentee-voting",
   "flagboxes": 1,
-  "areadatacode": 1,
+  "areadatacode": 321,
+  "arealeveltext": "Your county DOES have ballot drop-off at any Early Voting or Election Day polling place. The SHOW DROP-OFF OPTIONS button will take you to your county elections webpage show Early Voting locations and dates, and Election Day polling places to drop your ballot.",
   "flagattn": 1,
   "shortname": "douglas"
 }
