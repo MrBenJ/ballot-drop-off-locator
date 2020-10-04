@@ -85,7 +85,7 @@ const CountyPage = () => {
             href={data.urlvbmdropboxes}
             target="_blank"
             rel="noopener noreferrer">
-            <Button>{t('CountyPage.dropOffLinkText').toUpperCase()}</Button>
+            <Button>{t('CountyPage.dropOffButtonText').toUpperCase()}</Button>
           </a>
           {data.urlearlyvoting && (
             <>
