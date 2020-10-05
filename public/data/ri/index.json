@@ -1,0 +1,22 @@
+[
+  {
+    "adminarea": "Bristol",
+    "shortname": "bristol"
+  },
+  {
+    "adminarea": "Kent",
+    "shortname": "kent"
+  },
+  {
+    "adminarea": "Newport",
+    "shortname": "newport"
+  },
+  {
+    "adminarea": "Providence",
+    "shortname": "providence"
+  },
+  {
+    "adminarea": "Washington",
+    "shortname": "washington"
+  }
+]

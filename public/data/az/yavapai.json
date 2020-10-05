@@ -3,6 +3,9 @@
   "fips5": "04025",
   "adminarea": "Yavapai",
   "urlvbmdropboxes": "https://www.yavapai.us/electionsvr/early-voting",
-  "flagboxes": 0,
+  "urlstatelevelvbm": "https://azsos.gov/votebymail",
+  "flagboxes": 1,
+  "areadatacode": "042",
+  "arealeveltext": "Your county DOES have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage with a list of ballot dropboxes available in your area - click \"how do I submit my early ballot\". Ballots can be dropped in any dropbox, Early Voting location, or polling location on Election Day.",
   "shortname": "yavapai"
 }

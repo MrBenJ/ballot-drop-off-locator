@@ -2,11 +2,12 @@
   "state": "NV",
   "fips5": "32005",
   "adminarea": "Clark",
-  "urlvbmdropboxes": "https://cms8.revize.com/revize/clarknv/Election%20Department/MB-Drop-20G.pdf?t=1599176108827&t=1599176108827",
+  "urlvbmdropboxes": "https://www.clarkcountynv.gov/Election%20Department/MB-Drop-20G.pdf?t=1601599219917",
   "urlearlyvoting": "https://www.clarkcountynv.gov/government/departments/elections/index.php",
   "urlstatelevelvbm": "https://www.nvsos.gov/sos/elections/voters/absentee-voting",
   "flagboxes": 1,
-  "areadatacode": 1,
+  "areadatacode": 321,
+  "arealeveltext": "Your county DOES have ballot drop-off at any Early Voting or Election Day polling place. The SHOW DROP-OFF OPTIONS button will take you to your county elections webpage show Early Voting locations and dates, and Election Day polling places to drop your ballot.",
   "flagattn": 1,
   "shortname": "clark"
 }

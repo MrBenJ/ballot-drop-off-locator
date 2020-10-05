@@ -2,8 +2,10 @@
   "state": "PA",
   "fips5": "42091",
   "adminarea": "Montgomery",
-  "urlvbmdropboxes": "https://www.montcopa.org/754/Absentee-and-Mail-In-Voting",
+  "urlvbmdropboxes": "https://www.montcopa.org/3587/Secure-Ballot-Drop-Box-Locations",
   "urlstatelevelvbm": "https://www.votespa.com/Voting-in-PA/Pages/Mail-and-Absentee-Ballot.aspx",
-  "flagboxes": 0,
+  "flagboxes": 1,
+  "areadatacode": 421,
+  "arealeveltext": "Your county DOES have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to your county elections webpage showing a list of ballot dropboxes available in your area.",
   "shortname": "montgomery"
 }

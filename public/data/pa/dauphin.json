@@ -2,8 +2,10 @@
   "state": "PA",
   "fips5": "42043",
   "adminarea": "Dauphin",
-  "urlvbmdropboxes": "https://www.dauphincounty.org/government/departments/elections_and_voter_registration/voting_system_information/index.php#MailIn",
+  "urlvbmdropboxes": "https://www.dauphincounty.org/government/departments/elections_and_voter_registration/index.php",
   "urlstatelevelvbm": "https://www.votespa.com/Voting-in-PA/Pages/Mail-and-Absentee-Ballot.aspx",
   "flagboxes": 0,
+  "areadatacode": 423,
+  "arealeveltext": "Your county DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage which shows the address for your county’s Election & Voter Registration office, where you can drop off your completed ballot.",
   "shortname": "dauphin"
 }

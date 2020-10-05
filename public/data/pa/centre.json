@@ -2,8 +2,10 @@
   "state": "PA",
   "fips5": "42027",
   "adminarea": "Centre",
-  "urlvbmdropboxes": "https://www.pavoterservices.pa.gov/OnlineAbsenteeApplication/#/OnlineAbsenteeBegin",
+  "urlvbmdropboxes": "https://centrecountyvotes.com/dropbox/",
   "urlstatelevelvbm": "https://www.votespa.com/Voting-in-PA/Pages/Mail-and-Absentee-Ballot.aspx",
-  "flagboxes": 0,
+  "flagboxes": 1,
+  "areadatacode": 421,
+  "arealeveltext": "Your county DOES have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to your county elections webpage showing a list of ballot dropboxes available in your area.",
   "shortname": "centre"
 }

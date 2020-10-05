@@ -5,5 +5,7 @@
   "urlvbmdropboxes": "http://www.tiogacountypa.us/Departments/Elections_Voter_Registration/Pages/ElectionsVoterRegistration.aspx",
   "urlstatelevelvbm": "https://www.votespa.com/Voting-in-PA/Pages/Mail-and-Absentee-Ballot.aspx",
   "flagboxes": 0,
+  "areadatacode": 423,
+  "arealeveltext": "Your county DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage which shows the address for your county’s Election & Voter Registration office, where you can drop off your completed ballot.",
   "shortname": "tioga"
 }

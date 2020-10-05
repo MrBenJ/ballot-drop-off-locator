@@ -4,6 +4,9 @@
   "adminarea": "District of Columbia",
   "urlvbmdropboxes": "https://www.dcboe.org/Voters/Where-to-Vote/Mail-Ballot-Drop-Sites",
   "urlearlyvoting": "https://earlyvoting.dcboe.org/",
+  "urlstatelevelvbm": "https://www.dcboe.org/Voters/How-to-Vote/Mail-Ballot-Instructions",
   "flagboxes": 1,
+  "areadatacode": 111,
+  "arealeveltext": "Washington, DC DOES have ballot dropboxes. The Show Drop-Off Options button will take you to the district webpage with a list of ballot dropboxes available in your area.",
   "shortname": "district-of columbia"
 }
