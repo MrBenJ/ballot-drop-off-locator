@@ -1,5 +1,6 @@
 {
   "title": "Ballot Drop off Locator",
+  "appName": "MyBallotDrop",
   "Header": {
     "altLogo": "My Ballot Drop"
   },
@@ -41,6 +42,15 @@
     "viewMapButtonText": "View on map",
     "mapProvidedBy": "Map provided by",
     "BallotNav": "BallotNav"
+  },
+  "AboutPage": {
+    "headline": "ABOUT THIS PROJECT",
+    "para1": "was created as a non-partisan voter resource to help absentee or vote-by-mail voters find ballot dropboxes or other options to safely and securely return their mail-in ballot directly to election officials, as an alternative to returning them by mail via USPS. MyBallotDrop seeks to help absentee or mail ballot voters ensure their 2020 ballot is received and counted.",
+    "para2": "The 2020 election is expected to have an unprecedented number of votes cast by absentee or mail-in ballots, due to concerns over the safety of voting in person during the pandemic. However, recent changes implemented at the US Postal Service have created concerns over the USPS ability to send ballots to voters and return them to election officials in a timely manner, including",
+    "para2-linked": "warnings directly from USPS about their ability to return ballots on time.",
+    "para3": "Recent elections have seen tens of thousands of ballots rejected because they were received late, beyond state voting deadlines. With a massive increase in the number of mail ballots expected to be cast in 2020, any delays in ballot return due to slowdowns at USPS could lead to potentially hundreds of thousands of votes rejected. In response, many states and counties have moved to implement or expand access to ballot dropboxes: secure ballot drop off locations where voters can drop ballots directly, to be collected by elections officials rather than returning them by mail.",
+    "para4": "However, many voters - and especially first time mail ballot voters - may be unaware that such options exist. They may not know to search for dropbox locations in their county as a way to ensure their ballot is received on time and counted in the election. Given the sheer number of counties and jurisdictions in the US, and differences in state mail ballot rules, effective nationwide promotion of county-level dropbox location information poses a significant challenge.",
+    "para5": "To address this need, MyBallotDrop was created to provide a single, nationally promotable web-based resource to help voters in every state find all available options for returning their vote-by-mail ballot directly to county or municipal elections officials."
   },
   "Footer": {
     "MyBallotDrop": "Copyright 2020 MY BALLOT DROP",
