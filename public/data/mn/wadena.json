@@ -1,0 +1,11 @@
+{
+  "state": "MN",
+  "fips5": "27159",
+  "adminarea": "Wadena",
+  "urlvbmdropboxes": "https://www.sos.state.mn.us/elections-voting/find-county-election-office",
+  "urlstatelevelvbm": "https://www.sos.state.mn.us/elections-voting/other-ways-to-vote/vote-early-by-mail/",
+  "flagboxes": 0,
+  "areadatacode": "274",
+  "arealeveltext": "Your county has Absentee Ballot drop-off ONLY at the County Auditor's office. The SHOW DROP-OFF OPTIONS button will take you to a state elections webpage with a finder for your County Auditor office address, where you can hand deliver you ballot. Your absentee ballot can NOT be dropped at your polling place on Election Day.",
+  "shortname": "wadena"
+}

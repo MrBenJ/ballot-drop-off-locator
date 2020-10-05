@@ -2,7 +2,11 @@
   "state": "IA",
   "fips5": "19149",
   "adminarea": "Plymouth",
-  "urlvbmdropboxes": "https://www.plycodems.com/elections/register-to-vote/",
+  "urlvbmdropboxes": "https://www.co.plymouth.ia.us/Elections/general/2020%20General%20Election%20Media%20Release%20-%20absentee%20voting%20information.pdf",
+  "urlstatelevelvbm": "https://sos.iowa.gov/elections/electioninfo/absenteeinfo.html",
   "flagboxes": 0,
+  "areadatacode": 193,
+  "arealeveltext": "Your county has Absentee Ballot drop-off ONLY at the County Auditor's office. The SHOW DROP-OFF OPTIONS button will take you to the county webpage which shows the Auditor's office address where you can hand deliver your absentee ballot.",
+  "flagattn": 1,
   "shortname": "plymouth"
 }

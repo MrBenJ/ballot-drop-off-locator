@@ -2,8 +2,11 @@
   "state": "NC",
   "fips5": "37043",
   "adminarea": "Clay",
+  "urlvbmdropboxes": "https://vt.ncsbe.gov/OSSite/",
   "urlearlyvoting": "https://www.claycountyboardofelections.com/early-voting",
+  "urlstatelevelvbm": "https://www.ncsbe.gov/voting/vote-mail",
   "flagboxes": 0,
-  "flagattn": 1,
+  "areadatacode": "372",
+  "arealeveltext": "North Carolina Absentee ballots can be dropped at any One-Stop Early Voting center. The SHOW DROP-OFF OPTIONS button will take you to a state-level finder showing Early Voting centers in your county. Select your county from the drop down menu.",
   "shortname": "clay"
 }

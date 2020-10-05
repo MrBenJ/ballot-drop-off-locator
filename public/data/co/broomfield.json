@@ -3,6 +3,9 @@
   "fips5": "08014",
   "adminarea": "Broomfield",
   "urlvbmdropboxes": "https://broomfield.org/1872/Where-can-I-drop-off-ballot-vote-in-pers",
+  "urlstatelevelvbm": "https://www.sos.state.co.us/pubs/elections/vote/VoterHome.html",
   "flagboxes": 1,
+  "areadatacode": "081",
+  "arealeveltext": "Your county DOES have Mail Ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage which has a list of ballot dropboxes in your area. ",
   "shortname": "broomfield"
 }

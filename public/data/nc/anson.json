@@ -2,6 +2,10 @@
   "state": "NC",
   "fips5": "37007",
   "adminarea": "Anson",
+  "urlvbmdropboxes": "http://wwwold.co.anson.nc.us/content/index.php?id=127,206,0,0,1,0",
+  "urlstatelevelvbm": "https://www.ncsbe.gov/voting/vote-mail",
   "flagboxes": 0,
+  "areadatacode": "371",
+  "arealeveltext": "North Carolina Absentee ballots can be dropped at any One-Stop Early Voting center. The SHOW DROP-OFF OPTIONS button will take you to your county elections webpage showing Early Voting centers in your county.",
   "shortname": "anson"
 }

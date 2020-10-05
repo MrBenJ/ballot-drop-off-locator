@@ -2,6 +2,10 @@
   "state": "CO",
   "fips5": "08067",
   "adminarea": "La Plata",
+  "urlvbmdropboxes": "https://www.co.laplata.co.us/services/elections/index.php",
+  "urlstatelevelvbm": "https://www.sos.state.co.us/pubs/elections/vote/VoterHome.html",
   "flagboxes": 0,
+  "areadatacode": "083",
+  "arealeveltext": "Your county has Mail Ballot drop-off ONLY at the County Clerk's office. The SHOW DROP-OFF OPTIONS button will take you to the county webpage which shows the Clerk's office address and information on any ballot dropbox installed there.",
   "shortname": "la-plata"
 }

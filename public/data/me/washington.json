@@ -1,0 +1,12 @@
+{
+  "state": "ME",
+  "fips5": "23029",
+  "adminarea": "Washington",
+  "urlvbmdropboxes": "https://www.maine.gov/sos/cec/elec/munic.html",
+  "urlstatelevelvbm": "https://www.maine.gov/sos/cec/elec/voter-info/absent.html",
+  "flagboxes": 0,
+  "areadatacode": "231",
+  "arealeveltext": "Maine Absentee Ballots are returned to Municipal Clerk's in cities & towns, not at the county level. The SHOW DROP-OFF OPTIONS button will take you to a searchable list of Municipal Clerks, to find your clerk's office address where your ballot can be hand delivered.",
+  "flagattn": 1,
+  "shortname": "washington"
+}

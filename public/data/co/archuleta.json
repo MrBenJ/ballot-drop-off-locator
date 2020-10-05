@@ -2,6 +2,10 @@
   "state": "CO",
   "fips5": "08007",
   "adminarea": "Archuleta",
+  "urlvbmdropboxes": "https://www.sos.state.co.us/pubs/elections/VIP.html",
+  "urlstatelevelvbm": "https://www.sos.state.co.us/pubs/elections/vote/VoterHome.html",
   "flagboxes": 0,
+  "areadatacode": "082",
+  "arealeveltext": "Your county DOES have 1 or more Mail Ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the state elections webpage which has a search function to locate ballot dropboxes in your area. ",
   "shortname": "archuleta"
 }

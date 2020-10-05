@@ -2,7 +2,10 @@
   "state": "NC",
   "fips5": "37073",
   "adminarea": "Gates",
-  "urlearlyvoting": "https://gatescounty.govoffice2.com/vertical/sites/%7BC4993D33-7F3A-4388-B179-2EC1739C7E2E%7D/uploads/2020_General_Dates_flyer.pdf",
+  "urlvbmdropboxes": "https://gatescounty.govoffice2.com/vertical/sites/%7BC4993D33-7F3A-4388-B179-2EC1739C7E2E%7D/uploads/2020_General_Dates_flyer.pdf",
+  "urlstatelevelvbm": "https://www.ncsbe.gov/voting/vote-mail",
   "flagboxes": 0,
+  "areadatacode": 373,
+  "arealeveltext": "North Carolina Absentee ballots can be dropped at any One-Stop Early Voting center. The SHOW DROP-OFF OPTIONS button will take you to your county elections webpage showing the Board of Elections address, which is the Early Voting center in your county.",
   "shortname": "gates"
 }

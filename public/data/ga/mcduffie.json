@@ -3,6 +3,9 @@
   "fips5": "13189",
   "adminarea": "McDuffie",
   "urlvbmdropboxes": "https://www.thomson-mcduffie.com/elections/page/voting-absentee",
+  "urlstatelevelvbm": "https://georgia.gov/vote-absentee-ballot",
   "flagboxes": 1,
+  "areadatacode": "131",
+  "arealeveltext": "Your county DOES have Absentee ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to your county Board of Elections webpage with a list of ballot dropboxes available in your area. ",
   "shortname": "mcduffie"
 }

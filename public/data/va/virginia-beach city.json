@@ -1,0 +1,11 @@
+{
+  "state": "VA",
+  "fips5": 51810,
+  "adminarea": "Virginia Beach City",
+  "urlvbmdropboxes": "https://www.vbgov.com/government/departments/voter-registrar/Pages/absentee-voting.aspx",
+  "urlstatelevelvbm": "https://www.elections.virginia.gov/vote-absentee-by-mail/index.html",
+  "flagboxes": 0,
+  "areadatacode": "514",
+  "arealeveltext": "Your jurisdiction DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to your city's voter information webpage.",
+  "shortname": "virginia-beach city"
+}

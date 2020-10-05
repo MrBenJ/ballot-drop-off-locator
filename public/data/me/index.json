@@ -1,0 +1,66 @@
+[
+  {
+    "adminarea": "Androscoggin",
+    "shortname": "androscoggin"
+  },
+  {
+    "adminarea": "Aroostook",
+    "shortname": "aroostook"
+  },
+  {
+    "adminarea": "Cumberland",
+    "shortname": "cumberland"
+  },
+  {
+    "adminarea": "Franklin",
+    "shortname": "franklin"
+  },
+  {
+    "adminarea": "Hancock",
+    "shortname": "hancock"
+  },
+  {
+    "adminarea": "Kennebec",
+    "shortname": "kennebec"
+  },
+  {
+    "adminarea": "Knox",
+    "shortname": "knox"
+  },
+  {
+    "adminarea": "Lincoln",
+    "shortname": "lincoln"
+  },
+  {
+    "adminarea": "Oxford",
+    "shortname": "oxford"
+  },
+  {
+    "adminarea": "Penobscot",
+    "shortname": "penobscot"
+  },
+  {
+    "adminarea": "Piscataquis",
+    "shortname": "piscataquis"
+  },
+  {
+    "adminarea": "Sagadahoc",
+    "shortname": "sagadahoc"
+  },
+  {
+    "adminarea": "Somerset",
+    "shortname": "somerset"
+  },
+  {
+    "adminarea": "Waldo",
+    "shortname": "waldo"
+  },
+  {
+    "adminarea": "Washington",
+    "shortname": "washington"
+  },
+  {
+    "adminarea": "York",
+    "shortname": "york"
+  }
+]

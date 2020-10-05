@@ -2,8 +2,10 @@
   "state": "OH",
   "fips5": "39171",
   "adminarea": "Williams",
-  "urlvbmdropboxes": "https://www.williamscountyoh.gov/151/Voter-Information-and-Public-Records",
+  "urlvbmdropboxes": "https://www.williamscountyoh.gov/150/Board-of-Elections",
   "urlstatelevelvbm": "https://www.ohiosos.gov/elections/voters/absentee-voting/#byMail",
   "flagboxes": 0,
+  "areadatacode": 393,
+  "arealeveltext": "Your county has Absentee Ballot drop-off ONLY at the Board of Elections office. The SHOW DROP-OFF OPTIONS button will take you to your county elections webpage which shows the address for the Board of Elections office where your ballott can be hand delivered.",
   "shortname": "williams"
 }

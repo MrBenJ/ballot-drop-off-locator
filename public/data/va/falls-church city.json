@@ -1,0 +1,11 @@
+{
+  "state": "VA",
+  "fips5": 51610,
+  "adminarea": "Falls Church City",
+  "urlvbmdropboxes": "http://www.fallschurchva.gov/1970/Early-Absentee-Voting",
+  "urlstatelevelvbm": "https://www.elections.virginia.gov/vote-absentee-by-mail/index.html",
+  "flagboxes": 1,
+  "areadatacode": "512",
+  "arealeveltext": "Your jurisdiction DOES have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the city webpage with a list of ballot dropboxes available in your area.",
+  "shortname": "falls-church city"
+}

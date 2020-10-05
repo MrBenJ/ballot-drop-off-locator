@@ -1,0 +1,11 @@
+{
+  "state": "VA",
+  "fips5": "51083",
+  "adminarea": "Halifax",
+  "urlvbmdropboxes": "https://www.halifaxcountyva.gov/?SEC=04CAD878-0021-46EF-A4FF-D99C39F2A311",
+  "urlstatelevelvbm": "https://www.elections.virginia.gov/vote-absentee-by-mail/index.html",
+  "flagboxes": 0,
+  "areadatacode": "513",
+  "arealeveltext": "Your jurisdiction DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to your county's voter information webpage.",
+  "shortname": "halifax"
+}

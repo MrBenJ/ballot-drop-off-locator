@@ -3,6 +3,9 @@
   "fips5": "13135",
   "adminarea": "Gwinnett",
   "urlvbmdropboxes": "https://www.gwinnettcounty.com/web/gwinnett/departments/elections/ballotdropboxeslocations",
+  "urlstatelevelvbm": "https://georgia.gov/vote-absentee-ballot",
   "flagboxes": 1,
+  "areadatacode": "131",
+  "arealeveltext": "Your county DOES have Absentee ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to your county Board of Elections webpage with a list of ballot dropboxes available in your area. ",
   "shortname": "gwinnett"
 }

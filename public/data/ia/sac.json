@@ -2,7 +2,10 @@
   "state": "IA",
   "fips5": "19161",
   "adminarea": "Sac",
-  "urlvbmdropboxes": "http://www.saccounty.org/election--voting-information.html",
+  "urlvbmdropboxes": "https://sos.iowa.gov/elections/auditors/auditor.asp?CountyID=81",
+  "urlstatelevelvbm": "https://sos.iowa.gov/elections/electioninfo/absenteeinfo.html",
   "flagboxes": 0,
+  "areadatacode": 194,
+  "arealeveltext": "Your county has Absentee Ballot drop-off ONLY at the County Auditor's office. The SHOW DROP-OFF OPTIONS button will take you to the state elections webpage showing your County Auditor's address, where you can hand deliver your absentee ballot.",
   "shortname": "sac"
 }

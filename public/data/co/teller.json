@@ -3,6 +3,9 @@
   "fips5": "08119",
   "adminarea": "Teller",
   "urlvbmdropboxes": "https://www.co.teller.co.us/CR/Election%20Information/Facts%20for%202020%20General%20Election.pdf",
+  "urlstatelevelvbm": "https://www.sos.state.co.us/pubs/elections/vote/VoterHome.html",
   "flagboxes": 1,
+  "areadatacode": "081",
+  "arealeveltext": "Your county DOES have Mail Ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage which has a list of ballot dropboxes in your area. ",
   "shortname": "teller"
 }

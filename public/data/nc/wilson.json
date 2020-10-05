@@ -2,7 +2,10 @@
   "state": "NC",
   "fips5": "37195",
   "adminarea": "Wilson",
-  "urlearlyvoting": "https://www.wilson-co.com/departments/board-of-elections",
-  "flagboxes": 0,
+  "urlvbmdropboxes": "https://www.wilson-co.com/departments/board-of-elections",
+  "urlstatelevelvbm": "https://www.ncsbe.gov/voting/vote-mail",
+  "flagboxes": 1,
+  "areadatacode": "371",
+  "arealeveltext": "North Carolina Absentee ballots can be dropped at any One-Stop Early Voting center. The SHOW DROP-OFF OPTIONS button will take you to your county elections webpage showing Early Voting centers in your county.",
   "shortname": "wilson"
 }

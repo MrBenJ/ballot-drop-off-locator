@@ -1,0 +1,11 @@
+{
+  "state": "VA",
+  "fips5": 51600,
+  "adminarea": "Fairfax City",
+  "urlvbmdropboxes": "https://www.fairfaxva.gov/government/voter-registration/absentee-voting",
+  "urlstatelevelvbm": "https://www.elections.virginia.gov/vote-absentee-by-mail/index.html",
+  "flagboxes": 0,
+  "areadatacode": "514",
+  "arealeveltext": "Your jurisdiction DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to your city's voter information webpage.",
+  "shortname": "fairfax-city"
+}

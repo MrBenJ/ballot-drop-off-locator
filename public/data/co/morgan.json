@@ -2,6 +2,10 @@
   "state": "CO",
   "fips5": "08087",
   "adminarea": "Morgan",
-  "flagattn": 1,
+  "urlvbmdropboxes": "https://morgancounty.colorado.gov/elections-department",
+  "urlstatelevelvbm": "https://www.sos.state.co.us/pubs/elections/vote/VoterHome.html",
+  "flagboxes": 1,
+  "areadatacode": "081",
+  "arealeveltext": "Your county DOES have Mail Ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage which has a list of ballot dropboxes in your area. ",
   "shortname": "morgan"
 }

@@ -1,0 +1,534 @@
+[
+  {
+    "adminarea": "Accomack",
+    "shortname": "accomack"
+  },
+  {
+    "adminarea": "Albemarle",
+    "shortname": "albemarle"
+  },
+  {
+    "adminarea": "Alexandria City",
+    "shortname": "alexandria-city"
+  },
+  {
+    "adminarea": "Alleghany",
+    "shortname": "alleghany"
+  },
+  {
+    "adminarea": "Amelia",
+    "shortname": "amelia"
+  },
+  {
+    "adminarea": "Amherst",
+    "shortname": "amherst"
+  },
+  {
+    "adminarea": "Appomattox",
+    "shortname": "appomattox"
+  },
+  {
+    "adminarea": "Arlington",
+    "shortname": "arlington"
+  },
+  {
+    "adminarea": "Augusta",
+    "shortname": "augusta"
+  },
+  {
+    "adminarea": "Bath",
+    "shortname": "bath"
+  },
+  {
+    "adminarea": "Bedford",
+    "shortname": "bedford"
+  },
+  {
+    "adminarea": "Bland",
+    "shortname": "bland"
+  },
+  {
+    "adminarea": "Botetourt",
+    "shortname": "botetourt"
+  },
+  {
+    "adminarea": "Bristol City",
+    "shortname": "bristol-city"
+  },
+  {
+    "adminarea": "Brunswick",
+    "shortname": "brunswick"
+  },
+  {
+    "adminarea": "Buchanan",
+    "shortname": "buchanan"
+  },
+  {
+    "adminarea": "Buckingham",
+    "shortname": "buckingham"
+  },
+  {
+    "adminarea": "Buena Vista City",
+    "shortname": "buena-vista city"
+  },
+  {
+    "adminarea": "Campbell",
+    "shortname": "campbell"
+  },
+  {
+    "adminarea": "Caroline",
+    "shortname": "caroline"
+  },
+  {
+    "adminarea": "Carroll",
+    "shortname": "carroll"
+  },
+  {
+    "adminarea": "Charles City County",
+    "shortname": "charles-city county"
+  },
+  {
+    "adminarea": "Charlotte",
+    "shortname": "charlotte"
+  },
+  {
+    "adminarea": "Charlottesville City",
+    "shortname": "charlottesville-city"
+  },
+  {
+    "adminarea": "Chesapeake City",
+    "shortname": "chesapeake-city"
+  },
+  {
+    "adminarea": "Chesterfield",
+    "shortname": "chesterfield"
+  },
+  {
+    "adminarea": "Clarke",
+    "shortname": "clarke"
+  },
+  {
+    "adminarea": "Colonial Heights City",
+    "shortname": "colonial-heights city"
+  },
+  {
+    "adminarea": "Covington City",
+    "shortname": "covington-city"
+  },
+  {
+    "adminarea": "Craig",
+    "shortname": "craig"
+  },
+  {
+    "adminarea": "Culpeper",
+    "shortname": "culpeper"
+  },
+  {
+    "adminarea": "Cumberland",
+    "shortname": "cumberland"
+  },
+  {
+    "adminarea": "Danville City",
+    "shortname": "danville-city"
+  },
+  {
+    "adminarea": "Dickenson",
+    "shortname": "dickenson"
+  },
+  {
+    "adminarea": "Dinwiddie",
+    "shortname": "dinwiddie"
+  },
+  {
+    "adminarea": "Emporia City",
+    "shortname": "emporia-city"
+  },
+  {
+    "adminarea": "Essex",
+    "shortname": "essex"
+  },
+  {
+    "adminarea": "Fairfax City",
+    "shortname": "fairfax-city"
+  },
+  {
+    "adminarea": "Fairfax County",
+    "shortname": "fairfax-county"
+  },
+  {
+    "adminarea": "Falls Church City",
+    "shortname": "falls-church city"
+  },
+  {
+    "adminarea": "Fauquier",
+    "shortname": "fauquier"
+  },
+  {
+    "adminarea": "Floyd",
+    "shortname": "floyd"
+  },
+  {
+    "adminarea": "Fluvanna",
+    "shortname": "fluvanna"
+  },
+  {
+    "adminarea": "Franklin City",
+    "shortname": "franklin-city"
+  },
+  {
+    "adminarea": "Franklin County",
+    "shortname": "franklin-county"
+  },
+  {
+    "adminarea": "Frederick",
+    "shortname": "frederick"
+  },
+  {
+    "adminarea": "Fredericksburg City",
+    "shortname": "fredericksburg-city"
+  },
+  {
+    "adminarea": "Galax City",
+    "shortname": "galax-city"
+  },
+  {
+    "adminarea": "Giles",
+    "shortname": "giles"
+  },
+  {
+    "adminarea": "Gloucester",
+    "shortname": "gloucester"
+  },
+  {
+    "adminarea": "Goochland",
+    "shortname": "goochland"
+  },
+  {
+    "adminarea": "Grayson",
+    "shortname": "grayson"
+  },
+  {
+    "adminarea": "Greene",
+    "shortname": "greene"
+  },
+  {
+    "adminarea": "Greensville",
+    "shortname": "greensville"
+  },
+  {
+    "adminarea": "Halifax",
+    "shortname": "halifax"
+  },
+  {
+    "adminarea": "Hampton City",
+    "shortname": "hampton-city"
+  },
+  {
+    "adminarea": "Hanover",
+    "shortname": "hanover"
+  },
+  {
+    "adminarea": "Harrisonburg City",
+    "shortname": "harrisonburg-city"
+  },
+  {
+    "adminarea": "Henrico",
+    "shortname": "henrico"
+  },
+  {
+    "adminarea": "Henry",
+    "shortname": "henry"
+  },
+  {
+    "adminarea": "Highland",
+    "shortname": "highland"
+  },
+  {
+    "adminarea": "Hopewell City",
+    "shortname": "hopewell-city"
+  },
+  {
+    "adminarea": "Isle of Wight",
+    "shortname": "isle-of wight"
+  },
+  {
+    "adminarea": "James City County",
+    "shortname": "james-city county"
+  },
+  {
+    "adminarea": "King and Queen",
+    "shortname": "king-and queen"
+  },
+  {
+    "adminarea": "King George",
+    "shortname": "king-george"
+  },
+  {
+    "adminarea": "King William",
+    "shortname": "king-william"
+  },
+  {
+    "adminarea": "Lancaster",
+    "shortname": "lancaster"
+  },
+  {
+    "adminarea": "Lee",
+    "shortname": "lee"
+  },
+  {
+    "adminarea": "Lexington City",
+    "shortname": "lexington-city"
+  },
+  {
+    "adminarea": "Loudoun",
+    "shortname": "loudoun"
+  },
+  {
+    "adminarea": "Louisa",
+    "shortname": "louisa"
+  },
+  {
+    "adminarea": "Lunenburg",
+    "shortname": "lunenburg"
+  },
+  {
+    "adminarea": "Lynchburg City",
+    "shortname": "lynchburg-city"
+  },
+  {
+    "adminarea": "Madison",
+    "shortname": "madison"
+  },
+  {
+    "adminarea": "Manassas City",
+    "shortname": "manassas-city"
+  },
+  {
+    "adminarea": "Manassas Park City",
+    "shortname": "manassas-park city"
+  },
+  {
+    "adminarea": "Martinsville City",
+    "shortname": "martinsville-city"
+  },
+  {
+    "adminarea": "Mathews",
+    "shortname": "mathews"
+  },
+  {
+    "adminarea": "Mecklenburg",
+    "shortname": "mecklenburg"
+  },
+  {
+    "adminarea": "Middlesex",
+    "shortname": "middlesex"
+  },
+  {
+    "adminarea": "Montgomery",
+    "shortname": "montgomery"
+  },
+  {
+    "adminarea": "Nelson",
+    "shortname": "nelson"
+  },
+  {
+    "adminarea": "New Kent",
+    "shortname": "new-kent"
+  },
+  {
+    "adminarea": "Newport News City",
+    "shortname": "newport-news city"
+  },
+  {
+    "adminarea": "Norfolk City",
+    "shortname": "norfolk-city"
+  },
+  {
+    "adminarea": "Northampton",
+    "shortname": "northampton"
+  },
+  {
+    "adminarea": "Northumberland",
+    "shortname": "northumberland"
+  },
+  {
+    "adminarea": "Norton City",
+    "shortname": "norton-city"
+  },
+  {
+    "adminarea": "Nottoway",
+    "shortname": "nottoway"
+  },
+  {
+    "adminarea": "Orange",
+    "shortname": "orange"
+  },
+  {
+    "adminarea": "Page",
+    "shortname": "page"
+  },
+  {
+    "adminarea": "Patrick",
+    "shortname": "patrick"
+  },
+  {
+    "adminarea": "Petersburg City",
+    "shortname": "petersburg-city"
+  },
+  {
+    "adminarea": "Pittsylvania",
+    "shortname": "pittsylvania"
+  },
+  {
+    "adminarea": "Poquoson City",
+    "shortname": "poquoson-city"
+  },
+  {
+    "adminarea": "Portsmouth City",
+    "shortname": "portsmouth-city"
+  },
+  {
+    "adminarea": "Powhatan",
+    "shortname": "powhatan"
+  },
+  {
+    "adminarea": "Prince Edward",
+    "shortname": "prince-edward"
+  },
+  {
+    "adminarea": "Prince George",
+    "shortname": "prince-george"
+  },
+  {
+    "adminarea": "Prince William",
+    "shortname": "prince-william"
+  },
+  {
+    "adminarea": "Pulaski",
+    "shortname": "pulaski"
+  },
+  {
+    "adminarea": "Radford City",
+    "shortname": "radford-city"
+  },
+  {
+    "adminarea": "Rappahannock",
+    "shortname": "rappahannock"
+  },
+  {
+    "adminarea": "Richmond City",
+    "shortname": "richmond-city"
+  },
+  {
+    "adminarea": "Richmond County",
+    "shortname": "richmond-county"
+  },
+  {
+    "adminarea": "Roanoke City",
+    "shortname": "roanoke-city"
+  },
+  {
+    "adminarea": "Roanoke County",
+    "shortname": "roanoke-county"
+  },
+  {
+    "adminarea": "Rockbridge",
+    "shortname": "rockbridge"
+  },
+  {
+    "adminarea": "Rockingham",
+    "shortname": "rockingham"
+  },
+  {
+    "adminarea": "Russell",
+    "shortname": "russell"
+  },
+  {
+    "adminarea": "Salem City",
+    "shortname": "salem-city"
+  },
+  {
+    "adminarea": "Scott",
+    "shortname": "scott"
+  },
+  {
+    "adminarea": "Shenandoah",
+    "shortname": "shenandoah"
+  },
+  {
+    "adminarea": "Smyth",
+    "shortname": "smyth"
+  },
+  {
+    "adminarea": "Southampton",
+    "shortname": "southampton"
+  },
+  {
+    "adminarea": "Spotsylvania",
+    "shortname": "spotsylvania"
+  },
+  {
+    "adminarea": "Stafford",
+    "shortname": "stafford"
+  },
+  {
+    "adminarea": "Staunton City",
+    "shortname": "staunton-city"
+  },
+  {
+    "adminarea": "Suffolk City",
+    "shortname": "suffolk-city"
+  },
+  {
+    "adminarea": "Surry",
+    "shortname": "surry"
+  },
+  {
+    "adminarea": "Sussex",
+    "shortname": "sussex"
+  },
+  {
+    "adminarea": "Tazewell",
+    "shortname": "tazewell"
+  },
+  {
+    "adminarea": "Virginia Beach City",
+    "shortname": "virginia-beach city"
+  },
+  {
+    "adminarea": "Warren",
+    "shortname": "warren"
+  },
+  {
+    "adminarea": "Washington",
+    "shortname": "washington"
+  },
+  {
+    "adminarea": "Waynesboro City",
+    "shortname": "waynesboro-city"
+  },
+  {
+    "adminarea": "Westmoreland",
+    "shortname": "westmoreland"
+  },
+  {
+    "adminarea": "Williamsburg City",
+    "shortname": "williamsburg-city"
+  },
+  {
+    "adminarea": "Winchester City",
+    "shortname": "winchester-city"
+  },
+  {
+    "adminarea": "Wise",
+    "shortname": "wise"
+  },
+  {
+    "adminarea": "Wythe",
+    "shortname": "wythe"
+  },
+  {
+    "adminarea": "York",
+    "shortname": "york"
+  }
+]

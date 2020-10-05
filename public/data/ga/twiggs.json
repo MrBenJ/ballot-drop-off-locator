@@ -2,7 +2,10 @@
   "state": "GA",
   "fips5": "13289",
   "adminarea": "Twiggs",
-  "urlvbmdropboxes": "http://www.twiggscounty.us/elections/",
+  "urlvbmdropboxes": "https://elections.sos.ga.gov/Elections/countyregistrars.do",
+  "urlstatelevelvbm": "https://georgia.gov/vote-absentee-ballot",
   "flagboxes": 0,
+  "areadatacode": "134",
+  "arealeveltext": "Your county has Absentee ballot drop-off ONLY at the Board of Elections office, some of which have an exterior dropbox installed. The SHOW DROP-OFF OPTIONS button will take you to state level search to find the address for your Elections office. Simply select your county from the dropdown menu.",
   "shortname": "twiggs"
 }

@@ -1,0 +1,11 @@
+{
+  "state": "VA",
+  "fips5": "51035",
+  "adminarea": "Carroll",
+  "urlvbmdropboxes": "http://www.carrollcountyva.gov/residents_and_community_services/elections_and_voter_registration/cms7.revize.com/revize/carrollcova/residents_and_community_services/department_of_dss_-_carroll_co_social_services.php",
+  "urlstatelevelvbm": "https://www.elections.virginia.gov/vote-absentee-by-mail/index.html",
+  "flagboxes": 0,
+  "areadatacode": "513",
+  "arealeveltext": "Your jurisdiction DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to your county's voter information webpage.",
+  "shortname": "carroll"
+}

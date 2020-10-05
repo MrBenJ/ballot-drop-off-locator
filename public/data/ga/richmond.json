@@ -2,7 +2,11 @@
   "state": "GA",
   "fips5": "13245",
   "adminarea": "Richmond",
-  "urlvbmdropboxes": "https://www.augustaga.gov/547/Advance-Voting-and-Absentee-By-Mail",
-  "flagboxes": 0,
+  "urlvbmdropboxes": "https://www.augustaga.gov/CivicAlerts.aspx?AID=2564",
+  "urlstatelevelvbm": "https://georgia.gov/vote-absentee-ballot",
+  "flagboxes": 1,
+  "areadatacode": "131B",
+  "arealeveltext": "Your county DOES have Absentee ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to your county Board of Elections webpage with a list of ballot dropboxes available in your area. Click 'Additional Info'",
+  "flagattn": 1,
   "shortname": "richmond"
 }

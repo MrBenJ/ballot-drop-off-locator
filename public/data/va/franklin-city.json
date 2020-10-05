@@ -1,0 +1,11 @@
+{
+  "state": "VA",
+  "fips5": 51620,
+  "adminarea": "Franklin City",
+  "urlvbmdropboxes": "https://www.franklinva.com/government/departments/voter-registrar/",
+  "urlstatelevelvbm": "https://www.elections.virginia.gov/vote-absentee-by-mail/index.html",
+  "flagboxes": 0,
+  "areadatacode": "514",
+  "arealeveltext": "Your jurisdiction DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to your city's voter information webpage.",
+  "shortname": "franklin-city"
+}

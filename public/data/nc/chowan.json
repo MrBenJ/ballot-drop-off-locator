@@ -2,7 +2,10 @@
   "state": "NC",
   "fips5": "37041",
   "adminarea": "Chowan",
-  "urlearlyvoting": "https://www.chowancounty-nc.gov/index.asp?SEC=%7B164665BE-54CB-497A-B611-433DA2708EA6%7D",
-  "flagboxes": 0,
+  "urlvbmdropboxes": "https://www.chowancounty-nc.gov/index.asp?SEC=%7B164665BE-54CB-497A-B611-433DA2708EA6%7D",
+  "urlstatelevelvbm": "https://www.ncsbe.gov/voting/vote-mail",
+  "flagboxes": 1,
+  "areadatacode": "371",
+  "arealeveltext": "North Carolina Absentee ballots can be dropped at any One-Stop Early Voting center. The SHOW DROP-OFF OPTIONS button will take you to your county elections webpage showing Early Voting centers in your county.",
   "shortname": "chowan"
 }

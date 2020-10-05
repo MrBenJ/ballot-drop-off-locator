@@ -1,0 +1,350 @@
+[
+  {
+    "adminarea": "Aitkin",
+    "shortname": "aitkin"
+  },
+  {
+    "adminarea": "Anoka",
+    "shortname": "anoka"
+  },
+  {
+    "adminarea": "Becker",
+    "shortname": "becker"
+  },
+  {
+    "adminarea": "Beltrami",
+    "shortname": "beltrami"
+  },
+  {
+    "adminarea": "Benton",
+    "shortname": "benton"
+  },
+  {
+    "adminarea": "Big Stone",
+    "shortname": "big-stone"
+  },
+  {
+    "adminarea": "Blue Earth",
+    "shortname": "blue-earth"
+  },
+  {
+    "adminarea": "Brown",
+    "shortname": "brown"
+  },
+  {
+    "adminarea": "Carlton",
+    "shortname": "carlton"
+  },
+  {
+    "adminarea": "Carver",
+    "shortname": "carver"
+  },
+  {
+    "adminarea": "Cass",
+    "shortname": "cass"
+  },
+  {
+    "adminarea": "Chippewa",
+    "shortname": "chippewa"
+  },
+  {
+    "adminarea": "Chisago",
+    "shortname": "chisago"
+  },
+  {
+    "adminarea": "Clay",
+    "shortname": "clay"
+  },
+  {
+    "adminarea": "Clearwater",
+    "shortname": "clearwater"
+  },
+  {
+    "adminarea": "Cook",
+    "shortname": "cook"
+  },
+  {
+    "adminarea": "Cottonwood",
+    "shortname": "cottonwood"
+  },
+  {
+    "adminarea": "Crow Wing",
+    "shortname": "crow-wing"
+  },
+  {
+    "adminarea": "Dakota",
+    "shortname": "dakota"
+  },
+  {
+    "adminarea": "Dodge",
+    "shortname": "dodge"
+  },
+  {
+    "adminarea": "Douglas",
+    "shortname": "douglas"
+  },
+  {
+    "adminarea": "Faribault",
+    "shortname": "faribault"
+  },
+  {
+    "adminarea": "Fillmore",
+    "shortname": "fillmore"
+  },
+  {
+    "adminarea": "Freeborn",
+    "shortname": "freeborn"
+  },
+  {
+    "adminarea": "Goodhue",
+    "shortname": "goodhue"
+  },
+  {
+    "adminarea": "Grant",
+    "shortname": "grant"
+  },
+  {
+    "adminarea": "Hennepin",
+    "shortname": "hennepin"
+  },
+  {
+    "adminarea": "Houston",
+    "shortname": "houston"
+  },
+  {
+    "adminarea": "Hubbard",
+    "shortname": "hubbard"
+  },
+  {
+    "adminarea": "Isanti",
+    "shortname": "isanti"
+  },
+  {
+    "adminarea": "Itasca",
+    "shortname": "itasca"
+  },
+  {
+    "adminarea": "Jackson",
+    "shortname": "jackson"
+  },
+  {
+    "adminarea": "Kanabec",
+    "shortname": "kanabec"
+  },
+  {
+    "adminarea": "Kandiyohi",
+    "shortname": "kandiyohi"
+  },
+  {
+    "adminarea": "Kittson",
+    "shortname": "kittson"
+  },
+  {
+    "adminarea": "Koochiching",
+    "shortname": "koochiching"
+  },
+  {
+    "adminarea": "Lac qui Parle",
+    "shortname": "lac-qui parle"
+  },
+  {
+    "adminarea": "Lake",
+    "shortname": "lake"
+  },
+  {
+    "adminarea": "Lake of the Woods",
+    "shortname": "lake-of the woods"
+  },
+  {
+    "adminarea": "Le Sueur",
+    "shortname": "le-sueur"
+  },
+  {
+    "adminarea": "Lincoln",
+    "shortname": "lincoln"
+  },
+  {
+    "adminarea": "Lyon",
+    "shortname": "lyon"
+  },
+  {
+    "adminarea": "McLeod",
+    "shortname": "mcleod"
+  },
+  {
+    "adminarea": "Mahnomen",
+    "shortname": "mahnomen"
+  },
+  {
+    "adminarea": "Marshall",
+    "shortname": "marshall"
+  },
+  {
+    "adminarea": "Martin",
+    "shortname": "martin"
+  },
+  {
+    "adminarea": "Meeker",
+    "shortname": "meeker"
+  },
+  {
+    "adminarea": "Mille Lacs",
+    "shortname": "mille-lacs"
+  },
+  {
+    "adminarea": "Morrison",
+    "shortname": "morrison"
+  },
+  {
+    "adminarea": "Mower",
+    "shortname": "mower"
+  },
+  {
+    "adminarea": "Murray",
+    "shortname": "murray"
+  },
+  {
+    "adminarea": "Nicollet",
+    "shortname": "nicollet"
+  },
+  {
+    "adminarea": "Nobles",
+    "shortname": "nobles"
+  },
+  {
+    "adminarea": "Norman",
+    "shortname": "norman"
+  },
+  {
+    "adminarea": "Olmsted",
+    "shortname": "olmsted"
+  },
+  {
+    "adminarea": "Otter Tail",
+    "shortname": "otter-tail"
+  },
+  {
+    "adminarea": "Pennington",
+    "shortname": "pennington"
+  },
+  {
+    "adminarea": "Pine",
+    "shortname": "pine"
+  },
+  {
+    "adminarea": "Pipestone",
+    "shortname": "pipestone"
+  },
+  {
+    "adminarea": "Polk",
+    "shortname": "polk"
+  },
+  {
+    "adminarea": "Pope",
+    "shortname": "pope"
+  },
+  {
+    "adminarea": "Ramsey",
+    "shortname": "ramsey"
+  },
+  {
+    "adminarea": "Red Lake",
+    "shortname": "red-lake"
+  },
+  {
+    "adminarea": "Redwood",
+    "shortname": "redwood"
+  },
+  {
+    "adminarea": "Renville",
+    "shortname": "renville"
+  },
+  {
+    "adminarea": "Rice",
+    "shortname": "rice"
+  },
+  {
+    "adminarea": "Rock",
+    "shortname": "rock"
+  },
+  {
+    "adminarea": "Roseau",
+    "shortname": "roseau"
+  },
+  {
+    "adminarea": "St. Louis",
+    "shortname": "st.-louis"
+  },
+  {
+    "adminarea": "Scott",
+    "shortname": "scott"
+  },
+  {
+    "adminarea": "Sherburne",
+    "shortname": "sherburne"
+  },
+  {
+    "adminarea": "Sibley",
+    "shortname": "sibley"
+  },
+  {
+    "adminarea": "Stearns",
+    "shortname": "stearns"
+  },
+  {
+    "adminarea": "Steele",
+    "shortname": "steele"
+  },
+  {
+    "adminarea": "Stevens",
+    "shortname": "stevens"
+  },
+  {
+    "adminarea": "Swift",
+    "shortname": "swift"
+  },
+  {
+    "adminarea": "Todd",
+    "shortname": "todd"
+  },
+  {
+    "adminarea": "Traverse",
+    "shortname": "traverse"
+  },
+  {
+    "adminarea": "Wabasha",
+    "shortname": "wabasha"
+  },
+  {
+    "adminarea": "Wadena",
+    "shortname": "wadena"
+  },
+  {
+    "adminarea": "Waseca",
+    "shortname": "waseca"
+  },
+  {
+    "adminarea": "Washington",
+    "shortname": "washington"
+  },
+  {
+    "adminarea": "Watonwan",
+    "shortname": "watonwan"
+  },
+  {
+    "adminarea": "Wilkin",
+    "shortname": "wilkin"
+  },
+  {
+    "adminarea": "Winona",
+    "shortname": "winona"
+  },
+  {
+    "adminarea": "Wright",
+    "shortname": "wright"
+  },
+  {
+    "adminarea": "Yellow Medicine",
+    "shortname": "yellow-medicine"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "adminarea": "Belknap",
+    "shortname": "belknap"
+  },
+  {
+    "adminarea": "Carroll",
+    "shortname": "carroll"
+  },
+  {
+    "adminarea": "Cheshire",
+    "shortname": "cheshire"
+  },
+  {
+    "adminarea": "Coos",
+    "shortname": "coos"
+  },
+  {
+    "adminarea": "Grafton",
+    "shortname": "grafton"
+  },
+  {
+    "adminarea": "Hillsborough",
+    "shortname": "hillsborough"
+  },
+  {
+    "adminarea": "Merrimack",
+    "shortname": "merrimack"
+  },
+  {
+    "adminarea": "Rockingham",
+    "shortname": "rockingham"
+  },
+  {
+    "adminarea": "Strafford",
+    "shortname": "strafford"
+  },
+  {
+    "adminarea": "Sullivan",
+    "shortname": "sullivan"
+  }
+]

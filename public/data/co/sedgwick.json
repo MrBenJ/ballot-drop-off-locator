@@ -3,6 +3,9 @@
   "fips5": "08115",
   "adminarea": "Sedgwick",
   "urlvbmdropboxes": "https://sedgwickcounty.colorado.gov/elections",
-  "flagboxes": 1,
+  "urlstatelevelvbm": "https://www.sos.state.co.us/pubs/elections/vote/VoterHome.html",
+  "flagboxes": 0,
+  "areadatacode": "083",
+  "arealeveltext": "Your county has Mail Ballot drop-off ONLY at the County Clerk's office. The SHOW DROP-OFF OPTIONS button will take you to the county webpage which shows the Clerk's office address and information on any ballot dropbox installed there.",
   "shortname": "sedgwick"
 }

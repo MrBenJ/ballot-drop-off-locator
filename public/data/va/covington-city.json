@@ -1,0 +1,11 @@
+{
+  "state": "VA",
+  "fips5": 51580,
+  "adminarea": "Covington City",
+  "urlvbmdropboxes": "https://covington.va.us/notices/vote-by-mail/",
+  "urlstatelevelvbm": "https://www.elections.virginia.gov/vote-absentee-by-mail/index.html",
+  "flagboxes": 0,
+  "areadatacode": "514",
+  "arealeveltext": "Your jurisdiction DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to your city's voter information webpage.",
+  "shortname": "covington-city"
+}

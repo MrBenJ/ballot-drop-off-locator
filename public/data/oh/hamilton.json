@@ -5,5 +5,7 @@
   "urlvbmdropboxes": "https://votehamiltoncountyohio.gov/voting-options/mail/",
   "urlstatelevelvbm": "https://www.ohiosos.gov/elections/voters/absentee-voting/#byMail",
   "flagboxes": 0,
+  "areadatacode": 393,
+  "arealeveltext": "Your county has Absentee Ballot drop-off ONLY at the Board of Elections office. The SHOW DROP-OFF OPTIONS button will take you to your county elections webpage which shows the address for the Board of Elections office where your ballott can be hand delivered.",
   "shortname": "hamilton"
 }

@@ -2,7 +2,10 @@
   "state": "NC",
   "fips5": "37061",
   "adminarea": "Duplin",
-  "urlearlyvoting": "http://www.duplincountync.com/wp-content/uploads/2020-One-Stop-Early-Voting.pdf",
-  "flagboxes": 0,
+  "urlvbmdropboxes": "http://www.duplincountync.com/wp-content/uploads/2020-One-Stop-Early-Voting.pdf",
+  "urlstatelevelvbm": "https://www.ncsbe.gov/voting/vote-mail",
+  "flagboxes": 1,
+  "areadatacode": "371",
+  "arealeveltext": "North Carolina Absentee ballots can be dropped at any One-Stop Early Voting center. The SHOW DROP-OFF OPTIONS button will take you to your county elections webpage showing Early Voting centers in your county.",
   "shortname": "duplin"
 }

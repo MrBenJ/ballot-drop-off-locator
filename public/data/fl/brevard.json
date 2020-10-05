@@ -3,7 +3,7 @@
   "fips5": "12009",
   "adminarea": "Brevard",
   "urlvbmdropboxes": "https://www.votebrevard.gov/Election-Information/Early-Voting",
-  "urlearlyvoting": "",
+  "urlearlyvoting": 0,
   "urlstatelevelvbm": "https://dos.myflorida.com/elections/for-voters/voting/vote-by-mail/",
   "flagboxes": 1,
   "areadatacode": 1,

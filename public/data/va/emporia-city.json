@@ -1,0 +1,11 @@
+{
+  "state": "VA",
+  "fips5": 51595,
+  "adminarea": "Emporia City",
+  "urlvbmdropboxes": "https://www.ci.emporia.va.us/voter-registrar/pages/absentee-voting",
+  "urlstatelevelvbm": "https://www.elections.virginia.gov/vote-absentee-by-mail/index.html",
+  "flagboxes": 0,
+  "areadatacode": "514",
+  "arealeveltext": "Your jurisdiction DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to your city's voter information webpage.",
+  "shortname": "emporia-city"
+}

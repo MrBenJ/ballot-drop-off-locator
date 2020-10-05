@@ -5,5 +5,7 @@
   "urlvbmdropboxes": "https://sos.vermont.gov/media/vh1jv3oj/2019townclerkguide.pdf",
   "urlstatelevelvbm": "https://sos.vermont.gov/elections/voters/early-absentee-voting/",
   "flagboxes": 0,
+  "areadatacode": 504,
+  "arealeveltext": "Vermont absentee ballots are returned to Town Clerks, not at the county level. The SHOW DROP-OFF OPTIONS button will open a statewide list of Town Clerk addresses, your ballot can be hand delivered to your Town Clerk. Absentee ballots can also be dropped at your polling place on Election Day.",
   "shortname": "lamoille"
 }

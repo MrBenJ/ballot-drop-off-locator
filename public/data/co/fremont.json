@@ -3,6 +3,9 @@
   "fips5": "08043",
   "adminarea": "Fremont",
   "urlvbmdropboxes": "https://www.fremontco.com/clerk-and-recorder/elections",
+  "urlstatelevelvbm": "https://www.sos.state.co.us/pubs/elections/vote/VoterHome.html",
   "flagboxes": 1,
+  "areadatacode": "081",
+  "arealeveltext": "Your county DOES have Mail Ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage which has a list of ballot dropboxes in your area. ",
   "shortname": "fremont"
 }

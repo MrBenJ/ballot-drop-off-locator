@@ -2,8 +2,10 @@
   "state": "OH",
   "fips5": "39031",
   "adminarea": "Coshocton",
-  "urlvbmdropboxes": "https://www.coshocton.boe.ohio.gov/absentee-information/",
+  "urlvbmdropboxes": "https://www.sos.state.oh.us/elections/elections-officials/county-boards-of-elections-directory/",
   "urlstatelevelvbm": "https://www.ohiosos.gov/elections/voters/absentee-voting/#byMail",
   "flagboxes": 0,
+  "areadatacode": 394,
+  "arealeveltext": "Your county has Absentee Ballot drop-off ONLY at the Board of Elections office. The SHOW DROP-OFF OPTIONS button will take you to a state webpage with a county directory to find your Board of Elections office address, where your ballott can be hand delivered.",
   "shortname": "coshocton"
 }

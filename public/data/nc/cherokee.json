@@ -2,6 +2,10 @@
   "state": "NC",
   "fips5": "37039",
   "adminarea": "Cherokee",
+  "urlvbmdropboxes": "https://vt.ncsbe.gov/OSSite/",
+  "urlstatelevelvbm": "https://www.ncsbe.gov/voting/vote-mail",
   "flagboxes": 0,
+  "areadatacode": "372",
+  "arealeveltext": "North Carolina Absentee ballots can be dropped at any One-Stop Early Voting center. The SHOW DROP-OFF OPTIONS button will take you to a state-level finder showing Early Voting centers in your county. Select your county from the drop down menu.",
   "shortname": "cherokee"
 }

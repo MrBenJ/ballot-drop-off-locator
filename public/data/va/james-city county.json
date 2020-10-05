@@ -1,0 +1,11 @@
+{
+  "state": "VA",
+  "fips5": "51095",
+  "adminarea": "James City County",
+  "urlvbmdropboxes": "https://jamescitycountyva.gov/1044/Voter-Registration-Elections",
+  "urlstatelevelvbm": "https://www.elections.virginia.gov/vote-absentee-by-mail/index.html",
+  "flagboxes": 1,
+  "areadatacode": "511",
+  "arealeveltext": "Your jurisdiction DOES have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage with a list of ballot dropboxes available in your area.",
+  "shortname": "james-city county"
+}

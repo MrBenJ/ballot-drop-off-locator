@@ -3,6 +3,9 @@
   "fips5": "08123",
   "adminarea": "Weld",
   "urlvbmdropboxes": "https://www.weldgov.com/UserFiles/Servers/Server_6/File/Departments/Clerk%20and%20Recorder/Election%20Information/V3%20Voter%20Times%20and%20Places%20Info%20Sheet%20-%202020%20General.pdf",
+  "urlstatelevelvbm": "https://www.sos.state.co.us/pubs/elections/vote/VoterHome.html",
   "flagboxes": 1,
+  "areadatacode": "081",
+  "arealeveltext": "Your county DOES have Mail Ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage which has a list of ballot dropboxes in your area. ",
   "shortname": "weld"
 }

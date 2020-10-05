@@ -2,7 +2,10 @@
   "state": "NC",
   "fips5": "37011",
   "adminarea": "Avery",
-  "urlearlyvoting": "http://www.averycountync.gov/departments/board_elections_office.php",
+  "urlvbmdropboxes": "http://www.averycountync.gov/departments/board_elections_office.php",
+  "urlstatelevelvbm": "https://www.ncsbe.gov/voting/vote-mail",
   "flagboxes": 0,
+  "areadatacode": 373,
+  "arealeveltext": "North Carolina Absentee ballots can be dropped at any One-Stop Early Voting center. The SHOW DROP-OFF OPTIONS button will take you to your county elections webpage showing the Board of Elections address, which is the Early Voting center in your county.",
   "shortname": "avery"
 }

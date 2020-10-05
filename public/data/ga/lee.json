@@ -2,7 +2,11 @@
   "state": "GA",
   "fips5": "13177",
   "adminarea": "Lee",
-  "urlvbmdropboxes": "http://lee.ga.us/government/boards/elections.html",
+  "urlvbmdropboxes": "http://www.lee.ga.us",
+  "urlstatelevelvbm": "https://georgia.gov/vote-absentee-ballot",
   "flagboxes": 0,
+  "areadatacode": "133A",
+  "arealeveltext": "Your county has Absentee ballot drop-off ONLY at the Board of Elections office, some of which have an exterior dropbox installed. The SHOW DROP-OFF OPTIONS button will take you to the county Elections webpage which has the address for the Elections office. Click \"Absentee-by-mail and drop box notice\"",
+  "flagattn": 1,
   "shortname": "lee"
 }

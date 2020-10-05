@@ -3,6 +3,9 @@
   "fips5": "19017",
   "adminarea": "Bremer",
   "urlvbmdropboxes": "https://www.co.bremer.ia.us/government/elections/absentee_voting.php",
+  "urlstatelevelvbm": "https://sos.iowa.gov/elections/electioninfo/absenteeinfo.html",
   "flagboxes": 0,
+  "areadatacode": 193,
+  "arealeveltext": "Your county has Absentee Ballot drop-off ONLY at the County Auditor's office. The SHOW DROP-OFF OPTIONS button will take you to the county webpage which shows the Auditor's office address where you can hand deliver your absentee ballot.",
   "shortname": "bremer"
 }

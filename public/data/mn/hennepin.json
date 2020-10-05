@@ -1,0 +1,11 @@
+{
+  "state": "MN",
+  "fips5": "27053",
+  "adminarea": "Hennepin",
+  "urlvbmdropboxes": "https://www.sos.state.mn.us/elections-voting/other-ways-to-vote/cities-and-towns-with-in-person-absentee-voting/",
+  "urlstatelevelvbm": "https://www.sos.state.mn.us/elections-voting/other-ways-to-vote/vote-early-by-mail/",
+  "flagboxes": 1,
+  "areadatacode": "272",
+  "arealeveltext": "Your county DOES have multiple Absentee Ballot drop-off locations. The SHOW DROP-OFF OPTIONS button will take you to a state elections webpage which shows a list of City Hall Early Voting locations where you can drop you ballot. Your absentee ballot can NOT be dropped at your polling place on Election Day.",
+  "shortname": "hennepin"
+}

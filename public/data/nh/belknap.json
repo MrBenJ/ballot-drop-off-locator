@@ -1,0 +1,12 @@
+{
+  "state": "NH",
+  "fips5": "33001",
+  "adminarea": "Belknap",
+  "urlvbmdropboxes": "https://app.sos.nh.gov/Public/ClerkDetails.aspx",
+  "urlstatelevelvbm": "https://sos.nh.gov/elections/voters/absentee-ballots/",
+  "flagboxes": 0,
+  "areadatacode": 334,
+  "arealeveltext": "New Hampshire absentee ballots are returned to Town Clerks, not at the county level. The SHOW DROP-OFF OPTIONS button will take you to a Clerk Search on the state website, to find your Town or City Clerk's office address, where your ballot can be hand delivered.",
+  "flagattn": " ",
+  "shortname": "belknap"
+}

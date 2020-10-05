@@ -1,0 +1,11 @@
+{
+  "state": "MN",
+  "fips5": "27059",
+  "adminarea": "Isanti",
+  "urlvbmdropboxes": "https://www.co.isanti.mn.us/153/Absentee-Voting",
+  "urlstatelevelvbm": "https://www.sos.state.mn.us/elections-voting/other-ways-to-vote/vote-early-by-mail/",
+  "flagboxes": 0,
+  "areadatacode": "273",
+  "arealeveltext": "Your county has Absentee Ballot drop-off ONLY at the County Auditor's office. The SHOW DROP-OFF OPTIONS button will take you to your county webpage which shows you County Auditor address where you can hand deliver you ballot. Your absentee ballot can NOT be dropped at your polling place on Election Day.",
+  "shortname": "isanti"
+}

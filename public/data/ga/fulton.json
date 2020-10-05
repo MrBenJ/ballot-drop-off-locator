@@ -2,7 +2,10 @@
   "state": "GA",
   "fips5": "13121",
   "adminarea": "Fulton",
-  "urlvbmdropboxes": "https://fultoncountyga.gov/services/voting-and-elections/absentee-voting",
+  "urlvbmdropboxes": "https://fultoncountyga.gov/inside-fulton-county/fulton-county-departments/registration-and-elections/absentee-ballot-box",
+  "urlstatelevelvbm": "https://georgia.gov/vote-absentee-ballot",
   "flagboxes": 1,
+  "areadatacode": "131",
+  "arealeveltext": "Your county DOES have Absentee ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to your county Board of Elections webpage with a list of ballot dropboxes available in your area. ",
   "shortname": "fulton"
 }

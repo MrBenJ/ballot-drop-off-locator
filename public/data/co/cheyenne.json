@@ -3,6 +3,9 @@
   "fips5": "08017",
   "adminarea": "Cheyenne",
   "urlvbmdropboxes": "http://www.co.cheyenne.co.us/countydepartments/clerkandrecorder_2020_primary_election_notice(5.22.20).pdf",
+  "urlstatelevelvbm": "https://www.sos.state.co.us/pubs/elections/vote/VoterHome.html",
   "flagboxes": 1,
+  "areadatacode": "081",
+  "arealeveltext": "Your county DOES have Mail Ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage which has a list of ballot dropboxes in your area. ",
   "shortname": "cheyenne"
 }

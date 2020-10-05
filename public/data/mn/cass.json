@@ -1,0 +1,11 @@
+{
+  "state": "MN",
+  "fips5": "27021",
+  "adminarea": "Cass",
+  "urlvbmdropboxes": "http://cms4.revize.com/revize/casscounty/Designation%20of%20Absentee%20Voting%20Locations%20for%202020.pdf",
+  "urlstatelevelvbm": "https://www.sos.state.mn.us/elections-voting/other-ways-to-vote/vote-early-by-mail/",
+  "flagboxes": 1,
+  "areadatacode": "271",
+  "arealeveltext": "Your county DOES have multiple Absentee Ballot drop-off locations. The SHOW DROP-OFF OPTIONS button will take you to your county elections webpage which shows a list of ballot drop-off locations. Your absentee ballot can NOT be dropped at your polling place on Election Day.",
+  "shortname": "cass"
+}

@@ -1,0 +1,11 @@
+{
+  "state": "VA",
+  "fips5": "51139",
+  "adminarea": "Page",
+  "urlvbmdropboxes": "https://www.pagecounty.virginia.gov/204/Voter-Registration",
+  "urlstatelevelvbm": "https://www.elections.virginia.gov/vote-absentee-by-mail/index.html",
+  "flagboxes": 0,
+  "areadatacode": "513",
+  "arealeveltext": "Your jurisdiction DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to your county's voter information webpage.",
+  "shortname": "page"
+}

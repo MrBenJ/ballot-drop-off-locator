@@ -1,0 +1,11 @@
+{
+  "state": "MN",
+  "fips5": "27145",
+  "adminarea": "Stearns",
+  "urlvbmdropboxes": "https://co.stearns.mn.us/Community/CountyNews/ArtMID/2343/ArticleID/3311/Mail-Ballots-for-November-General-Election",
+  "urlstatelevelvbm": "https://www.sos.state.mn.us/elections-voting/other-ways-to-vote/vote-early-by-mail/",
+  "flagboxes": 1,
+  "areadatacode": "271",
+  "arealeveltext": "Your county DOES have multiple Absentee Ballot drop-off locations. The SHOW DROP-OFF OPTIONS button will take you to your county elections webpage which shows a list of ballot drop-off locations. Your absentee ballot can NOT be dropped at your polling place on Election Day.",
+  "shortname": "stearns"
+}

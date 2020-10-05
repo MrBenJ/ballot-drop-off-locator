@@ -2,7 +2,10 @@
   "state": "CO",
   "fips5": "08077",
   "adminarea": "Mesa",
-  "urlvbmdropboxes": "https://clerk.mesacounty.us/elections/",
+  "urlvbmdropboxes": "https://clerk.mesacounty.us/elections/election-hub/",
+  "urlstatelevelvbm": "https://www.sos.state.co.us/pubs/elections/vote/VoterHome.html",
   "flagboxes": 1,
+  "areadatacode": "081",
+  "arealeveltext": "Your county DOES have Mail Ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage which has a list of ballot dropboxes in your area. ",
   "shortname": "mesa"
 }

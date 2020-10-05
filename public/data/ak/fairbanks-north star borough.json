@@ -4,5 +4,7 @@
   "adminarea": "Fairbanks North Star Borough",
   "urlvbmdropboxes": "https://www.elections.alaska.gov/Core/votingbymail.php",
   "flagboxes": 1,
+  "areadatacode": "022",
+  "arealeveltext": "Your jurisdiction DOES have Mail Ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to a state elections webpage showing information on Mail Ballots for Alaska, including dropbox locations in your area.",
   "shortname": "fairbanks-north star borough"
 }

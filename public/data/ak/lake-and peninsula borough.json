@@ -4,5 +4,7 @@
   "adminarea": "Lake and Peninsula Borough",
   "urlvbmdropboxes": "https://www.elections.alaska.gov/Core/votingbymail.php",
   "flagboxes": 0,
+  "areadatacode": "024",
+  "arealeveltext": "Your jurisdiction DOES NOT have Mail Ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to a state elections webpage showing information on Mail Ballots for Alaska.",
   "shortname": "lake-and peninsula borough"
 }
