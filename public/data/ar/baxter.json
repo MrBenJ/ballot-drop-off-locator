@@ -3,8 +3,10 @@
   "fips5": "05005",
   "adminarea": "Baxter",
   "urlvbmdropboxes": "http://www.baxtercounty.org/election.php",
-  "urlearlyvoting": "https://www.sos.arkansas.gov/elections",
   "urlstatelevelvbm": "https://www.sos.arkansas.gov/elections/voter-information/absentee-voting",
   "flagboxes": 0,
+  "areadatacode": 3,
+  "arealeveltext": "Your county DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage showing the County Clerk Office address, where you can hand deliver your ballot.",
+  "flagattn": 1,
   "shortname": "baxter"
 }

@@ -1,0 +1,382 @@
+[
+  {
+    "adminarea": "Anderson",
+    "shortname": "anderson"
+  },
+  {
+    "adminarea": "Bedford",
+    "shortname": "bedford"
+  },
+  {
+    "adminarea": "Benton",
+    "shortname": "benton"
+  },
+  {
+    "adminarea": "Bledsoe",
+    "shortname": "bledsoe"
+  },
+  {
+    "adminarea": "Blount",
+    "shortname": "blount"
+  },
+  {
+    "adminarea": "Bradley",
+    "shortname": "bradley"
+  },
+  {
+    "adminarea": "Campbell",
+    "shortname": "campbell"
+  },
+  {
+    "adminarea": "Cannon",
+    "shortname": "cannon"
+  },
+  {
+    "adminarea": "Carroll",
+    "shortname": "carroll"
+  },
+  {
+    "adminarea": "Carter",
+    "shortname": "carter"
+  },
+  {
+    "adminarea": "Cheatham",
+    "shortname": "cheatham"
+  },
+  {
+    "adminarea": "Chester",
+    "shortname": "chester"
+  },
+  {
+    "adminarea": "Claiborne",
+    "shortname": "claiborne"
+  },
+  {
+    "adminarea": "Clay",
+    "shortname": "clay"
+  },
+  {
+    "adminarea": "Cocke",
+    "shortname": "cocke"
+  },
+  {
+    "adminarea": "Coffee",
+    "shortname": "coffee"
+  },
+  {
+    "adminarea": "Crockett",
+    "shortname": "crockett"
+  },
+  {
+    "adminarea": "Cumberland",
+    "shortname": "cumberland"
+  },
+  {
+    "adminarea": "Davidson",
+    "shortname": "davidson"
+  },
+  {
+    "adminarea": "Decatur",
+    "shortname": "decatur"
+  },
+  {
+    "adminarea": "DeKalb",
+    "shortname": "dekalb"
+  },
+  {
+    "adminarea": "Dickson",
+    "shortname": "dickson"
+  },
+  {
+    "adminarea": "Dyer",
+    "shortname": "dyer"
+  },
+  {
+    "adminarea": "Fayette",
+    "shortname": "fayette"
+  },
+  {
+    "adminarea": "Fentress",
+    "shortname": "fentress"
+  },
+  {
+    "adminarea": "Franklin",
+    "shortname": "franklin"
+  },
+  {
+    "adminarea": "Gibson",
+    "shortname": "gibson"
+  },
+  {
+    "adminarea": "Giles",
+    "shortname": "giles"
+  },
+  {
+    "adminarea": "Grainger",
+    "shortname": "grainger"
+  },
+  {
+    "adminarea": "Greene",
+    "shortname": "greene"
+  },
+  {
+    "adminarea": "Grundy",
+    "shortname": "grundy"
+  },
+  {
+    "adminarea": "Hamblen",
+    "shortname": "hamblen"
+  },
+  {
+    "adminarea": "Hamilton",
+    "shortname": "hamilton"
+  },
+  {
+    "adminarea": "Hancock",
+    "shortname": "hancock"
+  },
+  {
+    "adminarea": "Hardeman",
+    "shortname": "hardeman"
+  },
+  {
+    "adminarea": "Hardin",
+    "shortname": "hardin"
+  },
+  {
+    "adminarea": "Hawkins",
+    "shortname": "hawkins"
+  },
+  {
+    "adminarea": "Haywood",
+    "shortname": "haywood"
+  },
+  {
+    "adminarea": "Henderson",
+    "shortname": "henderson"
+  },
+  {
+    "adminarea": "Henry",
+    "shortname": "henry"
+  },
+  {
+    "adminarea": "Hickman",
+    "shortname": "hickman"
+  },
+  {
+    "adminarea": "Houston",
+    "shortname": "houston"
+  },
+  {
+    "adminarea": "Humphreys",
+    "shortname": "humphreys"
+  },
+  {
+    "adminarea": "Jackson",
+    "shortname": "jackson"
+  },
+  {
+    "adminarea": "Jefferson",
+    "shortname": "jefferson"
+  },
+  {
+    "adminarea": "Johnson",
+    "shortname": "johnson"
+  },
+  {
+    "adminarea": "Knox",
+    "shortname": "knox"
+  },
+  {
+    "adminarea": "Lake",
+    "shortname": "lake"
+  },
+  {
+    "adminarea": "Lauderdale",
+    "shortname": "lauderdale"
+  },
+  {
+    "adminarea": "Lawrence",
+    "shortname": "lawrence"
+  },
+  {
+    "adminarea": "Lewis",
+    "shortname": "lewis"
+  },
+  {
+    "adminarea": "Lincoln",
+    "shortname": "lincoln"
+  },
+  {
+    "adminarea": "Loudon",
+    "shortname": "loudon"
+  },
+  {
+    "adminarea": "McMinn",
+    "shortname": "mcminn"
+  },
+  {
+    "adminarea": "McNairy",
+    "shortname": "mcnairy"
+  },
+  {
+    "adminarea": "Macon",
+    "shortname": "macon"
+  },
+  {
+    "adminarea": "Madison",
+    "shortname": "madison"
+  },
+  {
+    "adminarea": "Marion",
+    "shortname": "marion"
+  },
+  {
+    "adminarea": "Marshall",
+    "shortname": "marshall"
+  },
+  {
+    "adminarea": "Maury",
+    "shortname": "maury"
+  },
+  {
+    "adminarea": "Meigs",
+    "shortname": "meigs"
+  },
+  {
+    "adminarea": "Monroe",
+    "shortname": "monroe"
+  },
+  {
+    "adminarea": "Montgomery",
+    "shortname": "montgomery"
+  },
+  {
+    "adminarea": "Moore",
+    "shortname": "moore"
+  },
+  {
+    "adminarea": "Morgan",
+    "shortname": "morgan"
+  },
+  {
+    "adminarea": "Obion",
+    "shortname": "obion"
+  },
+  {
+    "adminarea": "Overton",
+    "shortname": "overton"
+  },
+  {
+    "adminarea": "Perry",
+    "shortname": "perry"
+  },
+  {
+    "adminarea": "Pickett",
+    "shortname": "pickett"
+  },
+  {
+    "adminarea": "Polk",
+    "shortname": "polk"
+  },
+  {
+    "adminarea": "Putnam",
+    "shortname": "putnam"
+  },
+  {
+    "adminarea": "Rhea",
+    "shortname": "rhea"
+  },
+  {
+    "adminarea": "Roane",
+    "shortname": "roane"
+  },
+  {
+    "adminarea": "Robertson",
+    "shortname": "robertson"
+  },
+  {
+    "adminarea": "Rutherford",
+    "shortname": "rutherford"
+  },
+  {
+    "adminarea": "Scott",
+    "shortname": "scott"
+  },
+  {
+    "adminarea": "Sequatchie",
+    "shortname": "sequatchie"
+  },
+  {
+    "adminarea": "Sevier",
+    "shortname": "sevier"
+  },
+  {
+    "adminarea": "Shelby",
+    "shortname": "shelby"
+  },
+  {
+    "adminarea": "Smith",
+    "shortname": "smith"
+  },
+  {
+    "adminarea": "Stewart",
+    "shortname": "stewart"
+  },
+  {
+    "adminarea": "Sullivan",
+    "shortname": "sullivan"
+  },
+  {
+    "adminarea": "Sumner",
+    "shortname": "sumner"
+  },
+  {
+    "adminarea": "Tipton",
+    "shortname": "tipton"
+  },
+  {
+    "adminarea": "Trousdale",
+    "shortname": "trousdale"
+  },
+  {
+    "adminarea": "Unicoi",
+    "shortname": "unicoi"
+  },
+  {
+    "adminarea": "Union",
+    "shortname": "union"
+  },
+  {
+    "adminarea": "Van Buren",
+    "shortname": "van-buren"
+  },
+  {
+    "adminarea": "Warren",
+    "shortname": "warren"
+  },
+  {
+    "adminarea": "Washington",
+    "shortname": "washington"
+  },
+  {
+    "adminarea": "Wayne",
+    "shortname": "wayne"
+  },
+  {
+    "adminarea": "Weakley",
+    "shortname": "weakley"
+  },
+  {
+    "adminarea": "White",
+    "shortname": "white"
+  },
+  {
+    "adminarea": "Williamson",
+    "shortname": "williamson"
+  },
+  {
+    "adminarea": "Wilson",
+    "shortname": "wilson"
+  }
+]

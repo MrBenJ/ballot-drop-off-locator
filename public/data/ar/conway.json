@@ -2,8 +2,10 @@
   "state": "AR",
   "fips5": "05029",
   "adminarea": "Conway",
-  "urlvbmdropboxes": "https://www.voterview.ar-nova.org/voterview",
+  "urlvbmdropboxes": "https://www.sos.arkansas.gov/uploads/elections/County_Clerk_Contact_List_-_Rev._8-19-2020_.pdf",
   "urlstatelevelvbm": "https://www.sos.arkansas.gov/elections/voter-information/absentee-voting",
   "flagboxes": 0,
+  "arealeveltext": "Your county DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to a statewide list of counties showing the County Clerk Office address for your county, where you can hand deliver your ballot.",
+  "flagattn": 1,
   "shortname": "conway"
 }

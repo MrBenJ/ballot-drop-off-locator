@@ -2,9 +2,10 @@
   "state": "AR",
   "fips5": "05053",
   "adminarea": "Grant",
-  "urlvbmdropboxes": "http://www.grantcountyar.com/clerk/vote_centers",
-  "urlearlyvoting": "https://www.sos.arkansas.gov/elections",
+  "urlvbmdropboxes": "http://www.grantcountyar.com/clerk/absentee_voting",
   "urlstatelevelvbm": "https://www.sos.arkansas.gov/elections/voter-information/absentee-voting",
   "flagboxes": 0,
+  "areadatacode": 3,
+  "arealeveltext": "Your county DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage showing the County Clerk Office address, where you can hand deliver your ballot.",
   "shortname": "grant"
 }

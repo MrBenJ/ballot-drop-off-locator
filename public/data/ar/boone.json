@@ -2,9 +2,10 @@
   "state": "AR",
   "fips5": "05009",
   "adminarea": "Boone",
-  "urlvbmdropboxes": "https://www.boonecountyar.com/voter-information",
-  "urlearlyvoting": "https://www.sos.arkansas.gov/elections",
+  "urlvbmdropboxes": "https://www.boonecountyar.com/election-information",
   "urlstatelevelvbm": "https://www.sos.arkansas.gov/elections/voter-information/absentee-voting",
   "flagboxes": 0,
+  "areadatacode": 3,
+  "arealeveltext": "Your county DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage showing the County Clerk Office address, where you can hand deliver your ballot.",
   "shortname": "boone"
 }

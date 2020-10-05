@@ -1,0 +1,11 @@
+{
+  "state": "TN",
+  "fips5": "47151",
+  "adminarea": "Scott",
+  "urlearlyvoting": "https://sos.tn.gov/products/elections/early-voting-person",
+  "urlstatelevelvbm": "https://sos.tn.gov/products/elections/absentee-voting",
+  "flagboxes": 0,
+  "areadatacode": 479,
+  "arealeveltext": "Per Tennessee Election law, Absentee-by-mail ballots CAN NOT be hand delivered to election officials, they can ONLY be returned by mail (USPS, FedEx, UPS, etc.)",
+  "shortname": "scott"
+}

@@ -1,0 +1,11 @@
+{
+  "state": "TN",
+  "fips5": "47089",
+  "adminarea": "Jefferson",
+  "urlearlyvoting": "https://jeffersoncountytn.gov/wp-content/uploads/2019/10/3.-November-General-Early-Voting-Schedule-November-3-2020.pdf",
+  "urlstatelevelvbm": "https://sos.tn.gov/products/elections/absentee-voting",
+  "flagboxes": 0,
+  "areadatacode": 479,
+  "arealeveltext": "Per Tennessee Election law, Absentee-by-mail ballots CAN NOT be hand delivered to election officials, they can ONLY be returned by mail (USPS, FedEx, UPS, etc.)",
+  "shortname": "jefferson"
+}

@@ -1,0 +1,11 @@
+{
+  "state": "TN",
+  "fips5": "47165",
+  "adminarea": "Sumner",
+  "urlearlyvoting": "https://www.votesumnertn.org/documents/misc/2020-nov-ev-calendar.pdf",
+  "urlstatelevelvbm": "https://sos.tn.gov/products/elections/absentee-voting",
+  "flagboxes": 0,
+  "areadatacode": 479,
+  "arealeveltext": "Per Tennessee Election law, Absentee-by-mail ballots CAN NOT be hand delivered to election officials, they can ONLY be returned by mail (USPS, FedEx, UPS, etc.)",
+  "shortname": "sumner"
+}
