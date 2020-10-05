@@ -1,6 +1,7 @@
 import React from 'react';
 import cn from 'classnames';
 import { useTranslation } from 'react-i18next';
+import { Link } from 'react-router-dom';
 
 import Text from '../Text';
 import './Footer.scss';
@@ -27,16 +28,13 @@ const Footer = props => {
       <div className="social-icons">{/* ADD SOCIAL MEDIA ICONS HERE */}</div>
       <div className="footer-links-list">
         <Text variant="span">
-          {t('Footer.linkAboutProject')}
+          <Link to="/about">{t('Footer.linkAboutProject')}</Link>
           <Divider />
-          {t('Footer.linkDataIntegrity')}
+          <Link to="/resources">{t('Footer.linkDataIntegrity')}</Link>
           <Divider />
-          {t('Footer.linkContactUs')}
+          <Link to="/contact">{t('Footer.linkContactUs')}</Link>
         </Text>
       </div>
-      <Text className="voter-info-project center">
-        {t('Footer.linkVoterInfo')}
-      </Text>
     </footer>
   );
 };
