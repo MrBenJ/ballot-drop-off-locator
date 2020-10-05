@@ -94,6 +94,12 @@ test(
         },
         flagboxes: {
           type: 'number'
+        },
+        arealeveltext: {
+          type: 'string'
+        },
+        urlstatelevelvbm: {
+          type: 'string'
         }
       }
     };
