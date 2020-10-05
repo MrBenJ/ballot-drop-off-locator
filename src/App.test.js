@@ -97,6 +97,9 @@ test(
         },
         arealeveltext: {
           type: 'string'
+        },
+        urlstatelevelvbm: {
+          type: 'string'
         }
       }
     };

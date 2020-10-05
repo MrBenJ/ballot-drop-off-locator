@@ -87,13 +87,13 @@ const CountyPage = () => {
             rel="noopener noreferrer">
             <Button>{t('CountyPage.dropOffButtonText').toUpperCase()}</Button>
           </a>
-          {data.urlearlyvoting && (
+          {data.urlstatelevelvbm && (
             <>
               <Text className="button-flavor-copy center">
                 {t('CountyPage.findMore')}
               </Text>
               <a
-                href={data.urlearlyvoting}
+                href={data.urlstatelevelvbm}
                 target="_blank"
                 rel="noopener noreferrer">
                 <Button>
@@ -102,6 +102,7 @@ const CountyPage = () => {
               </a>
             </>
           )}
+          {/*
           <Text className="button-flavor-copy center">
             {t('CountyPage.seeMoreMapCopy')}{' '}
             <Text variant="span" className="link">
@@ -117,6 +118,7 @@ const CountyPage = () => {
               {t('CountyPage.BallotNav')}
             </Text>
           </Text>
+          */}
         </div>
       </ConditionalLoader>
     </div>

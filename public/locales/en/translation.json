@@ -34,7 +34,7 @@
     "countyErrorGeneric": "There was an issue finding the data for this page",
     "dropOffButtonText": "Show Drop-Off Options",
     "county": "County",
-    "findMore": "Find out more about your state ballot.",
+    "findMore": "Find out more about Absentee / Mail-in Voting for your state",
     "stateBallotButtonText": "State Ballot Info",
     "seeMoreMapCopy": "See all available drop-off locations",
     "onAMap": "on a map",
@@ -43,10 +43,9 @@
     "BallotNav": "BallotNav"
   },
   "Footer": {
-    "MyBallotDrop": "MY BALLOT DROP",
+    "MyBallotDrop": "Copyright 2020 MY BALLOT DROP",
     "linkAboutProject": "About the Project",
     "linkDataIntegrity": "Data Integrity",
-    "linkContactUs": "Contact Us",
-    "linkVoterInfo": "Voter Information Project"
+    "linkContactUs": "Contact Us"
   }
 }
