@@ -60,6 +60,14 @@
     "para4": "By sending users directly to government sources, voters can have confidence that they are receiving official information that is reliable, unfiltered and up to date.",
     "para5": "In a similar commitment to transparency, the website code for MyBallotDrop will be open source, securely posted on code repository GitHub and available for review and comment. This again is to provide confidence to users that the results they receive are not filtered or suppressed in any way, and allows the MyBallotDrop team to improve security and functionality of the site from comments from the developer community."
   },
+  "ContactPage": {
+    "headline": "CONTRIBUTORS",
+    "para1": "MyBallotDrop is an entirely volunteer created and run project that relied on the time and expertise of a team of contributors who are, first and foremost, American voters and concerned citizens. We believe that democracy works best when all citizens have the opportunity to participate in the process, and this site was designed inside of that commitment.",
+    "thanks": "MyBallotDrop thanks all those who contributed to making this site.",
+    "designDev": "Design and Development:",
+    "mediaRelations": "Media Relations:",
+    "researchers": "Researchers"
+  },
   "Footer": {
     "MyBallotDrop": "Copyright 2020 MY BALLOT DROP",
     "linkAboutProject": "About the Project",
