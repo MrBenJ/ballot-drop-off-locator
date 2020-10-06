@@ -1,15 +1,22 @@
 @import "../../style/variables";
 .IndexPage {
-  padding: 0 $border-padding;
-
-  .button-cta {
-    max-width: 200px;
-    margin: 0 auto;
-    padding: .5rem 1rem;
+  .content {
+    padding: 0 $border-padding;
   }
 }
 
-.main-image{
+.button-cta {
+  max-width: 200px;
+  margin: 0 auto;
+  margin-bottom: 1rem;
+  padding: .5rem 1rem;
+}
+
+.top-flex-second {
+  padding: 0 $border-padding;
+}
+
+.main-image {
   object-fit: contain;
   width: 100%;
 }
@@ -20,12 +27,12 @@
 }
 
 .dropbox-copy {
-  padding-bottom: 1.5rem;
+  padding-bottom: 1rem;
   font-size: 1.2rem;
 }
 
 .locate-copy-wrapper {
-  padding: 1.5rem 0;
+  padding-bottom: 1rem;
   font-size: 1.2rem;
 }
 
@@ -44,4 +51,27 @@
 .county-gov-copy {
   font-size: 1.2rem;
   padding-bottom: 1.5rem;
+}
+
+@media screen and (min-width: $bp-desktop) {
+  .top-flex {
+    display: flex;
+    align-items: flex-start;
+  }
+
+  .top-flex-first {
+    order: 2;
+    flex: 1;
+  }
+
+  .top-flex-second {
+    order: 1;
+    flex: 1;
+
+  }
+
+  .main-image {
+    height: 100%;
+    width: 100%;
+  }
 }
