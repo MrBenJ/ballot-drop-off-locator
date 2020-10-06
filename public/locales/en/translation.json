@@ -13,7 +13,7 @@
     "boldLocate": "Locate secure ballot dropboxes",
     "whereAvailable": "(where available)",
     "boldDropDirectly": "OR drop off directly",
-    "atJursidiction": "at the election office in your county or juristiction.",
+    "atJursidiction": "at the election office in your county or jurisdiction.",
     "tealBolded": "Make sure your ballot is received on time.",
     "tealBolded2": "Make sure your vote is counted!",
     "siteProvides": "This site provides links to direct",
@@ -27,7 +27,7 @@
     "selectState": "First, select your State below"
   },
   "SelectCountyPage": {
-    "selectCounty": "Next, select your Jursidiction. ",
+    "selectCounty": "Next, select your Jurisdiction. ",
     "countyErrorGeneric": "There was an issue finding the data for this page",
     "countiesIn": "Counties in"
   },
