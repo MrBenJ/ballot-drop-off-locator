@@ -1,0 +1,15 @@
+@import "../../style/variables";
+
+.ResourcesPage {
+  padding: 0 $border-padding;
+
+  .headline {
+    font-size: 1.8rem;
+    padding: 2rem 0;
+  }
+
+  .para {
+    padding: 1rem 0;
+    font-size: 1.3rem;
+  }
+}

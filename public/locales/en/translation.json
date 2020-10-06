@@ -1,5 +1,6 @@
 {
   "title": "Ballot Drop off Locator",
+  "appName": "MyBallotDrop",
   "Header": {
     "altLogo": "My Ballot Drop"
   },
@@ -41,6 +42,31 @@
     "viewMapButtonText": "View on map",
     "mapProvidedBy": "Map provided by",
     "BallotNav": "BallotNav"
+  },
+  "AboutPage": {
+    "headline": "ABOUT THIS PROJECT",
+    "para1": "was created as a non-partisan voter resource to help absentee or vote-by-mail voters find ballot dropboxes or other options to safely and securely return their mail-in ballot directly to election officials, as an alternative to returning them by mail via USPS. MyBallotDrop seeks to help absentee or mail ballot voters ensure their 2020 ballot is received and counted.",
+    "para2": "The 2020 election is expected to have an unprecedented number of votes cast by absentee or mail-in ballots, due to concerns over the safety of voting in person during the pandemic. However, recent changes implemented at the US Postal Service have created concerns over the USPS ability to send ballots to voters and return them to election officials in a timely manner, including",
+    "para2-linked": "warnings directly from USPS about their ability to return ballots on time.",
+    "para3": "Recent elections have seen tens of thousands of ballots rejected because they were received late, beyond state voting deadlines. With a massive increase in the number of mail ballots expected to be cast in 2020, any delays in ballot return due to slowdowns at USPS could lead to potentially hundreds of thousands of votes rejected. In response, many states and counties have moved to implement or expand access to ballot dropboxes: secure ballot drop off locations where voters can drop ballots directly, to be collected by elections officials rather than returning them by mail.",
+    "para4": "However, many voters - and especially first time mail ballot voters - may be unaware that such options exist. They may not know to search for dropbox locations in their county as a way to ensure their ballot is received on time and counted in the election. Given the sheer number of counties and jurisdictions in the US, and differences in state mail ballot rules, effective nationwide promotion of county-level dropbox location information poses a significant challenge.",
+    "para5": "To address this need, MyBallotDrop was created to provide a single, nationally promotable web-based resource to help voters in every state find all available options for returning their vote-by-mail ballot directly to county or municipal elections officials."
+  },
+  "ResourcesPage": {
+    "headline": "DATA INTEGRITY",
+    "para1": "The single greatest priority in developing MyBallotDrop was voter confidence in the accuracy and reliability of the information they were being provided. ",
+    "para2": "After selecting their state and then county from the menus, users land at a results page which tells them what type of drop-off options are available for their jurisdiction and are then linked directly to their county or state elections websites containing the relevant information: dropbox locations, addresses and hours of county or municipal elections offices, early voting or vote center locations in their area, as well as statewide information about absentee or vote-by-mail voting for their state.",
+    "para3": "When it comes to their vote, voters are rightly concerned about potential disinformation or misinformation that could interfere with their ballot being properly received and counted, In addition, state rollout or expansion of ballot dropboxes - including brand new laws and current court cases about dropboxes - means information on ballot dropoff options is quickly evolving.",
+    "para4": "By sending users directly to government sources, voters can have confidence that they are receiving official information that is reliable, unfiltered and up to date.",
+    "para5": "In a similar commitment to transparency, the website code for MyBallotDrop will be open source, securely posted on code repository GitHub and available for review and comment. This again is to provide confidence to users that the results they receive are not filtered or suppressed in any way, and allows the MyBallotDrop team to improve security and functionality of the site from comments from the developer community."
+  },
+  "ContactPage": {
+    "headline": "CONTRIBUTORS",
+    "para1": "MyBallotDrop is an entirely volunteer created and run project that relied on the time and expertise of a team of contributors who are, first and foremost, American voters and concerned citizens. We believe that democracy works best when all citizens have the opportunity to participate in the process, and this site was designed inside of that commitment.",
+    "thanks": "MyBallotDrop thanks all those who contributed to making this site.",
+    "designDev": "Design and Development:",
+    "mediaRelations": "Media Relations:",
+    "researchers": "Researchers"
   },
   "Footer": {
     "MyBallotDrop": "Copyright 2020 MY BALLOT DROP",
