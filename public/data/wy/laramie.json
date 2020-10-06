@@ -1,0 +1,10 @@
+{
+  "state": "WY",
+  "fips5": "56021",
+  "adminarea": "Laramie",
+  "urlvbmdropboxes": "https://maps.laramiecounty.com/ballotboxes/",
+  "urlstatelevelvbm": "https://sos.wyo.gov/Elections/State/AbsenteeVoting.aspx",
+  "flagboxes": 1,
+  "areadatacode": 1,
+  "shortname": "laramie"
+}

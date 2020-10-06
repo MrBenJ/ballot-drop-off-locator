@@ -1,0 +1,10 @@
+{
+  "state": "WY",
+  "fips5": "56029",
+  "adminarea": "Park",
+  "urlvbmdropboxes": "http://www.parkcounty.us/PCElections/index.html",
+  "urlstatelevelvbm": "https://sos.wyo.gov/Elections/State/AbsenteeVoting.aspx",
+  "flagboxes": 0,
+  "areadatacode": 3,
+  "shortname": "park"
+}

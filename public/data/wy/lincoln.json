@@ -1,8 +1,10 @@
 {
-  "state": "NC",
-  "fips5": "37109",
+  "state": "WY",
+  "fips5": "56023",
   "adminarea": "Lincoln",
-  "urlearlyvoting": "http://www.lincolncounty.org/DocumentCenter/View/15124",
+  "urlvbmdropboxes": "https://www.lcwy.org/government/clerk/voter_reg_and_absentee_ballots.php",
+  "urlstatelevelvbm": "https://sos.wyo.gov/Elections/State/AbsenteeVoting.aspx",
   "flagboxes": 0,
+  "areadatacode": 3,
   "shortname": "lincoln"
 }

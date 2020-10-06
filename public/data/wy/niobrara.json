@@ -1,0 +1,10 @@
+{
+  "state": "WY",
+  "fips5": "56027",
+  "adminarea": "Niobrara",
+  "urlvbmdropboxes": "https://www.niobraracounty.org/_departments/_county_clerk/elections.asp",
+  "urlstatelevelvbm": "https://sos.wyo.gov/Elections/State/AbsenteeVoting.aspx",
+  "flagboxes": 0,
+  "areadatacode": 3,
+  "shortname": "niobrara"
+}

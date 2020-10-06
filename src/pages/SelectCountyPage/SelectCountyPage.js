@@ -63,7 +63,9 @@ const SelectCountyPage = () => {
         } else {
           dispatch({
             type: 'SET_ERROR',
-            value: t('SelectCountyPage.countyErrorGeneric')
+            value: fullStateName
+              ? `Our researchers are currently looking into this state. Please check back later this week to see drop box locations for ${fullStateName}`
+              : t('SelectCountyPage.countyErrorGeneric')
           });
         }
       }
@@ -72,7 +74,7 @@ const SelectCountyPage = () => {
     if (!pageState.didFetch) {
       fetchCountyInfo();
     }
-  }, [state, t, pageState.didFetch]);
+  }, [state, t, pageState.didFetch, fullStateName]);
 
   if (!fullStateName) {
     history.replace('/select-state');
