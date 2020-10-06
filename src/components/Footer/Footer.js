@@ -32,8 +32,6 @@ const Footer = props => {
           <Divider />
           <Link to="/resources">{t('Footer.linkDataIntegrity')}</Link>
           <Divider />
-          <Link to="/contributors">{t('Footer.linkContributors')}</Link>
-          <Divider />
           <Link to="/contact">{t('Footer.linkContactUs')}</Link>
         </Text>
       </div>

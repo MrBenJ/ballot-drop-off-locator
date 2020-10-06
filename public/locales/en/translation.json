@@ -67,7 +67,6 @@
     "email2": "For feedback related to website problems or issues: ",
     "email3": "For partnership or cross-promotion requests: ",
     "email4": "For general comments or questions: "
-
   },
   "ContributorsPage": {
     "headline": "CONTRIBUTORS",
@@ -81,7 +80,6 @@
     "MyBallotDrop": "Copyright 2020 MY BALLOT DROP",
     "linkAboutProject": "About the Project",
     "linkDataIntegrity": "Data Integrity",
-    "linkContributors": "Contributors",
     "linkContactUs": "Contact Us"
   }
 }
