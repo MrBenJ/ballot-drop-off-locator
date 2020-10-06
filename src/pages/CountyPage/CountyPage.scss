@@ -1,6 +1,8 @@
 @import "../../style/variables";
 
 .CountyPage {
+  margin: 0 auto;
+  max-width: $container-width;
   .container {
     padding: 0 $border-padding;
   }

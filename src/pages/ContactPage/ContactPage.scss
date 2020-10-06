@@ -2,6 +2,8 @@
 
 .ContactPage {
   padding: 0 $border-padding;
+  margin: 0 auto;
+  max-width: $container-width;
 
   .headline {
     font-size: 1.8rem;

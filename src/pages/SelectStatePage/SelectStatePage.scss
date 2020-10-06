@@ -1,5 +1,9 @@
 @import "../../style//variables";
 
+.SelectStatePage, .SelectCountyPage {
+  margin: 0 auto;
+  max-width: $container-width;
+}
 .item-container {
   display: flex;
   flex-wrap: wrap;
