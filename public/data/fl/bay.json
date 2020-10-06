@@ -3,7 +3,7 @@
   "fips5": "12005",
   "adminarea": "Bay",
   "urlvbmdropboxes": "https://www.bayvotes.org/Election-Info/Early-Voting-Sites",
-  "urlearlyvoting": 0,
+  "urlearlyvoting": "",
   "urlstatelevelvbm": "https://dos.myflorida.com/elections/for-voters/voting/vote-by-mail/",
   "flagboxes": 1,
   "areadatacode": 1,
