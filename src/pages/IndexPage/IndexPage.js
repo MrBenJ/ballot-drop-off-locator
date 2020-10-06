@@ -33,12 +33,12 @@ const IndexPage = () => {
             <Text className="dropbox-copy center">
               {t('IndexPage.absenteeText')}
             </Text>
-            <Text className="dropbox-copy center">
-              {t('IndexPage.aboutMyBallotDrop')}
-            </Text>
             <Link to="/select-state">
               <Button className="button-cta">{t('IndexPage.buttonCTA')}</Button>
             </Link>
+            <Text className="dropbox-copy center">
+              {t('IndexPage.aboutMyBallotDrop')}
+            </Text>
             <Text className="locate-copy-wrapper center">
               <Text className="bold" variant="span">
                 {t('IndexPage.boldLocate')}
