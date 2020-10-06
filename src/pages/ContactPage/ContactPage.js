@@ -2,7 +2,6 @@ import React from 'react';
 import { useTranslation } from 'react-i18next';
 
 import Text from '../../components/Text';
-import CONTRIBUTORS from '../../CONTRIBUTORS';
 
 import './ContactPage.scss';
 const ContactPage = () => {
@@ -12,38 +11,43 @@ const ContactPage = () => {
     <div className="ContactPage">
       <Text className="headline center bold">{t('ContactPage.headline')}</Text>
       <Text className="para">{t('ContactPage.para1')}</Text>
-      <Text className="para">{t('ContactPage.thanks')}</Text>
-      <div className="list list-designdev">
-        <Text className="list-title bold">{t('ContactPage.designDev')}</Text>
-        <ul className="list-names">
-          {CONTRIBUTORS.design_dev.map(name => (
-            <li key={name} className="list-names-item">
-              {name}
-            </li>
-          ))}
-        </ul>
-      </div>
-      <div className="list list-media">
-        <Text className="list-title bold">
-          {t('ContactPage.mediaRelations')}
+      <div className="emails">
+        <Text className="email-copy">{t('ContactPage.email1')}</Text>
+        <Text className="email-anchor">
+          <a
+            href="mailto:MyBallotDrop+Data@gmail.com"
+            target="_blank"
+            rel="noopener noreferrer">
+            MyBallotDrop+Data@gmail.com
+          </a>
         </Text>
-        <ul className="list-names">
-          {CONTRIBUTORS.media.map(name => (
-            <li key={name} className="list-names-item">
-              {name}
-            </li>
-          ))}
-        </ul>
-      </div>
-      <div className="list list-media">
-        <Text className="list-title bold">{t('ContactPage.researchers')}</Text>
-        <ul className="list-names">
-          {CONTRIBUTORS.researchers.map(name => (
-            <li key={name} className="list-names-item">
-              {name}
-            </li>
-          ))}
-        </ul>
+        <Text className="email-copy">{t('ContactPage.email2')}</Text>
+        <Text className="email-anchor">
+          <a
+            href="mailto:MyBallotDrop+Webmaster@gmail.com"
+            target="_blank"
+            rel="noopener noreferrer">
+            MyBallotDrop+Webmaster@gmail.com
+          </a>
+        </Text>
+        <Text className="email-copy">{t('ContactPage.email3')}</Text>
+        <Text className="email-anchor">
+          <a
+            href="mailto:MyBallotDrop+Partners@gmail.com"
+            target="_blank"
+            rel="noopener noreferrer">
+            MyBallotDrop+Partners@gmail.com
+          </a>
+        </Text>
+        <Text className="email-copy">{t('ContactPage.email4')}</Text>
+        <Text className="email-anchor">
+          <a
+            href="mailto:MyBallotDrop+Info@gmail.com"
+            target="_blank"
+            rel="noopener noreferrer">
+            MyBallotDrop+Info@gmail.com
+          </a>
+        </Text>
       </div>
     </div>
   );

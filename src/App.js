@@ -17,6 +17,9 @@ const SelectCountyPage = lazy(() =>
 const ResourcesPage = lazy(() => import('./pages/ResourcesPage/ResourcesPage'));
 const AboutPage = lazy(() => import('./pages/AboutPage/AboutPage'));
 const ContactPage = lazy(() => import('./pages/ContactPage/ContactPage'));
+const ContributorsPage = lazy(() =>
+  import('./pages/ContributorsPage/ContributorsPage')
+);
 
 const CountyPage = lazy(() => import('./pages/CountyPage/CountyPage'));
 
@@ -39,6 +42,9 @@ function App() {
               </Route>
               <Route path="/contact">
                 <ContactPage />
+              </Route>
+              <Route path="/contributors">
+                <ContributorsPage />
               </Route>
               <Route path="/select-state">
                 <SelectStatePage />

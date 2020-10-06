@@ -6,9 +6,9 @@ export default {
     'Coburn Hawk',
     'Jon Fox'
   ],
-  media: ['Heather Atherton', 'Tricia Pancio'],
+  media: ['Heather Atherton', 'Trisha Pancio'],
   researchers: [
-    'Franklin London',
+    'Franklin Londin',
     'Maureen Acree',
     'Amanpreet Kaur',
     'Cooper Griggs',

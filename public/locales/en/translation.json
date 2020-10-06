@@ -61,6 +61,15 @@
     "para5": "In a similar commitment to transparency, the website code for MyBallotDrop will be open source, securely posted on code repository GitHub and available for review and comment. This again is to provide confidence to users that the results they receive are not filtered or suppressed in any way, and allows the MyBallotDrop team to improve security and functionality of the site from comments from the developer community."
   },
   "ContactPage": {
+    "headline": "Contact Us",
+    "para1": "As an all-volunteer project, MyBallotDrop appreciates any feedback or suggestions that you might have to help us make our site better! Please send your comments via email to the following addresses:",
+    "email1": "For feedback related to data on our site: ",
+    "email2": "For feedback related to website problems or issues: ",
+    "email3": "For partnership or cross-promotion requests: ",
+    "email4": "For general comments or questions: "
+
+  },
+  "ContributorsPage": {
     "headline": "CONTRIBUTORS",
     "para1": "MyBallotDrop is an entirely volunteer created and run project that relied on the time and expertise of a team of contributors who are, first and foremost, American voters and concerned citizens. We believe that democracy works best when all citizens have the opportunity to participate in the process, and this site was designed inside of that commitment.",
     "thanks": "MyBallotDrop thanks all those who contributed to making this site.",
@@ -72,6 +81,7 @@
     "MyBallotDrop": "Copyright 2020 MY BALLOT DROP",
     "linkAboutProject": "About the Project",
     "linkDataIntegrity": "Data Integrity",
+    "linkContributors": "Contributors",
     "linkContactUs": "Contact Us"
   }
 }

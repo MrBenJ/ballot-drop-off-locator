@@ -1,6 +1,6 @@
 @import "../../style/variables";
 
-.ContactPage {
+.ContributorsPage {
   padding: 0 $border-padding;
   margin: 0 auto;
   max-width: $container-width;
@@ -15,11 +15,14 @@
     font-size: 1.3rem;
   }
 
-  .emails .email-copy, .emails .email-anchor a {
+  .list-names {
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+    padding-left: 0;
     font-size: 1.3rem;
   }
 
-  .email-anchor {
-    padding-bottom: 1rem;
+  .list-names-item {
+    list-style: none;
   }
 }
