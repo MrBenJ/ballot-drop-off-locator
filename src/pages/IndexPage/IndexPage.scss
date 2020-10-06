@@ -1,5 +1,7 @@
 @import "../../style/variables";
 .IndexPage {
+  margin: 0 auto;
+  max-width: 1380px;
   .content {
     padding: 0 $border-padding;
   }
