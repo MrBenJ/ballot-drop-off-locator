@@ -1,0 +1,12 @@
+{
+  "state": "LA",
+  "fips5": "22043",
+  "adminarea": "Grant",
+  "urlvbmdropboxes": "https://voterportal.sos.la.gov/Registrar",
+  "urlearlyvoting": "https://www.sos.la.gov/ElectionsAndVoting/Vote/Pages/default.aspx",
+  "urlstatelevelvbm": "https://www.sos.la.gov/ElectionsAndVoting/Vote/VoteByMail/Pages/default.aspx",
+  "flagboxes": 0,
+  "areadatacode": "004",
+  "arealeveltext": "Your jurisdiction DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to a state elections webpage with a finder to find your jurisdiction's registrar office address, where you can hand deliver your completed ballot.",
+  "shortname": "grant"
+}

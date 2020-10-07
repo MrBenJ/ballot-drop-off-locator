@@ -4,7 +4,9 @@
   "adminarea": "Ector",
   "urlvbmdropboxes": "http://www.co.ector.tx.us/page/ector.Elections",
   "urlearlyvoting": "http://www.co.ector.tx.us/upload/page/7873/docs/Elections/11-03-20%20General%20City%20of%20Odessa%20Election/Early%20Voting%20Schedule%2011-03-20.pdf",
-  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "urlstatelevelvbm": "https://www.votetexas.gov/voting/when.html#early-voting",
   "flagboxes": 0,
+  "areadatacode": "003",
+  "arealeveltext": "Your county DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage which shows the address for your County Election office, where you can hand deliver your completed ballot.",
   "shortname": "ector"
 }

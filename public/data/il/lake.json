@@ -2,9 +2,12 @@
   "state": "IL",
   "fips5": "17097",
   "adminarea": "Lake",
-  "urlvbmdropboxes": "https://www.lakecountyil.gov/4472/Vote-by-Mail-in-November-2020",
+  "urlvbmdropboxes": "https://www.lakecountyil.gov/DocumentCenter/View/36233/Drop-Box-Locations-all",
   "urlearlyvoting": "https://www.lakecountyil.gov/4138/November-3-2020-General-Election",
+  "urlstatelevelvbm": "https://elections.il.gov/VotingAndRegistrationSystems/VoteByMailBallotDropBoxLocations.aspx",
   "flagboxes": 1,
+  "areadatacode": "001",
+  "arealeveltext": "Your jurisdiction DOES have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage with a list of ballot dropboxes in your area. ",
   "flagattn": 1,
   "shortname": "lake"
 }

@@ -2,7 +2,11 @@
   "state": "IN",
   "fips5": "18039",
   "adminarea": "Elkhart",
-  "urlvbmdropboxes": "http://www.elkhartcountyclerk.com/voter-info/absentee-info",
+  "urlvbmdropboxes": "https://clerk.elkhartcounty.com/en/voters/about-voting/absentee-voting/",
+  "urlstatelevelvbm": "https://www.in.gov/sos/elections/2402.htm",
   "flagboxes": 0,
+  "areadatacode": "003",
+  "arealeveltext": "Your jurisdiction DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage which shows the address for your jurisdiction’s election office, where you can hand deliver your completed ballot.",
+  "flagattn": 1,
   "shortname": "elkhart"
 }

@@ -5,5 +5,7 @@
   "urlvbmdropboxes": "https://www.google.com/maps/d/viewer?hl=en&mid=1WWeG-R_fPOoi7pib6B7d2PDfXOfpY9w7&ll=46.94667679696906%2C-123.56662222549033&z=10",
   "urlearlyvoting": "http://www.co.grays-harbor.wa.us/government/Auditors/elections.php",
   "flagboxes": 1,
+  "areadatacode": "001",
+  "arealeveltext": "Your jurisdiction DOES have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage with a list of ballot dropboxes in your area.",
   "shortname": "grays-harbor"
 }

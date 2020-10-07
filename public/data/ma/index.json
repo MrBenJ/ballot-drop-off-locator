@@ -1,0 +1,58 @@
+[
+  {
+    "adminarea": "Barnstable",
+    "shortname": "barnstable"
+  },
+  {
+    "adminarea": "Berkshire",
+    "shortname": "berkshire"
+  },
+  {
+    "adminarea": "Bristol",
+    "shortname": "bristol"
+  },
+  {
+    "adminarea": "Dukes",
+    "shortname": "dukes"
+  },
+  {
+    "adminarea": "Essex",
+    "shortname": "essex"
+  },
+  {
+    "adminarea": "Franklin",
+    "shortname": "franklin"
+  },
+  {
+    "adminarea": "Hampden",
+    "shortname": "hampden"
+  },
+  {
+    "adminarea": "Hampshire",
+    "shortname": "hampshire"
+  },
+  {
+    "adminarea": "Middlesex",
+    "shortname": "middlesex"
+  },
+  {
+    "adminarea": "Nantucket",
+    "shortname": "nantucket"
+  },
+  {
+    "adminarea": "Norfolk",
+    "shortname": "norfolk"
+  },
+  {
+    "adminarea": "Plymouth",
+    "shortname": "plymouth"
+  },
+  {
+    "adminarea": "Suffolk",
+    "shortname": "suffolk"
+  },
+  {
+    "adminarea": "Worcester",
+    "shortname": "worcester"
+  }
+]

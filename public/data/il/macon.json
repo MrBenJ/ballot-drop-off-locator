@@ -4,7 +4,10 @@
   "adminarea": "Macon",
   "urlvbmdropboxes": "https://www.co.macon.il.us/departments/county-clerk/",
   "urlearlyvoting": "https://www.co.macon.il.us/download/early-voting-information-2/",
+  "urlstatelevelvbm": "https://elections.il.gov/VotingAndRegistrationSystems/VoteByMailBallotDropBoxLocations.aspx",
   "flagboxes": 0,
+  "areadatacode": "003",
+  "arealeveltext": "Your jurisdiction DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage which shows the address for your jurisdiction’s election office, where you can hand deliver your completed ballot.",
   "flagattn": 1,
   "shortname": "macon"
 }

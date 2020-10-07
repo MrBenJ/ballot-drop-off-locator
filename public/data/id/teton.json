@@ -3,6 +3,9 @@
   "fips5": "16081",
   "adminarea": "Teton",
   "urlvbmdropboxes": "https://www.tetoncountyidaho.gov/department.php?deptID=10&menuID=1",
+  "urlstatelevelvbm": "https://idahovotes.gov/absentee-voter-information/",
   "flagboxes": 0,
+  "areadatacode": "003",
+  "arealeveltext": "Your jurisdiction DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage which shows the address for your jurisdiction’s election office, where you can hand deliver your completed ballot.",
   "shortname": "teton"
 }

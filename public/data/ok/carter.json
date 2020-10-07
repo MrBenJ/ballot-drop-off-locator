@@ -1,0 +1,11 @@
+{
+  "state": "OK",
+  "fips5": "40019",
+  "adminarea": "Carter",
+  "urlvbmdropboxes": "https://www.ok.gov/elections/documents/CEB_Physical%20Addresses_09112020.pdf",
+  "urlstatelevelvbm": "https://www.ok.gov/elections/Voter_Info/Absentee_Voting/index.html",
+  "flagboxes": 0,
+  "areadatacode": "004",
+  "arealeveltext": "Your jurisdiction DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to a state elections webpage with a finder or information on your county elections office address, where you can hand deliver your completed ballot.",
+  "shortname": "carter"
+}

@@ -1,0 +1,258 @@
+[
+  {
+    "adminarea": "Acadia",
+    "shortname": "acadia"
+  },
+  {
+    "adminarea": "Allen",
+    "shortname": "allen"
+  },
+  {
+    "adminarea": "Ascension",
+    "shortname": "ascension"
+  },
+  {
+    "adminarea": "Assumption",
+    "shortname": "assumption"
+  },
+  {
+    "adminarea": "Avoyelles",
+    "shortname": "avoyelles"
+  },
+  {
+    "adminarea": "Beauregard",
+    "shortname": "beauregard"
+  },
+  {
+    "adminarea": "Bienville",
+    "shortname": "bienville"
+  },
+  {
+    "adminarea": "Bossier",
+    "shortname": "bossier"
+  },
+  {
+    "adminarea": "Caddo",
+    "shortname": "caddo"
+  },
+  {
+    "adminarea": "Calcasieu",
+    "shortname": "calcasieu"
+  },
+  {
+    "adminarea": "Caldwell",
+    "shortname": "caldwell"
+  },
+  {
+    "adminarea": "Cameron",
+    "shortname": "cameron"
+  },
+  {
+    "adminarea": "Catahoula",
+    "shortname": "catahoula"
+  },
+  {
+    "adminarea": "Claiborne",
+    "shortname": "claiborne"
+  },
+  {
+    "adminarea": "Concordia",
+    "shortname": "concordia"
+  },
+  {
+    "adminarea": "De Soto",
+    "shortname": "de-soto"
+  },
+  {
+    "adminarea": "East Baton Rouge",
+    "shortname": "east-baton rouge"
+  },
+  {
+    "adminarea": "East Carroll",
+    "shortname": "east-carroll"
+  },
+  {
+    "adminarea": "East Feliciana",
+    "shortname": "east-feliciana"
+  },
+  {
+    "adminarea": "Evangeline",
+    "shortname": "evangeline"
+  },
+  {
+    "adminarea": "Franklin",
+    "shortname": "franklin"
+  },
+  {
+    "adminarea": "Grant",
+    "shortname": "grant"
+  },
+  {
+    "adminarea": "Iberia",
+    "shortname": "iberia"
+  },
+  {
+    "adminarea": "Iberville",
+    "shortname": "iberville"
+  },
+  {
+    "adminarea": "Jackson",
+    "shortname": "jackson"
+  },
+  {
+    "adminarea": "Jefferson",
+    "shortname": "jefferson"
+  },
+  {
+    "adminarea": "Jefferson Davis",
+    "shortname": "jefferson-davis"
+  },
+  {
+    "adminarea": "Lafayette",
+    "shortname": "lafayette"
+  },
+  {
+    "adminarea": "Lafourche",
+    "shortname": "lafourche"
+  },
+  {
+    "adminarea": "LaSalle",
+    "shortname": "lasalle"
+  },
+  {
+    "adminarea": "Lincoln",
+    "shortname": "lincoln"
+  },
+  {
+    "adminarea": "Livingston",
+    "shortname": "livingston"
+  },
+  {
+    "adminarea": "Madison",
+    "shortname": "madison"
+  },
+  {
+    "adminarea": "Morehouse",
+    "shortname": "morehouse"
+  },
+  {
+    "adminarea": "Natchitoches",
+    "shortname": "natchitoches"
+  },
+  {
+    "adminarea": "Orleans",
+    "shortname": "orleans"
+  },
+  {
+    "adminarea": "Ouachita",
+    "shortname": "ouachita"
+  },
+  {
+    "adminarea": "Plaquemines",
+    "shortname": "plaquemines"
+  },
+  {
+    "adminarea": "Pointe Coupee",
+    "shortname": "pointe-coupee"
+  },
+  {
+    "adminarea": "Rapides",
+    "shortname": "rapides"
+  },
+  {
+    "adminarea": "Red River",
+    "shortname": "red-river"
+  },
+  {
+    "adminarea": "Richland",
+    "shortname": "richland"
+  },
+  {
+    "adminarea": "Sabine",
+    "shortname": "sabine"
+  },
+  {
+    "adminarea": "St. Bernard",
+    "shortname": "st.-bernard"
+  },
+  {
+    "adminarea": "St. Charles",
+    "shortname": "st.-charles"
+  },
+  {
+    "adminarea": "St. Helena",
+    "shortname": "st.-helena"
+  },
+  {
+    "adminarea": "St. James",
+    "shortname": "st.-james"
+  },
+  {
+    "adminarea": "St. John the Baptist",
+    "shortname": "st.-john the baptist"
+  },
+  {
+    "adminarea": "St. Landry",
+    "shortname": "st.-landry"
+  },
+  {
+    "adminarea": "St. Martin",
+    "shortname": "st.-martin"
+  },
+  {
+    "adminarea": "St. Mary",
+    "shortname": "st.-mary"
+  },
+  {
+    "adminarea": "St. Tammany",
+    "shortname": "st.-tammany"
+  },
+  {
+    "adminarea": "Tangipahoa",
+    "shortname": "tangipahoa"
+  },
+  {
+    "adminarea": "Tensas",
+    "shortname": "tensas"
+  },
+  {
+    "adminarea": "Terrebonne",
+    "shortname": "terrebonne"
+  },
+  {
+    "adminarea": "Union",
+    "shortname": "union"
+  },
+  {
+    "adminarea": "Vermilion",
+    "shortname": "vermilion"
+  },
+  {
+    "adminarea": "Vernon",
+    "shortname": "vernon"
+  },
+  {
+    "adminarea": "Washington",
+    "shortname": "washington"
+  },
+  {
+    "adminarea": "Webster",
+    "shortname": "webster"
+  },
+  {
+    "adminarea": "West Baton Rouge",
+    "shortname": "west-baton rouge"
+  },
+  {
+    "adminarea": "West Carroll",
+    "shortname": "west-carroll"
+  },
+  {
+    "adminarea": "West Feliciana",
+    "shortname": "west-feliciana"
+  },
+  {
+    "adminarea": "Winn",
+    "shortname": "winn"
+  }
+]

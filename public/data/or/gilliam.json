@@ -1,0 +1,11 @@
+{
+  "state": "OR",
+  "fips5": "41021",
+  "adminarea": "Gilliam",
+  "urlvbmdropboxes": "http://www.co.gilliam.or.us/government/clerk_s_office/election_results.php",
+  "urlstatelevelvbm": "https://sos.oregon.gov/voting/Pages/voteinor.aspx",
+  "flagboxes": 1,
+  "areadatacode": "001",
+  "arealeveltext": "Your jurisdiction DOES have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage with a list of ballot dropboxes in your area.",
+  "shortname": "gilliam"
+}

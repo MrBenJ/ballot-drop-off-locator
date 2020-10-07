@@ -2,7 +2,10 @@
   "state": "ID",
   "fips5": "16015",
   "adminarea": "Boise",
-  "urlvbmdropboxes": "https://elections.sos.idaho.gov/ElectionLink/ElectionLink/BeginAbsenteeRequest.aspx",
+  "urlvbmdropboxes": "https://idahovotes.gov/absentee-voter-information/",
+  "urlstatelevelvbm": "https://idahovotes.gov/absentee-voter-information/",
   "flagboxes": 0,
+  "areadatacode": "004",
+  "arealeveltext": "Your jurisdiction DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to a state elections webpage with a finder or information on your county elections office address, or options for where you can hand deliver your completed ballot.",
   "shortname": "boise"
 }

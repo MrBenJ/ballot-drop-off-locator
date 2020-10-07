@@ -2,8 +2,11 @@
   "state": "IL",
   "fips5": "17117",
   "adminarea": "Macoupin",
-  "urlvbmdropboxes": "https://www.macoupinvotes.com/voter-information/voting-by-mail/#bymail",
+  "urlvbmdropboxes": "https://www.macoupinvotes.com/drive-thru-mail-ballot-drop-offs/",
   "urlearlyvoting": "https://www.macoupinvotes.com/voter-information/early-voting/",
-  "flagboxes": 0,
+  "urlstatelevelvbm": "https://elections.il.gov/VotingAndRegistrationSystems/VoteByMailBallotDropBoxLocations.aspx",
+  "flagboxes": 1,
+  "areadatacode": "001",
+  "arealeveltext": "Your jurisdiction DOES have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage with a list of ballot dropboxes in your area. ",
   "shortname": "macoupin"
 }

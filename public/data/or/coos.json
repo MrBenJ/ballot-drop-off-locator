@@ -1,0 +1,11 @@
+{
+  "state": "OR",
+  "fips5": "41011",
+  "adminarea": "Coos",
+  "urlvbmdropboxes": "http://www.co.coos.or.us/Portals/0/County%20Clerk/Elections/Elections%202020/2020septdropsitenotice.pdf?ver=2020-08-04-080555-180",
+  "urlstatelevelvbm": "https://sos.oregon.gov/voting/Pages/voteinor.aspx",
+  "flagboxes": 1,
+  "areadatacode": "001",
+  "arealeveltext": "Your jurisdiction DOES have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage with a list of ballot dropboxes in your area.",
+  "shortname": "coos"
+}

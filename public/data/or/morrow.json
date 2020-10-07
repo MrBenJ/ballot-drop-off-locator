@@ -1,0 +1,11 @@
+{
+  "state": "OR",
+  "fips5": "41049",
+  "adminarea": "Morrow",
+  "urlvbmdropboxes": "https://www.co.morrow.or.us/sites/default/files/fileattachments/clerk/page/11201/web_drop_2018.pdf",
+  "urlstatelevelvbm": "https://sos.oregon.gov/voting/Pages/voteinor.aspx",
+  "flagboxes": 1,
+  "areadatacode": "001",
+  "arealeveltext": "Your jurisdiction DOES have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage with a list of ballot dropboxes in your area.",
+  "shortname": "morrow"
+}

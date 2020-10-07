@@ -1,0 +1,11 @@
+{
+  "state": "OR",
+  "fips5": "41027",
+  "adminarea": "Hood River",
+  "urlvbmdropboxes": "https://www.co.hood-river.or.us/index.asp?Type=B_BASIC&SEC={15637FD7-5185-426A-8FCF-6EA6F4BF169C}",
+  "urlstatelevelvbm": "https://sos.oregon.gov/voting/Pages/voteinor.aspx",
+  "flagboxes": 1,
+  "areadatacode": "001",
+  "arealeveltext": "Your jurisdiction DOES have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage with a list of ballot dropboxes in your area.",
+  "shortname": "hood-river"
+}

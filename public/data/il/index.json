@@ -406,29 +406,5 @@
   {
     "adminarea": "Woodford",
     "shortname": "woodford"
-  },
-  {
-    "adminarea": "City of Bloomington",
-    "shortname": "city-of bloomington"
-  },
-  {
-    "adminarea": "City of Chicago",
-    "shortname": "city-of chicago"
-  },
-  {
-    "adminarea": "City of Danville",
-    "shortname": "city-of danville"
-  },
-  {
-    "adminarea": "City of East St. Louis",
-    "shortname": "city-of east st. louis"
-  },
-  {
-    "adminarea": "City of Galesburg",
-    "shortname": "city-of galesburg"
-  },
-  {
-    "adminarea": "City of Rockford",
-    "shortname": "city-of rockford"
   }
 ]

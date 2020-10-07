@@ -3,7 +3,9 @@
   "fips5": "48199",
   "adminarea": "Hardin",
   "urlvbmdropboxes": "http://www.co.hardin.tx.us/upload/page/3722/docs/11-3-2020/Signed%20Notice%20of%20Election.pdf",
-  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "urlstatelevelvbm": "https://www.votetexas.gov/voting/when.html#early-voting",
   "flagboxes": 0,
+  "areadatacode": "003",
+  "arealeveltext": "Your county DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage which shows the address for your County Election office, where you can hand deliver your completed ballot.",
   "shortname": "hardin"
 }

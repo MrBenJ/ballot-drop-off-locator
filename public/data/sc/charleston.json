@@ -2,8 +2,10 @@
   "state": "SC",
   "fips5": "45019",
   "adminarea": "Charleston",
-  "urlvbmdropboxes": "https://www.scvotes.gov/charleston",
+  "urlvbmdropboxes": "https://www.charlestoncounty.org/departments/bevr/absentee-by-mail.php",
   "urlstatelevelvbm": "https://www.scvotes.gov/new-absentee-rules-2020-general-election",
-  "flagboxes": 0,
+  "flagboxes": 1,
+  "areadatacode": "001",
+  "arealeveltext": "Your jurisdiction DOES have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage with a list of ballot dropboxes in your area.",
   "shortname": "charleston"
 }

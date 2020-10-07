@@ -1,0 +1,11 @@
+{
+  "state": "OR",
+  "fips5": "41039",
+  "adminarea": "Lane",
+  "urlvbmdropboxes": "https://lanecounty.org/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Administration/Operations/County%20Clerk/Elections/January%2023%202018/DropSite%20Insert%20January%202018%20Special.pdf",
+  "urlstatelevelvbm": "https://sos.oregon.gov/voting/Pages/voteinor.aspx",
+  "flagboxes": 1,
+  "areadatacode": "001",
+  "arealeveltext": "Your jurisdiction DOES have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage with a list of ballot dropboxes in your area.",
+  "shortname": "lane"
+}

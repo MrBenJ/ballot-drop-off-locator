@@ -1,0 +1,146 @@
+[
+  {
+    "adminarea": "Baker",
+    "shortname": "baker"
+  },
+  {
+    "adminarea": "Benton",
+    "shortname": "benton"
+  },
+  {
+    "adminarea": "Clackamas",
+    "shortname": "clackamas"
+  },
+  {
+    "adminarea": "Clatsop",
+    "shortname": "clatsop"
+  },
+  {
+    "adminarea": "Columbia",
+    "shortname": "columbia"
+  },
+  {
+    "adminarea": "Coos",
+    "shortname": "coos"
+  },
+  {
+    "adminarea": "Crook",
+    "shortname": "crook"
+  },
+  {
+    "adminarea": "Curry",
+    "shortname": "curry"
+  },
+  {
+    "adminarea": "Deschutes",
+    "shortname": "deschutes"
+  },
+  {
+    "adminarea": "Douglas",
+    "shortname": "douglas"
+  },
+  {
+    "adminarea": "Gilliam",
+    "shortname": "gilliam"
+  },
+  {
+    "adminarea": "Grant",
+    "shortname": "grant"
+  },
+  {
+    "adminarea": "Harney",
+    "shortname": "harney"
+  },
+  {
+    "adminarea": "Hood River",
+    "shortname": "hood-river"
+  },
+  {
+    "adminarea": "Jackson",
+    "shortname": "jackson"
+  },
+  {
+    "adminarea": "Jefferson",
+    "shortname": "jefferson"
+  },
+  {
+    "adminarea": "Josephine",
+    "shortname": "josephine"
+  },
+  {
+    "adminarea": "Klamath",
+    "shortname": "klamath"
+  },
+  {
+    "adminarea": "Lake",
+    "shortname": "lake"
+  },
+  {
+    "adminarea": "Lane",
+    "shortname": "lane"
+  },
+  {
+    "adminarea": "Lincoln",
+    "shortname": "lincoln"
+  },
+  {
+    "adminarea": "Linn",
+    "shortname": "linn"
+  },
+  {
+    "adminarea": "Malheur",
+    "shortname": "malheur"
+  },
+  {
+    "adminarea": "Marion",
+    "shortname": "marion"
+  },
+  {
+    "adminarea": "Morrow",
+    "shortname": "morrow"
+  },
+  {
+    "adminarea": "Multnomah",
+    "shortname": "multnomah"
+  },
+  {
+    "adminarea": "Polk",
+    "shortname": "polk"
+  },
+  {
+    "adminarea": "Sherman",
+    "shortname": "sherman"
+  },
+  {
+    "adminarea": "Tillamook",
+    "shortname": "tillamook"
+  },
+  {
+    "adminarea": "Umatilla",
+    "shortname": "umatilla"
+  },
+  {
+    "adminarea": "Union",
+    "shortname": "union"
+  },
+  {
+    "adminarea": "Wallowa",
+    "shortname": "wallowa"
+  },
+  {
+    "adminarea": "Wasco",
+    "shortname": "wasco"
+  },
+  {
+    "adminarea": "Washington",
+    "shortname": "washington"
+  },
+  {
+    "adminarea": "Wheeler",
+    "shortname": "wheeler"
+  },
+  {
+    "adminarea": "Yamhill",
+    "shortname": "yamhill"
+  }
+]

@@ -2,7 +2,10 @@
   "state": "KS",
   "fips5": "20153",
   "adminarea": "Rawlins",
-  "urlvbmdropboxes": "https://www.countyoffice.org/rawlins-county-board-of-elections-atwood-ks-c5f/",
+  "urlvbmdropboxes": "https://sos.ks.gov/elections/county_election_officers.aspx",
+  "urlstatelevelvbm": "https://sos.ks.gov/elections/voter-information.html",
   "flagboxes": 0,
+  "areadatacode": "004",
+  "arealeveltext": "Your jurisdiction DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to a state elections webpage with a finder or information on your county elections office address, where you can hand deliver your completed ballot.",
   "shortname": "rawlins"
 }

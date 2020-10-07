@@ -3,6 +3,9 @@
   "fips5": "18183",
   "adminarea": "Whitley",
   "urlvbmdropboxes": "https://www.whitleygov.com/topic/index.php?topicid=10&structureid=205",
+  "urlstatelevelvbm": "https://www.in.gov/sos/elections/2402.htm",
   "flagboxes": 0,
+  "areadatacode": "003",
+  "arealeveltext": "Your jurisdiction DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage which shows the address for your jurisdiction’s election office, where you can hand deliver your completed ballot.",
   "shortname": "whitley"
 }

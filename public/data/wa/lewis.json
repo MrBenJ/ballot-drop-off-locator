@@ -5,5 +5,7 @@
   "urlvbmdropboxes": "https://elections.lewiscountywa.gov/drop-box-locations/",
   "urlearlyvoting": "https://www.sos.wa.gov/elections/dates-and-deadlines.aspx",
   "flagboxes": 1,
+  "areadatacode": "001",
+  "arealeveltext": "Your jurisdiction DOES have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage with a list of ballot dropboxes in your area.",
   "shortname": "lewis"
 }

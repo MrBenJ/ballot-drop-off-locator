@@ -4,7 +4,9 @@
   "adminarea": "Rockwall",
   "urlvbmdropboxes": "https://www.rockwallvotes.com/",
   "urlearlyvoting": "https://www.rockwallvotes.com/wp-content/uploads/2020/08/Nov-2020-EV-Schedule.pdf",
-  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "urlstatelevelvbm": "https://www.votetexas.gov/voting/when.html#early-voting",
   "flagboxes": 0,
+  "areadatacode": "003",
+  "arealeveltext": "Your county DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage which shows the address for your County Election office, where you can hand deliver your completed ballot.",
   "shortname": "rockwall"
 }

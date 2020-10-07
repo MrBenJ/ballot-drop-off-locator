@@ -1,0 +1,12 @@
+{
+  "state": "LA",
+  "fips5": "22121",
+  "adminarea": "West Baton Rouge",
+  "urlvbmdropboxes": "https://westbatonrougemuseum.org/203/Registrar-of-Voters",
+  "urlearlyvoting": "https://voterportal.sos.la.gov",
+  "urlstatelevelvbm": "https://www.sos.la.gov/ElectionsAndVoting/Vote/VoteByMail/Pages/default.aspx",
+  "flagboxes": 0,
+  "areadatacode": "003",
+  "arealeveltext": "Your jurisdiction DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage which shows the address for your jurisdiction’s registrar's office, where you can hand deliver your completed ballot.",
+  "shortname": "west-baton rouge"
+}

@@ -3,7 +3,11 @@
   "fips5": "48317",
   "adminarea": "Martin",
   "urlvbmdropboxes": "http://www.co.martin.tx.us/158/Elections-Administration-Office",
-  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "urlearlyvoting": "http://www.co.martin.tx.us/DocumentCenter/View/304/Early-Voting-by-Mail-2",
+  "urlstatelevelvbm": "https://www.votetexas.gov/voting/when.html#early-voting",
   "flagboxes": 0,
+  "areadatacode": "003",
+  "arealeveltext": "Your county DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage which shows the address for your County Election office, where you can hand deliver your completed ballot.",
+  "flagattn": 1,
   "shortname": "martin"
 }

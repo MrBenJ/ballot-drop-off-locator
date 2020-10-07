@@ -4,7 +4,9 @@
   "adminarea": "Lee",
   "urlvbmdropboxes": "http://www.co.lee.tx.us/page/lee.Elections",
   "urlearlyvoting": "https://newtools.cira.state.tx.us/upload/page/5455/docs/Election/2020/November/2020%20Nov%203rd%20General%20-%20Signed%20Notice%20of%20Election%20-%20English.pdf",
-  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "urlstatelevelvbm": "https://www.votetexas.gov/voting/when.html#early-voting",
   "flagboxes": 0,
+  "areadatacode": "003",
+  "arealeveltext": "Your county DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage which shows the address for your County Election office, where you can hand deliver your completed ballot.",
   "shortname": "lee"
 }

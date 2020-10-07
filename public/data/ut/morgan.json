@@ -2,8 +2,11 @@
   "state": "UT",
   "fips5": "49029",
   "adminarea": "Morgan",
-  "urlvbmdropboxes": "https://www.morgan-county.net/Departments/Clerk/Elections",
+  "urlvbmdropboxes": "https://votesearch.utah.gov/voter-search/search/search-by-address/how-and-where-can-i-vote",
   "urlstatelevelvbm": "https://vote.utah.gov/",
+  "urlaux1": "https://www.morgan-county.net/Departments/Clerk/Elections",
   "flagboxes": 1,
+  "areadatacode": "002",
+  "arealeveltext": "Your jurisdiction DOES have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to a state-level webpage with finder or search function to find ballot dropboxes near you.",
   "shortname": "morgan"
 }

@@ -1,0 +1,12 @@
+{
+  "state": "WV",
+  "fips5": "54061",
+  "adminarea": "Monongalia",
+  "urlvbmdropboxes": "https://sos.wv.gov/elections/Pages/CountyClerkDirectory.aspx",
+  "urlstatelevelvbm": "https://sos.wv.gov/elections/Pages/AbsenteeVotingInformation.aspx",
+  "urlaux1": "https://monongaliacountyclerk.com/index.php/elections/17-current-elections/55-2020-general-election-information",
+  "flagboxes": 0,
+  "areadatacode": 4,
+  "arealeveltext": "Your jurisdiction DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to a state elections webpage with a finder or information on your county elections office address, where you can hand deliver your completed ballot.",
+  "shortname": "monongalia"
+}

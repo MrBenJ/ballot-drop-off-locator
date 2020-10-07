@@ -4,7 +4,9 @@
   "adminarea": "Hidalgo",
   "urlvbmdropboxes": "https://www.hidalgocounty.us/DocumentCenter/View/40894/ORDER-OF-ELECTION?bidId=",
   "urlearlyvoting": "https://www.hidalgocounty.us/DocumentCenter/View/40965/EARLY-VOTING-POLLING-LOCATIONS?bidId=",
-  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "urlstatelevelvbm": "https://www.votetexas.gov/voting/when.html#early-voting",
   "flagboxes": 0,
+  "areadatacode": "003",
+  "arealeveltext": "Your county DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage which shows the address for your County Election office, where you can hand deliver your completed ballot.",
   "shortname": "hidalgo"
 }

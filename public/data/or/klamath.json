@@ -1,0 +1,11 @@
+{
+  "state": "OR",
+  "fips5": "41035",
+  "adminarea": "Klamath",
+  "urlvbmdropboxes": "http://klamathcounty.org/685/Drop-Sites",
+  "urlstatelevelvbm": "https://sos.oregon.gov/voting/Pages/voteinor.aspx",
+  "flagboxes": 1,
+  "areadatacode": "001",
+  "arealeveltext": "Your jurisdiction DOES have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage with a list of ballot dropboxes in your area.",
+  "shortname": "klamath"
+}

@@ -2,7 +2,10 @@
   "state": "IL",
   "fips5": "17189",
   "adminarea": "Washington",
-  "urlvbmdropboxes": "https://washingtonco.illinois.gov/county-clerk-and-recorder/?Name=IdKI%2Bnz%2BG9IobnRJftYBwqopCq9MoWBqhXPknGpjHZKiZC8EhSxRJHCp21yPfSA%2FBbAa1g3veGIk%2FIaT23%2F5cwphYGWTwgu4e9w1f0dSclnKJ9kD7KJ9rRRLX%2Fwe%2Fu3XRYfS0BDM2sUVqSGGYx6zHOOV%2BSFnw41PN01MnRXlFLgtbI%2FoCCQs%2Bki6Wi22TE4y&T=637355132610848356",
-  "flagboxes": 0,
+  "urlvbmdropboxes": "https://elections.il.gov/VotingAndRegistrationSystems/VoteByMailBallotDropBoxLocations.aspx?MID=0DjRa0Y9V6U%3d&T=637376233549967522",
+  "urlstatelevelvbm": "https://elections.il.gov/VotingAndRegistrationSystems/VoteByMailBallotDropBoxLocations.aspx",
+  "flagboxes": 1,
+  "areadatacode": "002",
+  "arealeveltext": "Your jurisdiction DOES have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to a state-level finder to locate ballot dropboxes near you. Simply select your county from the dropdown menu",
   "shortname": "washington"
 }

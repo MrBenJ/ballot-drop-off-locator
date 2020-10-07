@@ -1,0 +1,11 @@
+{
+  "state": "MS",
+  "fips5": "28149",
+  "adminarea": "Warren",
+  "urlvbmdropboxes": "https://www.sos.ms.gov/content/documents/elections/Step-by-Step%20Guide%20to%20Absentee%20Voting_forweb.pdf",
+  "urlstatelevelvbm": "https://www.sos.ms.gov/Vote/Pages/default.aspx",
+  "flagboxes": 0,
+  "areadatacode": 289,
+  "arealeveltext": "Per Mississippi Election law, Absentee-by-mail ballots CAN NOT be hand delivered, they can ONLY be returned to Circuit Clerks by mail (USPS, FedEx, UPS, etc). The SHOW DROP-OFF OPTIONS button will show a document with Absentee Voting information and requirements.",
+  "shortname": "warren"
+}

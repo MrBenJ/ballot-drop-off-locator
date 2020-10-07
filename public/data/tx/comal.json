@@ -4,7 +4,10 @@
   "adminarea": "Comal",
   "urlvbmdropboxes": "https://www.co.comal.tx.us/Elections.htm",
   "urlearlyvoting": "https://www.co.comal.tx.us/Vote/2020/11-03-2020/2020%20General%20Early%20Voting%20Locations.pdf",
-  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "urlstatelevelvbm": "https://www.votetexas.gov/voting/when.html#early-voting",
   "flagboxes": 0,
+  "areadatacode": "003",
+  "arealeveltext": "Your county DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage which shows the address for your County Election office, where you can hand deliver your completed ballot.",
+  "flagattn": 1,
   "shortname": "comal"
 }

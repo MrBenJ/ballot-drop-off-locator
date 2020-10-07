@@ -2,8 +2,10 @@
   "state": "SD",
   "fips5": "46047",
   "adminarea": "Fall River",
-  "urlvbmdropboxes": "http://fallriver.sdcounties.org/auditors-welfare-office/elections/",
+  "urlvbmdropboxes": "https://sdsos.gov/elections-voting/assets/2020CountyAuditorContactListWithPhysicalAddress.pdf",
   "urlstatelevelvbm": "https://sdsos.gov/elections-voting/voting/absentee-voting.aspx",
   "flagboxes": 0,
+  "areadatacode": "004",
+  "arealeveltext": "Your jurisdiction DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to a state elections webpage with a finder or information on your county elections office address, where you can hand deliver your completed ballot.",
   "shortname": "fall-river"
 }

@@ -5,5 +5,7 @@
   "urlvbmdropboxes": "https://www.co.wahkiakum.wa.us/419/Elections",
   "urlearlyvoting": "https://www.sos.wa.gov/_assets/elections/ballot%20drop%20boxes%202019%20general%20election.pdf",
   "flagboxes": 1,
+  "areadatacode": "001",
+  "arealeveltext": "Your jurisdiction DOES have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage with a list of ballot dropboxes in your area.",
   "shortname": "wahkiakum"
 }

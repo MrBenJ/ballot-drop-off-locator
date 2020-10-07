@@ -1,0 +1,11 @@
+{
+  "state": "OK",
+  "fips5": "40031",
+  "adminarea": "Comanche",
+  "urlvbmdropboxes": "https://comanchecounty.us/election-boards-office/",
+  "urlstatelevelvbm": "https://www.ok.gov/elections/Voter_Info/Absentee_Voting/index.html",
+  "flagboxes": 0,
+  "areadatacode": "003",
+  "arealeveltext": "Your jurisdiction DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage which shows the address for your jurisdiction’s election office, where you can hand deliver your completed ballot.",
+  "shortname": "comanche"
+}

@@ -4,6 +4,9 @@
   "adminarea": "McLean",
   "urlvbmdropboxes": "https://www.mcleancountyil.gov/1502/Drop-Box-Locations",
   "urlearlyvoting": "https://www.mcleancountyil.gov/1484/Early-Voting-Locations",
+  "urlstatelevelvbm": "https://elections.il.gov/VotingAndRegistrationSystems/VoteByMailBallotDropBoxLocations.aspx",
   "flagboxes": 1,
+  "areadatacode": "001",
+  "arealeveltext": "Your jurisdiction DOES have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage with a list of ballot dropboxes in your area. ",
   "shortname": "mclean"
 }

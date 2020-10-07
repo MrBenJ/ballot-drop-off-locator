@@ -3,6 +3,9 @@
   "fips5": "16001",
   "adminarea": "Ada",
   "urlvbmdropboxes": "https://adacounty.id.gov/elections/early-voting/",
+  "urlstatelevelvbm": "https://idahovotes.gov/absentee-voter-information/",
   "flagboxes": 1,
+  "areadatacode": "001",
+  "arealeveltext": "Your jurisdiction DOES have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage with a list of ballot dropboxes in your area.",
   "shortname": "ada"
 }

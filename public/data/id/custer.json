@@ -3,6 +3,9 @@
   "fips5": "16037",
   "adminarea": "Custer",
   "urlvbmdropboxes": "http://www.co.custer.id.us/wp-content/uploads/1/IDAHO-ELECTION-INFORMATION-2020-Lisa-Revised-06-29-20-1.pdf",
+  "urlstatelevelvbm": "https://idahovotes.gov/absentee-voter-information/",
   "flagboxes": 0,
+  "areadatacode": "003",
+  "arealeveltext": "Your jurisdiction DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage which shows the address for your jurisdiction’s election office, where you can hand deliver your completed ballot.",
   "shortname": "custer"
 }

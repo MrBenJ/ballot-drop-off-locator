@@ -3,7 +3,9 @@
   "fips5": "48201",
   "adminarea": "Harris",
   "urlvbmdropboxes": "https://www.harrisvotes.com/VotingInfo?lang=en-US#VoteByMail",
-  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "urlstatelevelvbm": "https://www.votetexas.gov/voting/when.html#early-voting",
   "flagboxes": 0,
+  "areadatacode": "001",
+  "arealeveltext": "Your county DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage which shows the address for your County Election office, where you can hand deliver your completed ballot. Dropboxes MAY be added pending a current court case - we will update if this changes.",
   "shortname": "harris"
 }

@@ -2,7 +2,11 @@
   "state": "IN",
   "fips5": "18181",
   "adminarea": "White",
-  "urlvbmdropboxes": "https://voterinfo.whitecountyin.us/index.php/ct-menu1-item16",
+  "urlvbmdropboxes": "https://voterinfo.whitecountyin.us/pdfs/2020_GENERAL_FLYER_9-3-20.pdf",
+  "urlstatelevelvbm": "https://www.in.gov/sos/elections/2402.htm",
   "flagboxes": 0,
+  "areadatacode": "003",
+  "arealeveltext": "Your jurisdiction DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage which shows the address for your jurisdiction’s election office, where you can hand deliver your completed ballot.",
+  "flagattn": 1,
   "shortname": "white"
 }

@@ -5,5 +5,7 @@
   "urlvbmdropboxes": "https://www.scvotes.gov/laurens",
   "urlstatelevelvbm": "https://www.scvotes.gov/new-absentee-rules-2020-general-election",
   "flagboxes": 0,
+  "areadatacode": "004",
+  "arealeveltext": "Your jurisdiction DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to a state elections webpage with a finder or information on your county elections office address, where you can hand deliver your completed ballot.",
   "shortname": "laurens"
 }

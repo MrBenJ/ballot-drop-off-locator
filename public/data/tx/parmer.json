@@ -2,8 +2,10 @@
   "state": "TX",
   "fips5": "48369",
   "adminarea": "Parmer",
-  "urlvbmdropboxes": "https://parmercounty.org/wp-content/uploads/2020/08/Order-of-General-Election-November-3-2020.pdf",
-  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "urlvbmdropboxes": "https://www.co.pecos.tx.us/wp-content/uploads/2020/08/Order-of-General-Election-2020.pdf",
+  "urlstatelevelvbm": "https://www.votetexas.gov/voting/when.html#early-voting",
   "flagboxes": 0,
+  "areadatacode": "003",
+  "arealeveltext": "Your county DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage which shows the address for your County Election office, where you can hand deliver your completed ballot.",
   "shortname": "parmer"
 }

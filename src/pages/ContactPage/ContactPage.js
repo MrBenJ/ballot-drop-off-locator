@@ -15,37 +15,37 @@ const ContactPage = () => {
         <Text className="email-copy">{t('ContactPage.email1')}</Text>
         <Text className="email-anchor">
           <a
-            href="mailto:MyBallotDrop+Data@gmail.com"
+            href="mailto:Data@MyBallotDrop.com"
             target="_blank"
             rel="noopener noreferrer">
-            MyBallotDrop+Data@gmail.com
+            Data@MyBallotDrop.com
           </a>
         </Text>
         <Text className="email-copy">{t('ContactPage.email2')}</Text>
         <Text className="email-anchor">
           <a
-            href="mailto:MyBallotDrop+Webmaster@gmail.com"
+            href="mailto:Webmaster@MyBallotDrop.com"
             target="_blank"
             rel="noopener noreferrer">
-            MyBallotDrop+Webmaster@gmail.com
+            Webmaster@MyBallotDrop.com
           </a>
         </Text>
         <Text className="email-copy">{t('ContactPage.email3')}</Text>
         <Text className="email-anchor">
           <a
-            href="mailto:MyBallotDrop+Partners@gmail.com"
+            href="mailto:Partners@MyBallotDrop.com"
             target="_blank"
             rel="noopener noreferrer">
-            MyBallotDrop+Partners@gmail.com
+            Partners@MyBallotDrop.com
           </a>
         </Text>
         <Text className="email-copy">{t('ContactPage.email4')}</Text>
         <Text className="email-anchor">
           <a
-            href="mailto:MyBallotDrop+Info@gmail.com"
+            href="mailto:Info@MyBallotDrop.com"
             target="_blank"
             rel="noopener noreferrer">
-            MyBallotDrop+Info@gmail.com
+            Info@MyBallotDrop.com
           </a>
         </Text>
       </div>

@@ -2,8 +2,11 @@
   "state": "IL",
   "fips5": "17145",
   "adminarea": "Perry",
-  "urlvbmdropboxes": "https://www.perryil.com/wp-content/uploads/2020/09/early-voting-11032020.pdf",
+  "urlvbmdropboxes": "https://www.perryil.com/elections/",
   "urlearlyvoting": "https://www.perryil.com/wp-content/uploads/2020/09/early-voting-11032020.pdf",
+  "urlstatelevelvbm": "https://elections.il.gov/VotingAndRegistrationSystems/VoteByMailBallotDropBoxLocations.aspx",
   "flagboxes": 0,
+  "areadatacode": "003",
+  "arealeveltext": "Your jurisdiction DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage which shows the address for your jurisdiction’s election office, where you can hand deliver your completed ballot.",
   "shortname": "perry"
 }

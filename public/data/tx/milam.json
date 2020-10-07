@@ -4,7 +4,9 @@
   "adminarea": "Milam",
   "urlvbmdropboxes": "https://www.milamcounty.net/page/milam.elections",
   "urlearlyvoting": "https://www.milamcounty.net/upload/page/8929/2020%20Notice%20of%20General%20Election..pdf",
-  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "urlstatelevelvbm": "https://www.votetexas.gov/voting/when.html#early-voting",
   "flagboxes": 0,
+  "areadatacode": "003",
+  "arealeveltext": "Your county DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage which shows the address for your County Election office, where you can hand deliver your completed ballot.",
   "shortname": "milam"
 }

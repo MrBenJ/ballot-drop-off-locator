@@ -2,9 +2,12 @@
   "state": "IL",
   "fips5": "17119",
   "adminarea": "Madison",
-  "urlvbmdropboxes": "https://www.co.madison.il.us/departments/county_clerk/index.php",
+  "urlvbmdropboxes": "https://elections.il.gov/VotingAndRegistrationSystems/VoteByMailBallotDropBoxLocations.aspx?MID=0DjRa0Y9V6U%3d&T=637376233549967522",
   "urlearlyvoting": "https://www.co.madison.il.us/departments/county_clerk/index.php",
-  "flagboxes": 0,
+  "urlstatelevelvbm": "https://elections.il.gov/VotingAndRegistrationSystems/VoteByMailBallotDropBoxLocations.aspx",
+  "flagboxes": 1,
+  "areadatacode": "002",
+  "arealeveltext": "Your jurisdiction DOES have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to a state-level finder to locate ballot dropboxes near you. Simply select your county from the dropdown menu",
   "flagattn": 1,
   "shortname": "madison"
 }

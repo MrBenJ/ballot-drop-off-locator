@@ -2,8 +2,11 @@
   "state": "IL",
   "fips5": "17085",
   "adminarea": "Jo Daviess",
-  "urlvbmdropboxes": "https://www.jodaviess.org/index.asp?SEC=0EB60553-7B76-4B14-B2AB-74A7760F29E5&Type=B_BASIC",
+  "urlvbmdropboxes": "https://elections.il.gov/VotingAndRegistrationSystems/VoteByMailBallotDropBoxLocations.aspx?MID=0DjRa0Y9V6U%3d&T=637376233549967522",
   "urlearlyvoting": "https://www.jodaviess.org/index.asp?SEC=0EB60553-7B76-4B14-B2AB-74A7760F29E5&Type=B_BASIC",
-  "flagboxes": 0,
+  "urlstatelevelvbm": "https://elections.il.gov/VotingAndRegistrationSystems/VoteByMailBallotDropBoxLocations.aspx",
+  "flagboxes": 1,
+  "areadatacode": "002",
+  "arealeveltext": "Your jurisdiction DOES have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to a state-level finder to locate ballot dropboxes near you. Simply select your county from the dropdown menu",
   "shortname": "jo-daviess"
 }

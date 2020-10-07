@@ -1,0 +1,12 @@
+{
+  "state": "KY",
+  "fips5": "21213",
+  "adminarea": "Simpson",
+  "urlvbmdropboxes": "https://elect.ky.gov/About-Us/Pages/County-Clerks.aspx",
+  "urlearlyvoting": "https://www.sos.ky.gov/elections/Pages/2020-General-Updates.aspx",
+  "urlstatelevelvbm": "www.govoteky.com",
+  "flagboxes": 0,
+  "areadatacode": "004",
+  "arealeveltext": "Your jurisdiction MAY have ballot dropboxes, as determined by your County Clerk. The SHOW DROP-OFF OPTIONS button will take you to a state level finder for information for your County Clerk's office, where ballots can be hand delivered. We will update these results as counties determine dropbox locations.",
+  "shortname": "simpson"
+}

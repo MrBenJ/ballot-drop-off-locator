@@ -3,7 +3,10 @@
   "fips5": "15009",
   "adminarea": "Maui",
   "urlvbmdropboxes": "https://www.mauicounty.gov/1965/Elections-Division",
-  "urlearlyvoting": "",
-  "flagboxes": 0,
+  "urlstatelevelvbm": "https://elections.hawaii.gov/hawaii-votes-by-mail-resources/",
+  "flagboxes": 1,
+  "areadatacode": "001",
+  "arealeveltext": "Your jurisdiction DOES have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage with a list of ballot dropboxes in your area.",
+  "flagattn": 1,
   "shortname": "maui"
 }

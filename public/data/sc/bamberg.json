@@ -2,8 +2,10 @@
   "state": "SC",
   "fips5": "45009",
   "adminarea": "Bamberg",
-  "urlvbmdropboxes": "https://www.scvotes.gov/bamberg",
+  "urlvbmdropboxes": "http://www.bambergcountysc.gov/absentee-voting",
   "urlstatelevelvbm": "https://www.scvotes.gov/new-absentee-rules-2020-general-election",
   "flagboxes": 0,
+  "areadatacode": "003",
+  "arealeveltext": "Your jurisdiction DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage which shows the address for your jurisdiction’s election office, where you can hand deliver your completed ballot.",
   "shortname": "bamberg"
 }

@@ -3,7 +3,10 @@
   "fips5": "17169",
   "adminarea": "Schuyler",
   "urlvbmdropboxes": "https://elections.il.gov/electionoperations/electionauthorities.aspx",
+  "urlstatelevelvbm": "https://elections.il.gov/VotingAndRegistrationSystems/VoteByMailBallotDropBoxLocations.aspx",
   "flagboxes": 0,
+  "areadatacode": "004",
+  "arealeveltext": "Your jurisdiction DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to a state elections webpage with a finder or information on your county elections office address, where you can hand deliver your completed ballot.",
   "flagattn": 1,
   "shortname": "schuyler"
 }

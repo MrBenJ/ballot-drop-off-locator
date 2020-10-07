@@ -1,0 +1,11 @@
+{
+  "state": "OR",
+  "fips5": "41003",
+  "adminarea": "Benton",
+  "urlvbmdropboxes": "https://www.co.benton.or.us/elections/page/november-3-2020-general-election-ballot-dropsites",
+  "urlstatelevelvbm": "https://sos.oregon.gov/voting/Pages/voteinor.aspx",
+  "flagboxes": 1,
+  "areadatacode": "001",
+  "arealeveltext": "Your jurisdiction DOES have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage with a list of ballot dropboxes in your area.",
+  "shortname": "benton"
+}
