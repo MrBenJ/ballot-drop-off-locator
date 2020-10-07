@@ -6,7 +6,6 @@ import CONTRIBUTORS from '../../CONTRIBUTORS';
 import './AboutPage.scss';
 const AboutPage = () => {
   const { t } = useTranslation();
-
   return (
     <div className="AboutPage">
       <Text className="headline center bold">{t('AboutPage.headline')}</Text>

@@ -1,10 +1,16 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import ReactGA from 'react-ga';
 import 'sanitize.css';
 import './index.scss';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 import './i18n';
+
+if (process.env.REACT_APP_ANALYTICS_UA) {
+  ReactGA.initialize(process.env.REACT_APP_ANALYTICS_UA);
+  ReactGA.pageview(window.location.pathname + window.location.search);
+}
 
 ReactDOM.render(
   <React.StrictMode>
