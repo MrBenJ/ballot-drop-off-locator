@@ -1,0 +1,11 @@
+{
+  "state": "OR",
+  "fips5": "41067",
+  "adminarea": "Washington",
+  "urlvbmdropboxes": "https://www.co.washington.or.us/AssessmentTaxation/Elections/CurrentElection/current-ballot-drop-sites.cfm",
+  "urlstatelevelvbm": "https://sos.oregon.gov/voting/Pages/voteinor.aspx",
+  "flagboxes": 1,
+  "areadatacode": "001",
+  "arealeveltext": "Your jurisdiction DOES have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage with a list of ballot dropboxes in your area.",
+  "shortname": "washington"
+}

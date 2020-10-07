@@ -2,9 +2,12 @@
   "state": "IL",
   "fips5": "17033",
   "adminarea": "Crawford",
-  "urlvbmdropboxes": "https://crawfordcountyil.org/clerk-recorder/elections-voting/",
+  "urlvbmdropboxes": "https://elections.il.gov/VotingAndRegistrationSystems/VoteByMailBallotDropBoxLocations.aspx?MID=0DjRa0Y9V6U%3d&T=637376233549967522",
   "urlearlyvoting": "https://crawfordcountyil.org/docs/early-voting-2020/",
-  "flagboxes": 0,
+  "urlstatelevelvbm": "https://elections.il.gov/VotingAndRegistrationSystems/VoteByMailBallotDropBoxLocations.aspx",
+  "flagboxes": 1,
+  "areadatacode": "002",
+  "arealeveltext": "Your jurisdiction DOES have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to a state-level finder to locate ballot dropboxes near you. Simply select your county from the dropdown menu",
   "flagattn": 1,
   "shortname": "crawford"
 }

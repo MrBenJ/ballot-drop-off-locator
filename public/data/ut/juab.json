@@ -2,8 +2,11 @@
   "state": "UT",
   "fips5": "49023",
   "adminarea": "Juab",
-  "urlvbmdropboxes": "http://www.co.juab.ut.us/County/Clerk/Index.html",
+  "urlvbmdropboxes": "https://elections.utah.gov/Media/Default/2018%20Election/2018%20General%20Election%20Drop%20Boxes.pdf",
   "urlstatelevelvbm": "https://vote.utah.gov/",
-  "flagboxes": 0,
+  "urlaux1": "http://www.co.juab.ut.us/County/Clerk/Index.html",
+  "flagboxes": 1,
+  "areadatacode": "002",
+  "arealeveltext": "Your jurisdiction DOES have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to a state-level webpage with finder or search function to find ballot dropboxes near you.",
   "shortname": "juab"
 }

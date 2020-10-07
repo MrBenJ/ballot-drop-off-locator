@@ -1,0 +1,11 @@
+{
+  "state": "OR",
+  "fips5": "41007",
+  "adminarea": "Clatsop",
+  "urlvbmdropboxes": "https://www.co.clatsop.or.us/clerk/page/ballot-drop-site-locations",
+  "urlstatelevelvbm": "https://sos.oregon.gov/voting/Pages/voteinor.aspx",
+  "flagboxes": 1,
+  "areadatacode": "001",
+  "arealeveltext": "Your jurisdiction DOES have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage with a list of ballot dropboxes in your area.",
+  "shortname": "clatsop"
+}

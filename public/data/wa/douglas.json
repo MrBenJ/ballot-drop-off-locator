@@ -5,5 +5,7 @@
   "urlvbmdropboxes": "http://www.douglascountywa.net/elected-offices/auditor/elections",
   "urlearlyvoting": "https://www.sos.wa.gov/elections/voters/",
   "flagboxes": 1,
+  "areadatacode": "001",
+  "arealeveltext": "Your jurisdiction DOES have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage with a list of ballot dropboxes in your area.",
   "shortname": "douglas"
 }

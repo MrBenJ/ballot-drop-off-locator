@@ -5,5 +5,7 @@
   "urlvbmdropboxes": "http://co.uintah.ut.us/2020%20Uintah%20County%20General%20Election%20Information.pdf",
   "urlstatelevelvbm": "https://vote.utah.gov/",
   "flagboxes": 1,
+  "areadatacode": "001",
+  "arealeveltext": "Your jurisdiction DOES have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage with a list of ballot dropboxes in your area.",
   "shortname": "uintah"
 }

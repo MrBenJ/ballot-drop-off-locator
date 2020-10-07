@@ -2,9 +2,11 @@
   "state": "SC",
   "fips5": "45001",
   "adminarea": "Abbeville",
-  "urlvbmdropboxes": "https://www.scvotes.gov/abbeville",
+  "urlvbmdropboxes": "https://abbevillecountysc.com/voter-registration-elections-board/",
   "urlearlyvoting": "https://www.google.com/search?client=safari&rls=en&q=early+voting+south+carolina&ie=UTF-8&oe=UTF-8",
   "urlstatelevelvbm": "https://www.scvotes.gov/new-absentee-rules-2020-general-election",
   "flagboxes": 0,
+  "areadatacode": "003",
+  "arealeveltext": "Your jurisdiction DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage which shows the address for your jurisdiction’s election office, where you can hand deliver your completed ballot.",
   "shortname": "abbeville"
 }

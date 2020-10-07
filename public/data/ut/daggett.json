@@ -2,8 +2,10 @@
   "state": "UT",
   "fips5": "49009",
   "adminarea": "Daggett",
-  "urlvbmdropboxes": "https://www.daggettcounty.org/90/Elections",
+  "urlvbmdropboxes": "https://elections.utah.gov/Media/Default/2018%20Election/2018%20General%20Election%20Drop%20Boxes.pdf",
   "urlstatelevelvbm": "https://vote.utah.gov/",
-  "flagboxes": 0,
+  "flagboxes": 1,
+  "areadatacode": "002",
+  "arealeveltext": "Your jurisdiction DOES have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to a state-level webpage with finder or search function to find ballot dropboxes near you.",
   "shortname": "daggett"
 }

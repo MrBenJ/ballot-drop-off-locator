@@ -2,9 +2,12 @@
   "state": "IL",
   "fips5": "17017",
   "adminarea": "Cass",
-  "urlvbmdropboxes": "https://co.cass.il.us/elected-officials/county-clerk-recorder",
+  "urlvbmdropboxes": "https://elections.il.gov/VotingAndRegistrationSystems/VoteByMailBallotDropBoxLocations.aspx?MID=0DjRa0Y9V6U%3d&T=637376233549967522",
   "urlearlyvoting": "https://co.cass.il.us/application/files/4915/9959/4808/GEN_ELECTION_2020_-_Early_Voting_Schedule.pdf",
-  "flagboxes": 0,
+  "urlstatelevelvbm": "https://elections.il.gov/VotingAndRegistrationSystems/VoteByMailBallotDropBoxLocations.aspx",
+  "flagboxes": 1,
+  "areadatacode": "002",
+  "arealeveltext": "Your jurisdiction DOES have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to a state-level finder to locate ballot dropboxes near you. Simply select your county from the dropdown menu",
   "flagattn": 1,
   "shortname": "cass"
 }

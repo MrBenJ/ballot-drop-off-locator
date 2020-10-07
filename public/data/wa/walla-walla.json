@@ -5,5 +5,7 @@
   "urlvbmdropboxes": "https://www.co.walla-walla.wa.us/document_center/auditor/Elections/ballot%20drop%20locations.pdf",
   "urlearlyvoting": "https://www.co.walla-walla.wa.us/government/auditor/elections.php",
   "flagboxes": 1,
+  "areadatacode": "001",
+  "arealeveltext": "Your jurisdiction DOES have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage with a list of ballot dropboxes in your area.",
   "shortname": "walla-walla"
 }

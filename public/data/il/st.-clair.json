@@ -2,8 +2,11 @@
   "state": "IL",
   "fips5": "17163",
   "adminarea": "St. Clair",
-  "urlvbmdropboxes": "https://www.co.st-clair.il.us/WebDocuments/Departments/CountyClerk/pressReleases/vbm.pdf",
+  "urlvbmdropboxes": "https://elections.il.gov/VotingAndRegistrationSystems/VoteByMailBallotDropBoxLocations.aspx?MID=0DjRa0Y9V6U%3d&T=637376233549967522",
   "urlearlyvoting": "https://www.co.st-clair.il.us/departments/county-clerk/elections/election-information-and-dates",
-  "flagboxes": 0,
+  "urlstatelevelvbm": "https://elections.il.gov/VotingAndRegistrationSystems/VoteByMailBallotDropBoxLocations.aspx",
+  "flagboxes": 1,
+  "areadatacode": "002",
+  "arealeveltext": "Your jurisdiction DOES have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to a state-level finder to locate ballot dropboxes near you. Simply select your county from the dropdown menu",
   "shortname": "st.-clair"
 }

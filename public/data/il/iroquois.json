@@ -4,6 +4,9 @@
   "adminarea": "Iroquois",
   "urlvbmdropboxes": "http://www.co.iroquois.il.us/offices/clerk/",
   "urlearlyvoting": "http://www.co.iroquois.il.us/2020/09/11/early-voting-schedule-general-election-november-3-2020/",
+  "urlstatelevelvbm": "https://elections.il.gov/VotingAndRegistrationSystems/VoteByMailBallotDropBoxLocations.aspx",
   "flagboxes": 0,
+  "areadatacode": "003",
+  "arealeveltext": "Your jurisdiction DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage which shows the address for your jurisdiction’s election office, where you can hand deliver your completed ballot.",
   "shortname": "iroquois"
 }

@@ -4,6 +4,9 @@
   "adminarea": "Franklin",
   "urlvbmdropboxes": "http://franklincountyil.gov/elections-absentee-grace-early-voting",
   "urlearlyvoting": "http://franklincountyil.gov/elections-absentee-grace-early-voting",
+  "urlstatelevelvbm": "https://elections.il.gov/VotingAndRegistrationSystems/VoteByMailBallotDropBoxLocations.aspx",
   "flagboxes": 0,
+  "areadatacode": "003",
+  "arealeveltext": "Your jurisdiction DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage which shows the address for your jurisdiction’s election office, where you can hand deliver your completed ballot.",
   "shortname": "franklin"
 }

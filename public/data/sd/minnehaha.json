@@ -2,8 +2,10 @@
   "state": "SD",
   "fips5": "46099",
   "adminarea": "Minnehaha",
-  "urlvbmdropboxes": "https://www.argusleader.com/story/news/politics/2020/05/29/absentee-ballots-south-dakota-primary-election-due-tuesday/5261705002/",
+  "urlvbmdropboxes": "https://sdsos.gov/elections-voting/assets/2020CountyAuditorContactListWithPhysicalAddress.pdf",
   "urlstatelevelvbm": "https://sdsos.gov/elections-voting/voting/absentee-voting.aspx",
-  "flagboxes": 1,
+  "flagboxes": 0,
+  "areadatacode": "004",
+  "arealeveltext": "Your jurisdiction DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to a state elections webpage with a finder or information on your county elections office address, where you can hand deliver your completed ballot.",
   "shortname": "minnehaha"
 }

@@ -5,5 +5,7 @@
   "urlvbmdropboxes": "https://ssl.utahcounty.gov/dept/clerkaud/elections/Curbside.html",
   "urlstatelevelvbm": "https://vote.utah.gov/",
   "flagboxes": 1,
+  "areadatacode": "001",
+  "arealeveltext": "Your jurisdiction DOES have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage with a list of ballot dropboxes in your area.",
   "shortname": "utah"
 }

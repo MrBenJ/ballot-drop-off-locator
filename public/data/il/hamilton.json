@@ -3,6 +3,9 @@
   "fips5": "17065",
   "adminarea": "Hamilton",
   "urlvbmdropboxes": "https://www.hamiltoncountyillinois.com/news/2020/08/general-election-2020-notice-to-voters-vote-by-mail-information/",
+  "urlstatelevelvbm": "https://elections.il.gov/VotingAndRegistrationSystems/VoteByMailBallotDropBoxLocations.aspx",
   "flagboxes": 0,
+  "areadatacode": "003",
+  "arealeveltext": "Your jurisdiction DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage which shows the address for your jurisdiction’s election office, where you can hand deliver your completed ballot.",
   "shortname": "hamilton"
 }

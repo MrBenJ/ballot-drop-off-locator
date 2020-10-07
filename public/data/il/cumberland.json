@@ -4,6 +4,9 @@
   "adminarea": "Cumberland",
   "urlvbmdropboxes": "https://cumberlandco.org/PDF/APPLICATION%20TO%20VOTE%20BY%20MAIL%202020.PDF",
   "urlearlyvoting": "https://cumberlandco.org/PDF/Early%20Voting%20November%202020.pdf",
+  "urlstatelevelvbm": "https://elections.il.gov/VotingAndRegistrationSystems/VoteByMailBallotDropBoxLocations.aspx",
   "flagboxes": 0,
+  "areadatacode": "003",
+  "arealeveltext": "Your jurisdiction DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage which shows the address for your jurisdiction’s election office, where you can hand deliver your completed ballot.",
   "shortname": "cumberland"
 }

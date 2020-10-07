@@ -2,8 +2,11 @@
   "state": "IL",
   "fips5": "17031",
   "adminarea": "Cook",
-  "urlvbmdropboxes": "https://www.cookcountyclerk.com/sites/default/files/pdfs/Mail%20Ballot%20Drop%20Box%20Locations_2.pdf",
+  "urlvbmdropboxes": "https://www.cookcountyclerk.com/service/mail-ballot-drop-box-locations",
   "urlearlyvoting": "https://www.cookcountyclerk.com/service/early-voting-locations",
+  "urlstatelevelvbm": "https://elections.il.gov/VotingAndRegistrationSystems/VoteByMailBallotDropBoxLocations.aspx",
   "flagboxes": 1,
+  "areadatacode": "001",
+  "arealeveltext": "Your jurisdiction DOES have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage with a list of ballot dropboxes in your area, or drop it at Chicago Early Voting site found here: https://www.chicagoelections.gov/en/Drop-Boxes.html",
   "shortname": "cook"
 }

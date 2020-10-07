@@ -5,5 +5,7 @@
   "urlvbmdropboxes": "https://www.sos.wa.gov/_assets/elections/ballot%20drop%20boxes%202019%20general%20election.pdf",
   "urlearlyvoting": "https://co.garfield.wa.us/current-election",
   "flagboxes": 1,
+  "areadatacode": "002",
+  "arealeveltext": "Your jurisdiction DOES have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to a state-level webpage with finder or search function to find ballot dropboxes near you.",
   "shortname": "garfield"
 }

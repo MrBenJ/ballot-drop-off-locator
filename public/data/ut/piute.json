@@ -2,8 +2,10 @@
   "state": "UT",
   "fips5": "49031",
   "adminarea": "Piute",
-  "urlvbmdropboxes": "https://www.piuteutah.com/your-government/elected-officials/clerk-auditor/",
+  "urlvbmdropboxes": "https://votesearch.utah.gov/voter-search/search/search-by-address/how-and-where-can-i-vote",
   "urlstatelevelvbm": "https://vote.utah.gov/",
   "flagboxes": 0,
+  "areadatacode": "002",
+  "arealeveltext": "Your jurisdiction DOES have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to a state-level webpage with finder or search function to find ballot dropboxes near you.",
   "shortname": "piute"
 }

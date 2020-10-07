@@ -4,6 +4,9 @@
   "adminarea": "DeKalb",
   "urlvbmdropboxes": "http://dekalb.il.clerkserve.com/?cat=21",
   "urlearlyvoting": "http://dekalb.il.clerkserve.com/wp-content/uploads/2020-03-EV-Schedule-All-Sites4.pdf",
+  "urlstatelevelvbm": "https://elections.il.gov/VotingAndRegistrationSystems/VoteByMailBallotDropBoxLocations.aspx",
   "flagboxes": 0,
+  "areadatacode": "003",
+  "arealeveltext": "Your jurisdiction DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage which shows the address for your jurisdiction’s election office, where you can hand deliver your completed ballot.",
   "shortname": "dekalb"
 }

@@ -2,8 +2,11 @@
   "state": "IL",
   "fips5": "17001",
   "adminarea": "Adams",
-  "urlvbmdropboxes": "https://www.co.adams.il.us/government/departments/county-clerk/voting-and-elections/vote-by-mail",
+  "urlvbmdropboxes": "https://elections.il.gov/VotingAndRegistrationSystems/VoteByMailBallotDropBoxLocations.aspx?MID=0DjRa0Y9V6U%3d&T=637376233549967522",
   "urlearlyvoting": "https://www.co.adams.il.us/government/departments/county-clerk/voting-and-elections/for-voters/early-voting",
+  "urlstatelevelvbm": "https://elections.il.gov/VotingAndRegistrationSystems/VoteByMailBallotDropBoxLocations.aspx",
   "flagboxes": 0,
+  "areadatacode": "002",
+  "arealeveltext": "Your jurisdiction DOES have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to a state-level finder to locate ballot dropboxes near you. Simply select your county from the dropdown menu",
   "shortname": "adams"
 }

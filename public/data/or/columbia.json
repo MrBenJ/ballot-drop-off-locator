@@ -1,0 +1,11 @@
+{
+  "state": "OR",
+  "fips5": "41009",
+  "adminarea": "Columbia",
+  "urlvbmdropboxes": "https://evogov.s3.amazonaws.com/media/143/media/163658.pdf",
+  "urlstatelevelvbm": "https://sos.oregon.gov/voting/Pages/voteinor.aspx",
+  "flagboxes": 1,
+  "areadatacode": "001",
+  "arealeveltext": "Your jurisdiction DOES have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage with a list of ballot dropboxes in your area.",
+  "shortname": "columbia"
+}

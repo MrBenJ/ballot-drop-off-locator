@@ -2,8 +2,10 @@
   "state": "UT",
   "fips5": "49041",
   "adminarea": "Sevier",
-  "urlvbmdropboxes": "https://www.sevierutah.net/departments/county_officials/clerk___auditor/voting.php",
+  "urlvbmdropboxes": "https://www.sevierutah.net/departments/county_officials/clerk___auditor/early_absentee_voting.php",
   "urlstatelevelvbm": "https://vote.utah.gov/",
   "flagboxes": 1,
+  "areadatacode": "001",
+  "arealeveltext": "Your jurisdiction DOES have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage with a list of ballot dropboxes in your area.",
   "shortname": "sevier"
 }

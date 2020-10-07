@@ -4,6 +4,9 @@
   "adminarea": "Tazewell",
   "urlvbmdropboxes": "https://www.tazewell.com/CountyClerk/CountyClerk&Recorder.html",
   "urlearlyvoting": "https://www.tazewell.com/CountyClerk/images/Elections/2020-General-Election-Early-Voting-Schedule.pdf",
+  "urlstatelevelvbm": "https://elections.il.gov/VotingAndRegistrationSystems/VoteByMailBallotDropBoxLocations.aspx",
   "flagboxes": 0,
+  "areadatacode": "003",
+  "arealeveltext": "Your jurisdiction DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage which shows the address for your jurisdiction’s election office, where you can hand deliver your completed ballot.",
   "shortname": "tazewell"
 }

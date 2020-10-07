@@ -1,0 +1,11 @@
+{
+  "state": "OR",
+  "fips5": "41047",
+  "adminarea": "Marion",
+  "urlvbmdropboxes": "https://www.co.marion.or.us/CO/elections/Results/Pages/November-3rd%2c-2020-Presidential-General-Election.aspx",
+  "urlstatelevelvbm": "https://sos.oregon.gov/voting/Pages/voteinor.aspx",
+  "flagboxes": 1,
+  "areadatacode": "001",
+  "arealeveltext": "Your jurisdiction DOES have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage with a list of ballot dropboxes in your area.",
+  "shortname": "marion"
+}

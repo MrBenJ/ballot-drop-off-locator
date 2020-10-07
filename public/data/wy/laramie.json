@@ -5,6 +5,7 @@
   "urlvbmdropboxes": "https://maps.laramiecounty.com/ballotboxes/",
   "urlstatelevelvbm": "https://sos.wyo.gov/Elections/State/AbsenteeVoting.aspx",
   "flagboxes": 1,
-  "areadatacode": 1,
+  "areadatacode": "001",
+  "arealeveltext": "Your jurisdiction DOES have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage with a list of ballot dropboxes in your area.",
   "shortname": "laramie"
 }

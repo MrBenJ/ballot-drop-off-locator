@@ -4,6 +4,9 @@
   "adminarea": "Champaign",
   "urlvbmdropboxes": "https://www.champaigncountyclerk.com/elections/many-ways-vote/vote-mail-information",
   "urlearlyvoting": "https://www.champaigncountyclerk.com/elections/many-ways-vote/early-voting-information",
+  "urlstatelevelvbm": "https://elections.il.gov/VotingAndRegistrationSystems/VoteByMailBallotDropBoxLocations.aspx",
   "flagboxes": 1,
+  "areadatacode": "001",
+  "arealeveltext": "Your jurisdiction DOES have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage with a list of ballot dropboxes in your area. Click \"Returning your ballot\"",
   "shortname": "champaign"
 }

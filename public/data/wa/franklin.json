@@ -5,5 +5,7 @@
   "urlvbmdropboxes": "http://www.co.franklin.wa.us/auditor/elections/ballotdropboxes.php",
   "urlearlyvoting": "http://www.co.franklin.wa.us/auditor/elections/currentelection.php",
   "flagboxes": 1,
+  "areadatacode": "001",
+  "arealeveltext": "Your jurisdiction DOES have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage with a list of ballot dropboxes in your area.",
   "shortname": "franklin"
 }

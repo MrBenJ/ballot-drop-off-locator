@@ -1,0 +1,11 @@
+{
+  "state": "OR",
+  "fips5": "41043",
+  "adminarea": "Linn",
+  "urlvbmdropboxes": "https://gis.co.linn.or.us/portal/apps/webappviewer/index.html?id=ed4208c2c6db4ae983d64ab65562fc81",
+  "urlstatelevelvbm": "https://sos.oregon.gov/voting/Pages/voteinor.aspx",
+  "flagboxes": 1,
+  "areadatacode": "001",
+  "arealeveltext": "Your jurisdiction DOES have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage with a list of ballot dropboxes in your area.",
+  "shortname": "linn"
+}

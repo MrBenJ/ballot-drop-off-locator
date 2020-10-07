@@ -4,6 +4,9 @@
   "adminarea": "Mercer",
   "urlvbmdropboxes": "http://www.mercercountyil.org/Portals/MercerCounty/Public_Documents/Elections/2020/General%20Election/VBM%20Press%20Release.pdf?ver=2020-07-24-113543-173",
   "urlearlyvoting": "http://www.mercercountyil.org/?Name=lZeZHnTb3wrJslmGzBzuNsPZgcW63GXUoVoS2yQvLmBhTHzSAL%2fk4aKi5gl%2bLj7e7y9vATDTHsbriJpJ7ZPEI2YUVODd7nikbAuPHIk8HXBc7BSiSu7jwiwmqDUUvJ7ViG0TyZYPob0%3d&T=637354563787717794",
+  "urlstatelevelvbm": "https://elections.il.gov/VotingAndRegistrationSystems/VoteByMailBallotDropBoxLocations.aspx",
   "flagboxes": 0,
+  "areadatacode": "003",
+  "arealeveltext": "Your jurisdiction DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage which shows the address for your jurisdiction’s election office, where you can hand deliver your completed ballot.",
   "shortname": "mercer"
 }

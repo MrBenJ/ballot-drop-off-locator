@@ -4,6 +4,9 @@
   "adminarea": "Kendall",
   "urlvbmdropboxes": "https://www.co.kendall.il.us/offices/county-clerk-recorder/election-voter-information/vote-by-mail",
   "urlearlyvoting": "https://www.co.kendall.il.us/offices/county-clerk-recorder/election-voter-information/voting",
+  "urlstatelevelvbm": "https://elections.il.gov/VotingAndRegistrationSystems/VoteByMailBallotDropBoxLocations.aspx",
   "flagboxes": 0,
+  "areadatacode": "003",
+  "arealeveltext": "Your jurisdiction DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage which shows the address for your jurisdiction’s election office, where you can hand deliver your completed ballot.",
   "shortname": "kendall"
 }
