@@ -4,7 +4,9 @@
   "adminarea": "Cherokee",
   "urlvbmdropboxes": "http://www.co.cherokee.tx.us/ips/cms/othercountyoffices/elections.html",
   "urlearlyvoting": "http://www.co.cherokee.tx.us/ips/cms/othercountyoffices/2020-11/Nov%202020%20Early%20voting%20locations%20times.pdf",
-  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "urlstatelevelvbm": "https://www.votetexas.gov/voting/when.html#early-voting",
   "flagboxes": 0,
+  "areadatacode": "003",
+  "arealeveltext": "Your county DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage which shows the address for your County Election office, where you can hand deliver your completed ballot.",
   "shortname": "cherokee"
 }

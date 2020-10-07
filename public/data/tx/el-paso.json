@@ -4,7 +4,9 @@
   "adminarea": "El Paso",
   "urlvbmdropboxes": "https://epcountyvotes.com/voter_information/civilian_ballot_by_mail",
   "urlearlyvoting": "https://el-paso-county-elections.s3.amazonaws.com/documents/files/000/003/084/original/08282020_Early_Voting_Stations_English.pdf?1598645270",
-  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "urlstatelevelvbm": "https://www.votetexas.gov/voting/when.html#early-voting",
   "flagboxes": 0,
+  "areadatacode": "003",
+  "arealeveltext": "Your county DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage which shows the address for your County Election office, where you can hand deliver your completed ballot.",
   "shortname": "el-paso"
 }

@@ -4,7 +4,9 @@
   "adminarea": "Nacogdoches",
   "urlvbmdropboxes": "https://www.co.nacogdoches.tx.us/ElectionInformation/DomesticVoters.asp",
   "urlearlyvoting": "https://www.co.nacogdoches.tx.us/ElectionInformation/CurrentelectionInformation/02%20-%20Voting%20Schedules%20and%20Polling%20Places%20-%20Early%20Voting%20-%20November%203rd,%202020%20General%20Election.pdf?v20200829191149",
-  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "urlstatelevelvbm": "https://www.votetexas.gov/voting/when.html#early-voting",
   "flagboxes": 0,
+  "areadatacode": "003",
+  "arealeveltext": "Your county DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage which shows the address for your County Election office, where you can hand deliver your completed ballot.",
   "shortname": "nacogdoches"
 }

@@ -4,7 +4,10 @@
   "adminarea": "Karnes",
   "urlvbmdropboxes": "http://www.co.karnes.tx.us/page/karnes.Elections",
   "urlearlyvoting": "http://www.co.karnes.tx.us/upload/page/1033/docs/Elections/11.03.2020/CCF_0015.pdf",
-  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "urlstatelevelvbm": "https://www.votetexas.gov/voting/when.html#early-voting",
   "flagboxes": 0,
+  "areadatacode": "003",
+  "arealeveltext": "Your county DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage which shows the address for your County Election office, where you can hand deliver your completed ballot.",
+  "flagattn": 1,
   "shortname": "karnes"
 }

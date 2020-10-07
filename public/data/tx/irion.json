@@ -2,10 +2,12 @@
   "state": "TX",
   "fips5": "48235",
   "adminarea": "Irion",
-  "urlvbmdropboxes": "http://www.co.irion.tx.us/page/irion.Contact",
+  "urlvbmdropboxes": "https://www.sos.state.tx.us/elections/voter/county.shtml#I",
   "urlearlyvoting": "https://www.votetexas.gov/voting/when.html#early-voting",
-  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "urlstatelevelvbm": "https://www.votetexas.gov/voting/when.html#early-voting",
   "flagboxes": 0,
+  "areadatacode": "004",
+  "arealeveltext": "Your county DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to a state webpage listing all counties to find your County Elections office address, where you can hand deliver your completed ballot.",
   "flagattn": 1,
   "shortname": "irion"
 }

@@ -4,7 +4,9 @@
   "adminarea": "Marion",
   "urlvbmdropboxes": "http://www.co.marion.tx.us/page/marion.Elections",
   "urlearlyvoting": "http://www.co.marion.tx.us/upload/page/1258/docs/public%20notices/Elections/2020/General%20Information.pdf",
-  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "urlstatelevelvbm": "https://www.votetexas.gov/voting/when.html#early-voting",
   "flagboxes": 0,
+  "areadatacode": "003",
+  "arealeveltext": "Your county DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage which shows the address for your County Election office, where you can hand deliver your completed ballot.",
   "shortname": "marion"
 }

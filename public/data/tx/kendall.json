@@ -4,7 +4,9 @@
   "adminarea": "Kendall",
   "urlvbmdropboxes": "https://www.co.kendall.tx.us/page/Elections.Current.November",
   "urlearlyvoting": "https://www.co.kendall.tx.us/upload/page/0217/docs/Current%20Elections/3%20-%20EARLY%20VOTING%20-%20Main%20Location.pdf",
-  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "urlstatelevelvbm": "https://www.votetexas.gov/voting/when.html#early-voting",
   "flagboxes": 0,
+  "areadatacode": "003",
+  "arealeveltext": "Your county DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage which shows the address for your County Election office, where you can hand deliver your completed ballot.",
   "shortname": "kendall"
 }

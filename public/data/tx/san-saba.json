@@ -4,8 +4,10 @@
   "adminarea": "San Saba",
   "urlvbmdropboxes": "http://www.co.san-saba.tx.us/page/sansaba.Elections",
   "urlearlyvoting": "http://www.co.san-saba.tx.us/upload/page/6028/docs/OrderofGeneralElection2020Aug.pdf",
-  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "urlstatelevelvbm": "https://www.votetexas.gov/voting/when.html#early-voting",
   "flagboxes": 0,
+  "areadatacode": "003",
+  "arealeveltext": "Your county DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage which shows the address for your County Election office, where you can hand deliver your completed ballot.",
   "flagattn": 1,
   "shortname": "san-saba"
 }

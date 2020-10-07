@@ -4,7 +4,9 @@
   "adminarea": "Navarro",
   "urlvbmdropboxes": "http://www.co.navarro.tx.us/page/navarro.Elections",
   "urlearlyvoting": "http://www.co.navarro.tx.us/upload/page/4292/docs/Elections/2020/VR%20NOVEMBER%203%20Early%20Voting%20Info%20200814.pdf",
-  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "urlstatelevelvbm": "https://www.votetexas.gov/voting/when.html#early-voting",
   "flagboxes": 0,
+  "areadatacode": "003",
+  "arealeveltext": "Your county DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage which shows the address for your County Election office, where you can hand deliver your completed ballot.",
   "shortname": "navarro"
 }

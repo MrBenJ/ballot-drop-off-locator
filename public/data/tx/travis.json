@@ -4,7 +4,9 @@
   "adminarea": "Travis",
   "urlvbmdropboxes": "https://countyclerk.traviscountytx.gov/elections/ballot-by-mail.html",
   "urlearlyvoting": "https://countyclerk.traviscountytx.gov/images/pdfs/polling_locations/11.03.20/early_voting_flyer.pdf",
-  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "urlstatelevelvbm": "https://www.votetexas.gov/voting/when.html#early-voting",
   "flagboxes": 0,
+  "areadatacode": "001",
+  "arealeveltext": "Your county DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage which shows the address for your County Election office, where you can hand deliver your completed ballot. Dropboxes MAY be added pending a current court case - we will update if this changes.",
   "shortname": "travis"
 }

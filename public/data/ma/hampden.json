@@ -1,0 +1,13 @@
+{
+  "state": "MA",
+  "fips5": "25013",
+  "adminarea": "Hampden",
+  "urlvbmdropboxes": "https://www.sec.state.ma.us/ele/eleev/ev-find-my-election-office.htm",
+  "urlearlyvoting": "https://www.sec.state.ma.us/ele/eleev/evidx.htm",
+  "urlstatelevelvbm": "https://www.sec.state.ma.us/ele/eleev/early-voting-by-mail.htm",
+  "flagboxes": 1,
+  "areadatacode": 252,
+  "arealeveltext": "Massachusetts Absentee Ballots are returned to City/Town Clerks, not at the county level. The SHOW DROP-OFF OPTIONS button will take you to a state list of cities & towns to find the address of your election office, including dropbox locations where available.",
+  "flagattn": 0,
+  "shortname": "hampden"
+}

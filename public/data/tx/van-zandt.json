@@ -4,7 +4,9 @@
   "adminarea": "Van Zandt",
   "urlvbmdropboxes": "http://www.vanzandtcounty.org/page/vanzandt.Elections",
   "urlearlyvoting": "http://www.vanzandtcounty.org/upload/page/2707/2020%20Elections/September/NOTICE.ORDER%20COUNTY%2011.03.2020.pdf",
-  "urlstatelevelvbm": "https://www.votetexas.gov/index.html",
+  "urlstatelevelvbm": "https://www.votetexas.gov/voting/when.html#early-voting",
   "flagboxes": 0,
+  "areadatacode": "003",
+  "arealeveltext": "Your county DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage which shows the address for your County Election office, where you can hand deliver your completed ballot.",
   "shortname": "van-zandt"
 }
