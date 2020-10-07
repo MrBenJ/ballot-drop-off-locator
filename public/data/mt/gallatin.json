@@ -2,9 +2,12 @@
   "state": "MT",
   "fips5": "30031",
   "adminarea": "Gallatin",
-  "urlvbmdropboxes": "https://www.kulr8.com/regional/2020-ballot-drop-off-locations-in-gallatin-county/article_a842e134-6587-53cb-ad9a-6b3dad1383dd.html",
+  "urlvbmdropboxes": "https://sosmt.gov/#r5",
   "urlearlyvoting": "https://sosmt.gov/elections/absentee/",
   "urlstatelevelvbm": "https://sosmt.gov/elections/absentee/",
   "flagboxes": 1,
+  "areadatacode": 302,
+  "arealeveltext": "Your county DOES have Mail Ballot drop-off options. The SHOW DROP-OFF OPTIONS button will take you to a state elections website. Use the finder to find drop-off locations and hours. Select your county from the dropdown menu in the section on the Governor's Directive.",
+  "flagattn": 1,
   "shortname": "gallatin"
 }

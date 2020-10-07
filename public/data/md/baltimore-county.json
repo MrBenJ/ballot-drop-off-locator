@@ -1,0 +1,12 @@
+{
+  "state": "MD",
+  "fips5": "24005",
+  "adminarea": "Baltimore County",
+  "urlvbmdropboxes": "https://www.baltimorecountymd.gov/Agencies/elections/2020generalelection.html",
+  "urlstatelevelvbm": "https://elections.maryland.gov/voting/absentee.html",
+  "flagboxes": 1,
+  "areadatacode": 241,
+  "arealeveltext": "Your county DOES have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage with ballot dropbox locations in your county. You can also drop your completed ballot at any Early Voting or Election Day Vote Center.",
+  "flagattn": 1,
+  "shortname": "baltimore-county"
+}

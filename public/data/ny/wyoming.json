@@ -1,8 +1,13 @@
 {
   "state": "NY",
+  "fips5": "36121",
   "adminarea": "Wyoming",
-  "urlvbmdropboxes": "https://voterlookup.elections.ny.gov/",
+  "urlvbmdropboxes": "https://www.wyomingco.net/162/Board-of-Elections",
   "urlearlyvoting": "https://www.wyomingco.net/DocumentCenter/View/4352/Early-Voting-Hours-General-Election-2020",
+  "urlstatelevelvbm": "https://www.elections.ny.gov/VotingAbsentee.html",
   "flagboxes": 0,
+  "areadatacode": "363",
+  "arealeveltext": "Your county has Absentee ballot drop-off ONLY at the county Board of Elections office. The SHOW DROP-OFF OPTIONS button will take you to the county webpage with the Elections office address and Early Voting hours. Absentee ballots can also be dropped at any polling place on Election Day.",
+  "flagattn": 1,
   "shortname": "wyoming"
 }

@@ -1,8 +1,13 @@
 {
   "state": "NY",
+  "fips5": "36037",
   "adminarea": "Genesee",
-  "urlvbmdropboxes": "https://cms.revize.com/revize/geneseecountynew/departments/elections/polling_places.php",
-  "urlearlyvoting": "http://cms.revize.com/revize/geneseecountynew/EarlyVoting2020.pdf",
+  "urlvbmdropboxes": "http://cms.revize.com/revize/geneseecountynew/EarlyVoting2020.pdf",
+  "urlstatelevelvbm": "https://www.elections.ny.gov/VotingAbsentee.html",
+  "urlaux1": "x",
   "flagboxes": 0,
+  "areadatacode": "363",
+  "arealeveltext": "Your county has Absentee ballot drop-off ONLY at the county Board of Elections office. The SHOW DROP-OFF OPTIONS button will take you to the county webpage with the Elections office address and Early Voting hours. Absentee ballots can also be dropped at any polling place on Election Day.",
+  "flagattn": 1,
   "shortname": "genesee"
 }

@@ -1,0 +1,10 @@
+{
+  "state": "ND",
+  "fips5": "38073",
+  "adminarea": "Ransom",
+  "urlvbmdropboxes": "https://vip.sos.nd.gov/Precincts.aspx?eid=313",
+  "flagboxes": 1,
+  "areadatacode": 382,
+  "arealeveltext": "Your county DOES have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to a statewide list of ballot dropboxes, listed by county. Click \"County Drop Boxes\" to see the list.",
+  "shortname": "ransom"
+}

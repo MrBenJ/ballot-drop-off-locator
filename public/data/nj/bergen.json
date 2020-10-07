@@ -2,9 +2,10 @@
   "state": "NJ",
   "fips5": "34003",
   "adminarea": "Bergen",
-  "urlvbmdropboxes": "https://www.co.bergen.nj.us/county-officials/superintendant-of-elections",
+  "urlvbmdropboxes": "https://www.co.bergen.nj.us/bergen-county-board-of-elections/ballot-drop-box-locations",
   "urlstatelevelvbm": "https://nj.gov/state/elections/vote.shtml",
   "flagboxes": 1,
-  "flagattn": 1,
+  "areadatacode": 341,
+  "arealeveltext": "Your county DOES have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage with ballot dropbox locations in your county. ",
   "shortname": "bergen"
 }

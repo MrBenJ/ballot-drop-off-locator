@@ -5,6 +5,7 @@
   "urlvbmdropboxes": "https://www.co.hunterdon.nj.us/Election2020.htm",
   "urlstatelevelvbm": "https://nj.gov/state/elections/vote.shtml",
   "flagboxes": 1,
-  "flagattn": 0,
+  "areadatacode": 341,
+  "arealeveltext": "Your county DOES have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage with ballot dropbox locations in your county. ",
   "shortname": "hunterdon"
 }

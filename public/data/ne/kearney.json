@@ -1,0 +1,13 @@
+{
+  "state": "NE",
+  "fips5": "31099",
+  "adminarea": "Kearney",
+  "urlvbmdropboxes": "https://sos.nebraska.gov/elections/election-officials-contact-information",
+  "urlearlyvoting": "https://sos.nebraska.gov/elections/early-voting-0",
+  "urlstatelevelvbm": "https://sos.nebraska.gov/elections/early-voting-0",
+  "flagboxes": 0,
+  "areadatacode": "004",
+  "arealeveltext": "Your county DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to a state elections webpage with a list of county elections officials, where you can find the address to hand deliver your completed ballot.",
+  "flagattn": 1,
+  "shortname": "kearney"
+}

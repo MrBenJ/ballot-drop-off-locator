@@ -1,0 +1,13 @@
+{
+  "state": "NE",
+  "fips5": "31001",
+  "adminarea": "Adams",
+  "urlvbmdropboxes": "https://www.adamscounty.org/images/PDFS/Clerks/earlyvotefaq.pdf",
+  "urlearlyvoting": "https://www.adamscounty.org/county-clerk/14-how-to-vote",
+  "urlstatelevelvbm": "https://sos.nebraska.gov/elections/early-voting-0",
+  "flagboxes": 1,
+  "areadatacode": "001",
+  "arealeveltext": "Your county DOES have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage showing ballot dropbox locations in your county. ",
+  "flagattn": 1,
+  "shortname": "adams"
+}

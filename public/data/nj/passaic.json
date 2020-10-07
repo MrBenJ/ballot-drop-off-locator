@@ -2,9 +2,10 @@
   "state": "NJ",
   "fips5": "34031",
   "adminarea": "Passaic",
-  "urlvbmdropboxes": "https://www.passaiccountynj.org/government/elected_and_appointed_officials/passaic_county_clerk/2020_general_election.php",
+  "urlvbmdropboxes": "https://www.passaiccountynj.org/government/boards_committees_and_commissions/board_of_elections/index.php#Dropboxes",
   "urlstatelevelvbm": "https://nj.gov/state/elections/vote.shtml",
   "flagboxes": 1,
-  "flagattn": 1,
+  "areadatacode": 341,
+  "arealeveltext": "Your county DOES have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage with ballot dropbox locations in your county. ",
   "shortname": "passaic"
 }

@@ -1,0 +1,12 @@
+{
+  "state": "MD",
+  "fips5": "24009",
+  "adminarea": "Calvert",
+  "urlvbmdropboxes": "https://elections.maryland.gov/elections/2020/PG20_Drop%20Box%20Locations.pdf",
+  "urlstatelevelvbm": "https://elections.maryland.gov/voting/absentee.html",
+  "urlaux1": "https://www.calvertcountymd.gov/2153/2020-Presidential-Election-Information",
+  "flagboxes": 2,
+  "areadatacode": 242,
+  "arealeveltext": "Your county DOES have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to a statewide list of ballot dropboxes, sorted by county. You can also drop your completed ballot at any Early Voting or Election Day Vote Center.",
+  "shortname": "calvert"
+}

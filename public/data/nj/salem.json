@@ -2,8 +2,10 @@
   "state": "NJ",
   "fips5": "34033",
   "adminarea": "Salem",
-  "urlvbmdropboxes": "https://salemcountyclerk.org/",
+  "urlvbmdropboxes": "https://elections.salemcountynj.gov/where-do-i-vote/",
   "urlstatelevelvbm": "https://nj.gov/state/elections/vote.shtml",
   "flagboxes": 1,
+  "areadatacode": 341,
+  "arealeveltext": "Your county DOES have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage with ballot dropbox locations in your county. ",
   "shortname": "salem"
 }

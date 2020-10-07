@@ -1,9 +1,13 @@
 {
   "state": "NY",
+  "fips5": "36039",
   "adminarea": "Greene",
-  "urlvbmdropboxes": "https://www.greenegovernment.com/wp-content/uploads/2019/05/Greene-County-Polling-Sites.pdf",
-  "urlearlyvoting": "https://www.greenegovernment.com/wp-content/uploads/2020/01/General-Election-Early-Voting-Hours.pdf",
+  "urlvbmdropboxes": "https://www.greenegovernment.com/wp-content/uploads/2020/01/General-Election-Early-Voting-Hours.pdf",
+  "urlstatelevelvbm": "https://www.elections.ny.gov/VotingAbsentee.html",
+  "urlaux1": "x",
   "flagboxes": 0,
+  "areadatacode": "363",
+  "arealeveltext": "Your county has Absentee ballot drop-off ONLY at the county Board of Elections office. The SHOW DROP-OFF OPTIONS button will take you to the county webpage with the Elections office address and Early Voting hours. Absentee ballots can also be dropped at any polling place on Election Day.",
   "flagattn": 1,
   "shortname": "greene"
 }

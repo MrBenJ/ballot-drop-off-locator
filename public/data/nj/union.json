@@ -2,9 +2,10 @@
   "state": "NJ",
   "fips5": "34039",
   "adminarea": "Union",
-  "urlvbmdropboxes": "http://www.unioncountyvotes.com/",
+  "urlvbmdropboxes": "https://ucnj.org/boe/ballot-drop-box-locations/",
   "urlstatelevelvbm": "https://nj.gov/state/elections/vote.shtml",
   "flagboxes": 1,
-  "flagattn": 1,
+  "areadatacode": 341,
+  "arealeveltext": "Your county DOES have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage with ballot dropbox locations in your county. ",
   "shortname": "union"
 }

@@ -1,8 +1,12 @@
 {
   "state": "NY",
+  "fips5": "36029",
   "adminarea": "Erie",
-  "urlvbmdropboxes": "https://elections.erie.gov/VSearch2",
-  "urlearlyvoting": "https://elections.erie.gov/early%20voting",
+  "urlvbmdropboxes": "https://elections.erie.gov/early%20voting",
+  "urlstatelevelvbm": "https://www.elections.ny.gov/VotingAbsentee.html",
   "flagboxes": 0,
+  "areadatacode": "363",
+  "arealeveltext": "Your county has Absentee ballot drop-off ONLY at the county Board of Elections office. The SHOW DROP-OFF OPTIONS button will take you to the county webpage with the Elections office address and Early Voting hours. Absentee ballots can also be dropped at any polling place on Election Day.",
+  "flagattn": 1,
   "shortname": "erie"
 }

@@ -1,8 +1,13 @@
 {
   "state": "NY",
+  "fips5": "36011",
   "adminarea": "Cayuga",
-  "urlvbmdropboxes": "https://www.cayugacounty.us/BusinessDirectoryII.aspx?lngBusinessCategoryID=24",
-  "urlearlyvoting": "https://www.cayugacounty.us/1541/Early-Voting-Information",
-  "flagboxes": 0,
+  "urlvbmdropboxes": "https://www.cayugacounty.us/1541/Early-Voting-Information",
+  "urlstatelevelvbm": "https://www.elections.ny.gov/VotingAbsentee.html",
+  "urlaux1": "x",
+  "flagboxes": 1,
+  "areadatacode": "361",
+  "arealeveltext": "Your county DOES have Absentee ballot drop-off at all Early Voting locations. The SHOW DROP-OFF OPTIONS button will take you to the county webpage with Early Voting locations and hours. Absentee ballots can also be dropped at any polling place on Election Day.",
+  "flagattn": 1,
   "shortname": "cayuga"
 }

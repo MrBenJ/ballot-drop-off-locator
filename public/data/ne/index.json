@@ -1,0 +1,374 @@
+[
+  {
+    "adminarea": "Adams",
+    "shortname": "adams"
+  },
+  {
+    "adminarea": "Antelope",
+    "shortname": "antelope"
+  },
+  {
+    "adminarea": "Arthur",
+    "shortname": "arthur"
+  },
+  {
+    "adminarea": "Banner",
+    "shortname": "banner"
+  },
+  {
+    "adminarea": "Blaine",
+    "shortname": "blaine"
+  },
+  {
+    "adminarea": "Boone",
+    "shortname": "boone"
+  },
+  {
+    "adminarea": "Box Butte",
+    "shortname": "box-butte"
+  },
+  {
+    "adminarea": "Boyd",
+    "shortname": "boyd"
+  },
+  {
+    "adminarea": "Brown",
+    "shortname": "brown"
+  },
+  {
+    "adminarea": "Buffalo",
+    "shortname": "buffalo"
+  },
+  {
+    "adminarea": "Burt",
+    "shortname": "burt"
+  },
+  {
+    "adminarea": "Butler",
+    "shortname": "butler"
+  },
+  {
+    "adminarea": "Cass",
+    "shortname": "cass"
+  },
+  {
+    "adminarea": "Cedar",
+    "shortname": "cedar"
+  },
+  {
+    "adminarea": "Chase",
+    "shortname": "chase"
+  },
+  {
+    "adminarea": "Cherry",
+    "shortname": "cherry"
+  },
+  {
+    "adminarea": "Cheyenne",
+    "shortname": "cheyenne"
+  },
+  {
+    "adminarea": "Clay",
+    "shortname": "clay"
+  },
+  {
+    "adminarea": "Colfax",
+    "shortname": "colfax"
+  },
+  {
+    "adminarea": "Cuming",
+    "shortname": "cuming"
+  },
+  {
+    "adminarea": "Custer",
+    "shortname": "custer"
+  },
+  {
+    "adminarea": "Dakota",
+    "shortname": "dakota"
+  },
+  {
+    "adminarea": "Dawes",
+    "shortname": "dawes"
+  },
+  {
+    "adminarea": "Dawson",
+    "shortname": "dawson"
+  },
+  {
+    "adminarea": "Deuel",
+    "shortname": "deuel"
+  },
+  {
+    "adminarea": "Dixon",
+    "shortname": "dixon"
+  },
+  {
+    "adminarea": "Dodge",
+    "shortname": "dodge"
+  },
+  {
+    "adminarea": "Douglas",
+    "shortname": "douglas"
+  },
+  {
+    "adminarea": "Dundy",
+    "shortname": "dundy"
+  },
+  {
+    "adminarea": "Fillmore",
+    "shortname": "fillmore"
+  },
+  {
+    "adminarea": "Franklin",
+    "shortname": "franklin"
+  },
+  {
+    "adminarea": "Frontier",
+    "shortname": "frontier"
+  },
+  {
+    "adminarea": "Furnas",
+    "shortname": "furnas"
+  },
+  {
+    "adminarea": "Gage",
+    "shortname": "gage"
+  },
+  {
+    "adminarea": "Garden",
+    "shortname": "garden"
+  },
+  {
+    "adminarea": "Garfield",
+    "shortname": "garfield"
+  },
+  {
+    "adminarea": "Gosper",
+    "shortname": "gosper"
+  },
+  {
+    "adminarea": "Grant",
+    "shortname": "grant"
+  },
+  {
+    "adminarea": "Greeley",
+    "shortname": "greeley"
+  },
+  {
+    "adminarea": "Hall",
+    "shortname": "hall"
+  },
+  {
+    "adminarea": "Hamilton",
+    "shortname": "hamilton"
+  },
+  {
+    "adminarea": "Harlan",
+    "shortname": "harlan"
+  },
+  {
+    "adminarea": "Hayes",
+    "shortname": "hayes"
+  },
+  {
+    "adminarea": "Hitchcock",
+    "shortname": "hitchcock"
+  },
+  {
+    "adminarea": "Holt",
+    "shortname": "holt"
+  },
+  {
+    "adminarea": "Hooker",
+    "shortname": "hooker"
+  },
+  {
+    "adminarea": "Howard",
+    "shortname": "howard"
+  },
+  {
+    "adminarea": "Jefferson",
+    "shortname": "jefferson"
+  },
+  {
+    "adminarea": "Johnson",
+    "shortname": "johnson"
+  },
+  {
+    "adminarea": "Kearney",
+    "shortname": "kearney"
+  },
+  {
+    "adminarea": "Keith",
+    "shortname": "keith"
+  },
+  {
+    "adminarea": "Keya Paha",
+    "shortname": "keya-paha"
+  },
+  {
+    "adminarea": "Kimball",
+    "shortname": "kimball"
+  },
+  {
+    "adminarea": "Knox",
+    "shortname": "knox"
+  },
+  {
+    "adminarea": "Lancaster",
+    "shortname": "lancaster"
+  },
+  {
+    "adminarea": "Lincoln",
+    "shortname": "lincoln"
+  },
+  {
+    "adminarea": "Logan",
+    "shortname": "logan"
+  },
+  {
+    "adminarea": "Loup",
+    "shortname": "loup"
+  },
+  {
+    "adminarea": "McPherson",
+    "shortname": "mcpherson"
+  },
+  {
+    "adminarea": "Madison",
+    "shortname": "madison"
+  },
+  {
+    "adminarea": "Merrick",
+    "shortname": "merrick"
+  },
+  {
+    "adminarea": "Morrill",
+    "shortname": "morrill"
+  },
+  {
+    "adminarea": "Nance",
+    "shortname": "nance"
+  },
+  {
+    "adminarea": "Nemaha",
+    "shortname": "nemaha"
+  },
+  {
+    "adminarea": "Nuckolls",
+    "shortname": "nuckolls"
+  },
+  {
+    "adminarea": "Otoe",
+    "shortname": "otoe"
+  },
+  {
+    "adminarea": "Pawnee",
+    "shortname": "pawnee"
+  },
+  {
+    "adminarea": "Perkins",
+    "shortname": "perkins"
+  },
+  {
+    "adminarea": "Phelps",
+    "shortname": "phelps"
+  },
+  {
+    "adminarea": "Pierce",
+    "shortname": "pierce"
+  },
+  {
+    "adminarea": "Platte",
+    "shortname": "platte"
+  },
+  {
+    "adminarea": "Polk",
+    "shortname": "polk"
+  },
+  {
+    "adminarea": "Red Willow",
+    "shortname": "red-willow"
+  },
+  {
+    "adminarea": "Richardson",
+    "shortname": "richardson"
+  },
+  {
+    "adminarea": "Rock",
+    "shortname": "rock"
+  },
+  {
+    "adminarea": "Saline",
+    "shortname": "saline"
+  },
+  {
+    "adminarea": "Sarpy",
+    "shortname": "sarpy"
+  },
+  {
+    "adminarea": "Saunders",
+    "shortname": "saunders"
+  },
+  {
+    "adminarea": "Scotts Bluff",
+    "shortname": "scotts-bluff"
+  },
+  {
+    "adminarea": "Seward",
+    "shortname": "seward"
+  },
+  {
+    "adminarea": "Sheridan",
+    "shortname": "sheridan"
+  },
+  {
+    "adminarea": "Sherman",
+    "shortname": "sherman"
+  },
+  {
+    "adminarea": "Sioux",
+    "shortname": "sioux"
+  },
+  {
+    "adminarea": "Stanton",
+    "shortname": "stanton"
+  },
+  {
+    "adminarea": "Thayer",
+    "shortname": "thayer"
+  },
+  {
+    "adminarea": "Thomas",
+    "shortname": "thomas"
+  },
+  {
+    "adminarea": "Thurston",
+    "shortname": "thurston"
+  },
+  {
+    "adminarea": "Valley",
+    "shortname": "valley"
+  },
+  {
+    "adminarea": "Washington",
+    "shortname": "washington"
+  },
+  {
+    "adminarea": "Wayne",
+    "shortname": "wayne"
+  },
+  {
+    "adminarea": "Webster",
+    "shortname": "webster"
+  },
+  {
+    "adminarea": "Wheeler",
+    "shortname": "wheeler"
+  },
+  {
+    "adminarea": "York",
+    "shortname": "york"
+  }
+]

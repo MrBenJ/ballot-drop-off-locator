@@ -2,9 +2,10 @@
   "state": "NJ",
   "fips5": "34041",
   "adminarea": "Warren",
-  "urlvbmdropboxes": "http://www.co.warren.nj.us/Election.html",
+  "urlvbmdropboxes": "https://www.warrencountyvotes.com/",
   "urlstatelevelvbm": "https://nj.gov/state/elections/vote.shtml",
   "flagboxes": 1,
-  "flagattn": 1,
+  "areadatacode": 341,
+  "arealeveltext": "Your county DOES have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage with ballot dropbox locations in your county. ",
   "shortname": "warren"
 }

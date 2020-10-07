@@ -1,8 +1,12 @@
 {
   "state": "NY",
+  "fips5": "36101",
   "adminarea": "Steuben",
-  "urlvbmdropboxes": "https://www.steubencony.org/Elect-Polling-Places/Poll_lookup.aspx",
-  "urlearlyvoting": "https://www.steubencony.org/Files/Documents/boardofelections/2020%20General%20%20Early%20Voting%20Dates%20&%20Hours%20%204.28.2020.pdf",
+  "urlvbmdropboxes": "https://www.steubencony.org/Files/Documents/boardofelections/2020%20General%20%20Early%20Voting%20Dates%20&%20Hours%20%204.28.2020.pdf",
+  "urlstatelevelvbm": "https://www.elections.ny.gov/VotingAbsentee.html",
   "flagboxes": 0,
+  "areadatacode": "363",
+  "arealeveltext": "Your county has Absentee ballot drop-off ONLY at the county Board of Elections office. The SHOW DROP-OFF OPTIONS button will take you to the county webpage with the Elections office address and Early Voting hours. Absentee ballots can also be dropped at any polling place on Election Day.",
+  "flagattn": 1,
   "shortname": "steuben"
 }

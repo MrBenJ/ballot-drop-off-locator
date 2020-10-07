@@ -1,0 +1,98 @@
+[
+  {
+    "adminarea": "Allegany",
+    "shortname": "allegany"
+  },
+  {
+    "adminarea": "Anne Arundel",
+    "shortname": "anne-arundel"
+  },
+  {
+    "adminarea": "Baltimore City",
+    "shortname": "baltimore-city"
+  },
+  {
+    "adminarea": "Baltimore County",
+    "shortname": "baltimore-county"
+  },
+  {
+    "adminarea": "Calvert",
+    "shortname": "calvert"
+  },
+  {
+    "adminarea": "Caroline",
+    "shortname": "caroline"
+  },
+  {
+    "adminarea": "Carroll",
+    "shortname": "carroll"
+  },
+  {
+    "adminarea": "Cecil",
+    "shortname": "cecil"
+  },
+  {
+    "adminarea": "Charles",
+    "shortname": "charles"
+  },
+  {
+    "adminarea": "Dorchester",
+    "shortname": "dorchester"
+  },
+  {
+    "adminarea": "Frederick",
+    "shortname": "frederick"
+  },
+  {
+    "adminarea": "Garrett",
+    "shortname": "garrett"
+  },
+  {
+    "adminarea": "Harford",
+    "shortname": "harford"
+  },
+  {
+    "adminarea": "Howard",
+    "shortname": "howard"
+  },
+  {
+    "adminarea": "Kent",
+    "shortname": "kent"
+  },
+  {
+    "adminarea": "Montgomery",
+    "shortname": "montgomery"
+  },
+  {
+    "adminarea": "Prince George's",
+    "shortname": "prince-george's"
+  },
+  {
+    "adminarea": "Queen Anne's",
+    "shortname": "queen-anne's"
+  },
+  {
+    "adminarea": "St. Mary's",
+    "shortname": "st.-mary's"
+  },
+  {
+    "adminarea": "Somerset",
+    "shortname": "somerset"
+  },
+  {
+    "adminarea": "Talbot",
+    "shortname": "talbot"
+  },
+  {
+    "adminarea": "Washington",
+    "shortname": "washington"
+  },
+  {
+    "adminarea": "Wicomico",
+    "shortname": "wicomico"
+  },
+  {
+    "adminarea": "Worcester",
+    "shortname": "worcester"
+  }
+]

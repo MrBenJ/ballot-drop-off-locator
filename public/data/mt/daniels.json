@@ -2,9 +2,12 @@
   "state": "MT",
   "fips5": "30019",
   "adminarea": "Daniels",
-  "urlvbmdropboxes": "https://www.overseasvotefoundation.org/vote/election-official-directory/MT/Daniels%20County",
+  "urlvbmdropboxes": "https://sosmt.gov/#r5",
   "urlearlyvoting": "https://sosmt.gov/elections/absentee/",
   "urlstatelevelvbm": "https://sosmt.gov/elections/absentee/",
-  "flagboxes": 0,
+  "flagboxes": 1,
+  "areadatacode": 302,
+  "arealeveltext": "Your county DOES have Mail Ballot drop-off options. The SHOW DROP-OFF OPTIONS button will take you to a state elections website. Use the finder to find drop-off locations and hours. Select your county from the dropdown menu in the section on the Governor's Directive.",
+  "flagattn": 1,
   "shortname": "daniels"
 }

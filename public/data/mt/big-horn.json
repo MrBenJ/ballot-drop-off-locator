@@ -2,10 +2,12 @@
   "state": "MT",
   "fips5": "30003",
   "adminarea": "Big Horn",
-  "urlvbmdropboxes": "https://www.bighorncountymt.gov/departments/elections/",
+  "urlvbmdropboxes": "https://img1.wsimg.com/blobby/go/72b87ad8-cd25-4fd4-a34a-08be5076c0f1/downloads/2020%20Primary%20Ballot%20Drop%20Off%20Locations%20and%20Hou.pdf?ver=1590505306933",
   "urlearlyvoting": "https://sosmt.gov/elections/absentee/",
   "urlstatelevelvbm": "https://sosmt.gov/elections/absentee/",
-  "flagboxes": 0,
+  "flagboxes": 1,
+  "areadatacode": 301,
+  "arealeveltext": "Your county DOES have Mail Ballot drop-off options. The SHOW DROP-OFF OPTIONS button will take you to the county webpage with drop-off locations and dates. ",
   "flagattn": 1,
   "shortname": "big-horn"
 }

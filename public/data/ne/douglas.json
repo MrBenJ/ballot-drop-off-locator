@@ -1,0 +1,13 @@
+{
+  "state": "NE",
+  "fips5": "31055",
+  "adminarea": "Douglas",
+  "urlvbmdropboxes": "https://www.votedouglascounty.com/early_voting.aspx#dropboxes",
+  "urlearlyvoting": "https://www.votedouglascounty.com/early_voting.aspx",
+  "urlstatelevelvbm": "https://sos.nebraska.gov/elections/early-voting-0",
+  "flagboxes": 1,
+  "areadatacode": "001",
+  "arealeveltext": "Your county DOES have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage showing ballot dropbox locations in your county. ",
+  "flagattn": 1,
+  "shortname": "douglas"
+}

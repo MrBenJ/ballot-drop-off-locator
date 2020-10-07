@@ -4,8 +4,10 @@
   "adminarea": "De Baca",
   "urlvbmdropboxes": "https://www.sos.state.nm.us/voting-and-elections/voter-information-portal/county-clerk-information/",
   "urlearlyvoting": "https://www.sos.state.nm.us/voting-and-elections/voter-information-portal/county-clerk-information/",
-  "urlstatelevelvbm": "https://www.sos.state.nm.us/voting-and-elections/voting-faqs/absentee-voting-by-mail/",
+  "urlstatelevelvbm": "https://www.sos.state.nm.us/voting-and-elections/voter-information-portal/absentee-and-early-voting/",
   "flagboxes": 0,
+  "areadatacode": 354,
+  "arealeveltext": "Your jurisdiction DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to a state elections webpage with a list of County Clerk offices, where you can find your clerk's address to hand deliver your completed ballot.",
   "flagattn": 1,
   "shortname": "de-baca"
 }

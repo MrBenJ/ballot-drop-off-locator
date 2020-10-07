@@ -1,0 +1,11 @@
+{
+  "state": "MD",
+  "fips5": "24043",
+  "adminarea": "Washington",
+  "urlvbmdropboxes": "https://www.washco-mdelections.org/election-headquarters",
+  "urlstatelevelvbm": "https://elections.maryland.gov/voting/absentee.html",
+  "flagboxes": 1,
+  "areadatacode": 241,
+  "arealeveltext": "Your county DOES have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage with ballot dropbox locations in your county. You can also drop your completed ballot at any Early Voting or Election Day Vote Center.",
+  "shortname": "washington"
+}

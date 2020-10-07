@@ -2,9 +2,10 @@
   "state": "NJ",
   "fips5": "34023",
   "adminarea": "Middlesex",
-  "urlvbmdropboxes": "http://www.middlesexcountynj.gov/Government/Departments/CS/Boardofelections/Pages/vote2020.aspx",
+  "urlvbmdropboxes": "http://www.middlesexcountynj.gov/Government/Departments/CS/Boardofelections/Pages/vote2020.aspx?#dropbox",
   "urlstatelevelvbm": "https://nj.gov/state/elections/vote.shtml",
   "flagboxes": 1,
-  "flagattn": 0,
+  "areadatacode": 341,
+  "arealeveltext": "Your county DOES have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage with ballot dropbox locations in your county. ",
   "shortname": "middlesex"
 }

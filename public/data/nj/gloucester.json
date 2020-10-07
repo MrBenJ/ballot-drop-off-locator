@@ -2,9 +2,10 @@
   "state": "NJ",
   "fips5": "34015",
   "adminarea": "Gloucester",
-  "urlvbmdropboxes": "http://gloucestercountynj.gov/depts/e/eoff/default.asp",
+  "urlvbmdropboxes": "https://nj.gov/state/elections/vote-secure-drop-boxes.shtml",
   "urlstatelevelvbm": "https://nj.gov/state/elections/vote.shtml",
   "flagboxes": 1,
-  "flagattn": 0,
+  "areadatacode": 342,
+  "arealeveltext": "Your county DOES have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to a statewide list of ballot dropboxes, sorted by county. Select your county from the list to see dropbox locations.",
   "shortname": "gloucester"
 }

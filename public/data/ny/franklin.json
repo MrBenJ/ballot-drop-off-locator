@@ -1,8 +1,12 @@
 {
   "state": "NY",
+  "fips5": "36033",
   "adminarea": "Franklin",
-  "urlvbmdropboxes": "https://voterlookup.elections.ny.gov/",
-  "urlearlyvoting": "https://countyfranklin.digitaltowpath.org:10078/content/Departments/View/3?",
+  "urlvbmdropboxes": "https://countyfranklin.digitaltowpath.org:10078/content/Departments/View/3?",
+  "urlstatelevelvbm": "https://www.elections.ny.gov/VotingAbsentee.html",
   "flagboxes": 0,
+  "areadatacode": "363",
+  "arealeveltext": "Your county has Absentee ballot drop-off ONLY at the county Board of Elections office. The SHOW DROP-OFF OPTIONS button will take you to the county webpage with the Elections office address and Early Voting hours. Absentee ballots can also be dropped at any polling place on Election Day.",
+  "flagattn": 1,
   "shortname": "franklin"
 }

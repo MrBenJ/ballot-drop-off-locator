@@ -6,6 +6,8 @@
   "urlearlyvoting": "https://sosmt.gov/elections/absentee/",
   "urlstatelevelvbm": "https://sosmt.gov/elections/absentee/",
   "flagboxes": 1,
-  "flagattn": 1,
+  "areadatacode": 301,
+  "arealeveltext": "Your county DOES have Mail Ballot drop-off options. The SHOW DROP-OFF OPTIONS button will take you to the county webpage with drop-off locations and dates. ",
+  "flagattn": " ",
   "shortname": "garfield"
 }

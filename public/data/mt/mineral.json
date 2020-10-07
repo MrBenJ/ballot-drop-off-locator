@@ -2,9 +2,12 @@
   "state": "MT",
   "fips5": "30061",
   "adminarea": "Mineral",
-  "urlvbmdropboxes": "https://co.mineral.mt.us/departments/elections/",
+  "urlvbmdropboxes": "https://sosmt.gov/#r5",
   "urlearlyvoting": "https://sosmt.gov/elections/absentee/",
   "urlstatelevelvbm": "https://sosmt.gov/elections/absentee/",
-  "flagboxes": 0,
+  "urlaux1": "https://co.mineral.mt.us/departments/elections/",
+  "flagboxes": 1,
+  "areadatacode": 302,
+  "arealeveltext": "Your county DOES have Mail Ballot drop-off options. The SHOW DROP-OFF OPTIONS button will take you to a state elections website. Use the finder to find drop-off locations and hours. Select your county from the dropdown menu in the section on the Governor's Directive.",
   "shortname": "mineral"
 }

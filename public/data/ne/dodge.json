@@ -1,0 +1,13 @@
+{
+  "state": "NE",
+  "fips5": "31053",
+  "adminarea": "Dodge",
+  "urlvbmdropboxes": "https://dodgecounty.nebraska.gov/election-commission",
+  "urlearlyvoting": "https://dodgecounty.nebraska.gov/election-commission",
+  "urlstatelevelvbm": "https://sos.nebraska.gov/elections/early-voting-0",
+  "flagboxes": 0,
+  "areadatacode": "003",
+  "arealeveltext": "Your county DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to county webpage showing your elections office address, where you can hand deliver your completed ballot.",
+  "flagattn": 1,
+  "shortname": "dodge"
+}

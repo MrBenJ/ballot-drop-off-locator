@@ -1,8 +1,12 @@
 {
   "state": "NY",
+  "fips5": "36079",
   "adminarea": "Putnam",
-  "urlvbmdropboxes": "https://vic2.ntsdata.net/putnamboe/pollingplacelookup.aspx",
-  "urlearlyvoting": "https://putnamboe.com/early-voting/",
-  "flagboxes": 0,
+  "urlvbmdropboxes": "https://putnamboe.com/early-voting/",
+  "urlstatelevelvbm": "https://www.elections.ny.gov/VotingAbsentee.html",
+  "flagboxes": 1,
+  "areadatacode": "361",
+  "arealeveltext": "Your county DOES have Absentee ballot drop-off at all Early Voting locations. The SHOW DROP-OFF OPTIONS button will take you to the county webpage with Early Voting locations and hours. Absentee ballots can also be dropped at any polling place on Election Day.",
+  "flagattn": 1,
   "shortname": "putnam"
 }

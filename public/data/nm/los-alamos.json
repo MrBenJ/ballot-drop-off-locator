@@ -4,8 +4,10 @@
   "adminarea": "Los Alamos",
   "urlvbmdropboxes": "https://losalamosnm.us/cms/One.aspx?portalId=6435810&pageId=6505190",
   "urlearlyvoting": "https://losalamosnm.us/UserFiles/Servers/Server_6435726/File/Government/Elected%20Officials/Clerks/Election%20Information/2020.08.25_AD_2020_Election_Info_LADP_Quarter_VMiller_REVISED%20(002).pdf",
-  "urlstatelevelvbm": "https://www.sos.state.nm.us/voting-and-elections/voting-faqs/absentee-voting-by-mail/",
+  "urlstatelevelvbm": "https://www.sos.state.nm.us/voting-and-elections/voter-information-portal/absentee-and-early-voting/",
   "flagboxes": 0,
+  "areadatacode": 353,
+  "arealeveltext": "Your county DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage which shows the address for your County Clerk's office, where you can hand deliver your completed ballot.",
   "flagattn": 1,
   "shortname": "los-alamos"
 }

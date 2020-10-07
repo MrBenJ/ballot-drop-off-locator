@@ -1,8 +1,12 @@
 {
   "state": "NY",
+  "fips5": "36027",
   "adminarea": "Dutchess",
-  "urlvbmdropboxes": "https://www.elections.dutchessny.gov/voter-information/dutchess-county-polling-places/",
-  "urlearlyvoting": "https://www.elections.dutchessny.gov/2020/04/30/early-voting-in-dutchess-county/",
+  "urlvbmdropboxes": "https://www.elections.dutchessny.gov/2020/04/30/early-voting-in-dutchess-county/",
+  "urlstatelevelvbm": "https://www.elections.ny.gov/VotingAbsentee.html",
   "flagboxes": 0,
+  "areadatacode": "363",
+  "arealeveltext": "Your county has Absentee ballot drop-off ONLY at the county Board of Elections office. The SHOW DROP-OFF OPTIONS button will take you to the county webpage with the Elections office address and Early Voting hours. Absentee ballots can also be dropped at any polling place on Election Day.",
+  "flagattn": 1,
   "shortname": "dutchess"
 }

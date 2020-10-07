@@ -1,0 +1,11 @@
+{
+  "state": "MO",
+  "fips5": "29167",
+  "adminarea": "Polk",
+  "urlvbmdropboxes": "https://www.sos.mo.gov/elections/goVoteMissouri/localelectionauthority",
+  "urlstatelevelvbm": "https://www.sos.mo.gov/CMSImages/Elections//2020VotingOptions.pdf",
+  "flagboxes": 0,
+  "areadatacode": 294,
+  "arealeveltext": "Your county DOES NOT have ballot dropboxes. In Missouri, only ABSENTEE ballots can be hand delivered, MAIL-IN ballots MUST be returned by mail (USPS, Fed-Ex, UPS, etc). The SHOW DROP-OFF OPTIONS button will take you to a state webpage with a finder for your Election office address, where ABSENTEE ballots only can be hand delivered.",
+  "shortname": "polk"
+}

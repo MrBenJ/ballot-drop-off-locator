@@ -3,8 +3,10 @@
   "fips5": "35041",
   "adminarea": "Roosevelt",
   "urlvbmdropboxes": "https://www.rooseveltcounty.com/?page_id=844",
-  "urlstatelevelvbm": "https://www.sos.state.nm.us/voting-and-elections/voting-faqs/absentee-voting-by-mail/",
+  "urlstatelevelvbm": "https://www.sos.state.nm.us/voting-and-elections/voter-information-portal/absentee-and-early-voting/",
   "flagboxes": 0,
+  "areadatacode": 353,
+  "arealeveltext": "Your county DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage which shows the address for your County Clerk's office, where you can hand deliver your completed ballot.",
   "flagattn": 1,
   "shortname": "roosevelt"
 }

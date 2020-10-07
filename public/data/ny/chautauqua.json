@@ -1,9 +1,13 @@
 {
   "state": "NY",
+  "fips5": "36013",
   "adminarea": "Chautauqua",
-  "urlvbmdropboxes": "https://chqgov.com/sites/default/files/document-files/2020-05/2020%20Poll%20Site%20List%20with%20Directions%205.14.20.xlsx",
-  "urlearlyvoting": "https://chqgov.com/board-of-elections/Early-Voting-Information",
-  "flagboxes": 0,
+  "urlvbmdropboxes": "https://chqgov.com/board-of-elections/Early-Voting-Information",
+  "urlstatelevelvbm": "https://www.elections.ny.gov/VotingAbsentee.html",
+  "urlaux1": "x",
+  "flagboxes": 1,
+  "areadatacode": "361",
+  "arealeveltext": "Your county DOES have Absentee ballot drop-off at all Early Voting locations. The SHOW DROP-OFF OPTIONS button will take you to the county webpage with Early Voting locations and hours. Absentee ballots can also be dropped at any polling place on Election Day.",
   "flagattn": 1,
   "shortname": "chautauqua"
 }

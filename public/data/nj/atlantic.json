@@ -2,9 +2,11 @@
   "state": "NJ",
   "fips5": "34001",
   "adminarea": "Atlantic",
-  "urlvbmdropboxes": "https://www.atlantic-county.org/elections/",
+  "urlvbmdropboxes": "https://www.atlantic-county.org/documents/board-of-elections/BallotDropBoxLocations-General2020.pdf",
+  "urlearlyvoting": "https://www.atlantic-county.org/elections/",
   "urlstatelevelvbm": "https://nj.gov/state/elections/vote.shtml",
   "flagboxes": 1,
-  "flagattn": 1,
+  "areadatacode": 341,
+  "arealeveltext": "Your county DOES have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage with ballot dropbox locations in your county. ",
   "shortname": "atlantic"
 }

@@ -3,9 +3,11 @@
   "fips5": "35039",
   "adminarea": "Rio Arriba",
   "urlvbmdropboxes": "http://www.rio-arriba.org/departments_and_divisions/clerk's_office/clerk_.html",
-  "urlearlyvoting": "http://www.rio-arriba.org/departments_and_divisions/clerk's_office/clerk_.html",
-  "urlstatelevelvbm": "https://www.sos.state.nm.us/voting-and-elections/voting-faqs/absentee-voting-by-mail/",
+  "urlearlyvoting": "http://www.rio-arriba.org/pdf/departments_and_divisions/clerk's_office/8.26.2020_2nd_update_to_gen_ev_date_times_locations.pdf",
+  "urlstatelevelvbm": "https://www.sos.state.nm.us/voting-and-elections/voter-information-portal/absentee-and-early-voting/",
   "flagboxes": 0,
+  "areadatacode": 353,
+  "arealeveltext": "Your county DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage which shows the address for your County Clerk's office, where you can hand deliver your completed ballot.",
   "flagattn": 1,
   "shortname": "rio-arriba"
 }
