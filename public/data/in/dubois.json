@@ -3,6 +3,10 @@
   "fips5": "18037",
   "adminarea": "Dubois",
   "urlvbmdropboxes": "https://www.duboiscountyin.org/explore_dubois_county/voter_information/absentee_in_person_voting.php",
+  "urlstatelevelvbm": "https://www.in.gov/sos/elections/2402.htm",
   "flagboxes": 0,
+  "areadatacode": "003",
+  "arealeveltext": "Your jurisdiction DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage which shows the address for your jurisdiction’s election office, where you can hand deliver your completed ballot.",
+  "flagattn": 1,
   "shortname": "dubois"
 }

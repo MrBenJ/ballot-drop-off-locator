@@ -3,6 +3,9 @@
   "fips5": "20137",
   "adminarea": "Norton",
   "urlvbmdropboxes": "https://nortoncounty.org/nortoncountyelections",
+  "urlstatelevelvbm": "https://sos.ks.gov/elections/voter-information.html",
   "flagboxes": 0,
+  "areadatacode": "003",
+  "arealeveltext": "Your jurisdiction DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage which shows the address for your jurisdiction’s election office, where you can hand deliver your completed ballot.",
   "shortname": "norton"
 }

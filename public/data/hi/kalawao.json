@@ -2,8 +2,11 @@
   "state": "HI",
   "fips5": "15005",
   "adminarea": "Kalawao",
-  "urlvbmdropboxes": "https://elections.hawaii.gov/",
-  "urlearlyvoting": "http://www.smartvoter.org/hi/kl/#l2",
+  "urlvbmdropboxes": "https://elections.hawaii.gov/voter-service-centers-and-places-of-deposit/",
+  "urlstatelevelvbm": "https://elections.hawaii.gov/hawaii-votes-by-mail-resources/",
   "flagboxes": 0,
+  "areadatacode": 154,
+  "arealeveltext": "Your jurisdiction DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to a state elections webpage that shows option for ballot return statewide.",
+  "flagattn": 1,
   "shortname": "kalawao"
 }

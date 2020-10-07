@@ -3,7 +3,9 @@
   "fips5": "18089",
   "adminarea": "Lake",
   "urlvbmdropboxes": "https://www.lakecountyin.org/portal/media-type/html/group/voters/page/default.psml/js_pane/P-13b9cba7c46-107df",
+  "urlstatelevelvbm": "https://www.in.gov/sos/elections/2402.htm",
   "flagboxes": 0,
-  "flagattn": 1,
+  "areadatacode": "003",
+  "arealeveltext": "Your jurisdiction DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage which shows the address for your jurisdiction’s election office, where you can hand deliver your completed ballot.",
   "shortname": "lake"
 }

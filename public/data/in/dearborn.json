@@ -3,6 +3,9 @@
   "fips5": "18029",
   "adminarea": "Dearborn",
   "urlvbmdropboxes": "https://www.dearborncounty.org/department/division.php?structureid=150",
+  "urlstatelevelvbm": "https://www.in.gov/sos/elections/2402.htm",
   "flagboxes": 0,
+  "areadatacode": "003",
+  "arealeveltext": "Your jurisdiction DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage which shows the address for your jurisdiction’s election office, where you can hand deliver your completed ballot.",
   "shortname": "dearborn"
 }

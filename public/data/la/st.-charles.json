@@ -1,0 +1,12 @@
+{
+  "state": "LA",
+  "fips5": "22089",
+  "adminarea": "St. Charles",
+  "urlvbmdropboxes": "https://www.stcharlesparish-la.gov/government/governmental-agencies-and-officials/registrar-of-voters/register-to-vote",
+  "urlearlyvoting": "https://voterportal.sos.la.gov",
+  "urlstatelevelvbm": "https://www.sos.la.gov/ElectionsAndVoting/Vote/VoteByMail/Pages/default.aspx",
+  "flagboxes": 0,
+  "areadatacode": "003",
+  "arealeveltext": "Your jurisdiction DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage which shows the address for your jurisdiction’s registrar's office, where you can hand deliver your completed ballot.",
+  "shortname": "st.-charles"
+}

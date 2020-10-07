@@ -3,6 +3,10 @@
   "fips5": "20001",
   "adminarea": "Allen",
   "urlvbmdropboxes": "https://www.allencounty.org/countyclerk.html",
+  "urlstatelevelvbm": "https://sos.ks.gov/elections/voter-information.html",
+  "urlaux1": "https://sos.ks.gov/elections/county_election_officers.aspx",
   "flagboxes": 0,
+  "areadatacode": "003",
+  "arealeveltext": "Your jurisdiction DOES NOT have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage which shows the address for your jurisdiction’s election office, where you can hand deliver your completed ballot.",
   "shortname": "allen"
 }

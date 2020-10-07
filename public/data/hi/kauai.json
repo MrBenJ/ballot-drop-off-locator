@@ -3,7 +3,9 @@
   "fips5": "15007",
   "adminarea": "Kauai",
   "urlvbmdropboxes": "https://www.kauai.gov/Elections",
-  "urlearlyvoting": "",
-  "flagboxes": 0,
+  "urlstatelevelvbm": "https://elections.hawaii.gov/hawaii-votes-by-mail-resources/",
+  "flagboxes": 1,
+  "areadatacode": "001",
+  "arealeveltext": "Your jurisdiction DOES have ballot dropboxes. The SHOW DROP-OFF OPTIONS button will take you to the county webpage with a list of ballot dropboxes in your area.",
   "shortname": "kauai"
 }
