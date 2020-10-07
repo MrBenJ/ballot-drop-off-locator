@@ -16,13 +16,30 @@
 .footer-links-list {
   display: flex;
   justify-content: space-around;
+  text-align: center;
   .divider {
-    margin: 0 1rem;
+    display: none;
   }
   color: black;
   a {
     color: black;
+    margin: 0 .3rem;
   }
-  padding-bottom: .5rem;
+  padding-bottom: 1rem;
 }
 
+@media screen and (min-width: 350px) {
+  .footer-links-list {
+    display: flex;
+    justify-content: space-around;
+    .divider {
+      display: inline;
+      margin: 0;
+    }
+    color: black;
+    a {
+      color: black;
+    }
+    padding-bottom: .5rem;
+  }
+}
