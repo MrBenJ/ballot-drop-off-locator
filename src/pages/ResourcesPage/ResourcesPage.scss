@@ -1,6 +1,6 @@
 @import "../../style/variables";
 
-.DataIntegrityPage {
+.ResourcesPage {
   padding: 0 $border-padding;
   margin: 0 auto;
   max-width: $container-width;
@@ -15,7 +15,8 @@
     font-size: 1.3rem;
   }
 
-  .link {
-    color: $teal;
+  a, a:visited, a:active {
+    color: #474747;
+    font-size: 1.3rem;
   }
 }
