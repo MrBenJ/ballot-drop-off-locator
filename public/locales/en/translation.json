@@ -45,14 +45,14 @@
   },
   "AboutPage": {
     "headline": "ABOUT THIS PROJECT",
-    "para1": "was created as a non-partisan voter resource to help absentee or vote-by-mail voters find ballot dropboxes or other options to safely and securely return their mail-in ballot directly to election officials, as an alternative to returning them by mail via USPS. MyBallotDrop seeks to help absentee or mail ballot voters ensure their 2020 ballot is received and counted.",
-    "para2": "The 2020 election is expected to have an unprecedented number of votes cast by absentee or mail-in ballots, due to concerns over the safety of voting in person during the pandemic. However, recent changes implemented at the US Postal Service have created concerns over the USPS ability to send ballots to voters and return them to election officials in a timely manner, including",
+    "para1": "is a non-partisan voter resource to help absentee or vote-by-mail voters find ballot dropboxes or other options to safely and securely return their mail-in ballot directly to election officials, as an alternative to returning them by mail via USPS. MyBallotDrop can help absentee or mail ballot voters ensure their 2020 ballot is received on time and counted.",
+    "para2": "The 2020 election is expected to have an unprecedented number of votes cast by absentee or mail-in ballots, due to concerns over the safety of voting in person during the pandemic. However, recent changes implemented at the US Postal Service have created concerns over the USPS ability to send ballots to voters and return them to election officials in a timely manner, including ",
     "para2-linked": "warnings directly from USPS about their ability to return ballots on time.",
-    "para3": "Recent elections have seen tens of thousands of ballots rejected because they were received late, beyond state voting deadlines. With a massive increase in the number of mail ballots expected to be cast in 2020, any delays in ballot return due to slowdowns at USPS could lead to potentially hundreds of thousands of votes rejected. In response, many states and counties have moved to implement or expand access to ballot dropboxes: secure ballot drop off locations where voters can drop ballots directly, to be collected by elections officials rather than returning them by mail.",
-    "para4": "However, many voters - and especially first time mail ballot voters - may be unaware that such options exist. They may not know to search for dropbox locations in their county as a way to ensure their ballot is received on time and counted in the election. Given the sheer number of counties and jurisdictions in the US, and differences in state mail ballot rules, effective nationwide promotion of county-level dropbox location information poses a significant challenge.",
+    "para3": "Recent elections have seen tens of thousands of ballots rejected because they were received late, beyond state voting deadlines. With a massive increase in the number of mail ballots expected to be cast in 2020, any delays in ballot return due to slowdowns at USPS could lead to potentially hundreds of thousands of votes being rejected. In response, many states and counties have moved to implement or expand access to ballot dropboxes: secure ballot drop off locations where voters can drop ballots directly, to be collected by elections officials rather than returning them by mail.",
+    "para4": "However, many voters - and especially first time mail ballot voters - may be unaware that such options exist. They may not know to search for dropbox locations in their county as a way of avoiding potential delays in turning in their ballot Given the sheer number of counties and jurisdictions in the US, and differences in state mail ballot rules, effective nationwide promotion of county-level dropbox location information poses a significant challenge.",
     "para5": "To address this need, MyBallotDrop was created to provide a single, nationally promotable web-based resource to help voters in every state find all available options for returning their vote-by-mail ballot directly to county or municipal elections officials."
   },
-  "ResourcesPage": {
+  "DataIntegrityPage": {
     "headline": "DATA INTEGRITY",
     "para1": "The single greatest priority in developing MyBallotDrop was voter confidence in the accuracy and reliability of the information they were being provided. ",
     "para2": "After selecting their state and then county from the menus, users land at a results page which tells them what type of drop-off options are available for their jurisdiction and are then linked directly to their county or state elections websites containing the relevant information: dropbox locations, addresses and hours of county or municipal elections offices, early voting or vote center locations in their area, as well as statewide information about absentee or vote-by-mail voting for their state.",
@@ -70,7 +70,7 @@
   },
   "ContributorsPage": {
     "headline": "CONTRIBUTORS",
-    "para1": "MyBallotDrop is an entirely volunteer created and run project that relied on the time and expertise of a team of contributors who are, first and foremost, American voters and concerned citizens. We believe that democracy works best when all citizens have the opportunity to participate in the process, and this site was designed inside of that commitment.",
+    "para1": "MyBallotDrop is an entirely volunteer created and run project that relies on the time and expertise of a team of contributors who are, first and foremost, American voters and concerned citizens. We believe that democracy works best when all citizens have the opportunity to participate in the process. MyBallotDrop was designed with that principle in mind, and we want to thank all those who contributed to making the site.",
     "thanks": "MyBallotDrop thanks all those who contributed to making this site.",
     "designDev": "Design and Development:",
     "mediaRelations": "Media Relations:",
@@ -78,7 +78,7 @@
   },
   "Footer": {
     "MyBallotDrop": "Copyright 2020 MY BALLOT DROP",
-    "linkAboutProject": "About the Project",
+    "linkAboutProject": "About Us",
     "linkDataIntegrity": "Data Integrity",
     "linkContactUs": "Contact Us"
   }

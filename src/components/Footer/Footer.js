@@ -60,6 +60,7 @@ const Footer = props => {
           <Divider />
           <Link to="/resources">{t('Footer.linkDataIntegrity')}</Link>
           <Divider />
+          {/*  RESOURCES PAGE HERE */}
           <Link to="/contact">{t('Footer.linkContactUs')}</Link>
         </Text>
       </div>
