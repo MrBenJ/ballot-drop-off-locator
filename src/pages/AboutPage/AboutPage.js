@@ -42,7 +42,7 @@ const AboutPage = () => {
         <Text className="para">
           {t('ContributorsPage.advisoryParenthetical')}
         </Text>
-        <ul className="list-names">
+        <ul className="list-names pad-top-half">
           {CONTRIBUTORS.advisory.map(name => (
             <li key={name} className="list-names-item">
               {name}

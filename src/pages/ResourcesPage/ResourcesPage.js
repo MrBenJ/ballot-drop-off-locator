@@ -15,9 +15,9 @@ const ResourcesPage = () => {
       </Text>
       <Text className="para">{t('ResourcesPage.para1')}</Text>
       {LINKS.map(link => (
-        <div key={link} className="para-link">
-          <a href={link} target="_blank" rel="noopener noreferrer">
-            {link}
+        <div key={link.text} className="para-link">
+          <a href={link.href} target="_blank" rel="noopener noreferrer">
+            {link.text}
           </a>
         </div>
       ))}
