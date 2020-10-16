@@ -19,7 +19,7 @@ const AboutPage = () => {
         <Text variant="span">
           {t('AboutPage.para2')}{' '}
           <a
-            className="bold"
+            className="bold link"
             href="https://apnews.com/32700a8b49ddf5f7594d2271eb033c2e"
             target="_blank"
             rel="noopener noreferrer">
@@ -34,7 +34,22 @@ const AboutPage = () => {
         {t('ContributorsPage.headline')}
       </Text>
       <Text className="para">{t('ContributorsPage.para1')}</Text>
-      <Text className="para">{t('ContributorsPage.thanks')}</Text>
+
+      <div className="list list-advisory">
+        <Text className="list-title bold">
+          {t('ContributorsPage.advisoryBoard')}
+        </Text>
+        <Text className="para">
+          {t('ContributorsPage.advisoryParenthetical')}
+        </Text>
+        <ul className="list-names pad-top-half">
+          {CONTRIBUTORS.advisory.map(name => (
+            <li key={name} className="list-names-item">
+              {name}
+            </li>
+          ))}
+        </ul>
+      </div>
       <div className="list list-designdev">
         <Text className="list-title bold">
           {t('ContributorsPage.designDev')}

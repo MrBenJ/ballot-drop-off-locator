@@ -1,4 +1,5 @@
 export default {
+  advisory: ['Nicole Boxer'],
   design_dev: [
     'Otto Penzato',
     'Christopher Hennes',
@@ -19,7 +20,6 @@ export default {
     'Rosemarie Ramirez',
     'Shahla Charm',
     'Sheilah McGuckin',
-    'Tricia Pancio',
-    'Wyatt Weiss'
+    'Trisha Pancio'
   ]
 };

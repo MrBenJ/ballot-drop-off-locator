@@ -25,7 +25,7 @@
 }
 
 .footer-links-list, .voter-info-project {
-  font-size: 1rem;
+  font-size: .8rem;
 }
 
 .footer-links-list {
@@ -56,5 +56,9 @@
       color: black;
     }
     padding-bottom: .5rem;
+  }
+
+  .footer-links-list, .voter-info-project {
+    font-size: 1rem;
   }
 }

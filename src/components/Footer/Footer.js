@@ -58,7 +58,9 @@ const Footer = props => {
         <Text variant="span">
           <Link to="/about">{t('Footer.linkAboutProject')}</Link>
           <Divider />
-          <Link to="/resources">{t('Footer.linkDataIntegrity')}</Link>
+          <Link to="/data-integrity">{t('Footer.linkDataIntegrity')}</Link>
+          <Divider />
+          <Link to="/resources">{t('Footer.linkResources')}</Link>
           <Divider />
           <Link to="/contact">{t('Footer.linkContactUs')}</Link>
         </Text>

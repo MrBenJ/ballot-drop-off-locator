@@ -13,7 +13,12 @@ const SelectCountyPage = lazy(() =>
   import('./pages/SelectCountyPage/SelectCountyPage')
 );
 
+const DataIntegrityPage = lazy(() =>
+  import('./pages/DataIntegrityPage/DataIntegrityPage')
+);
+
 const ResourcesPage = lazy(() => import('./pages/ResourcesPage/ResourcesPage'));
+
 const AboutPage = lazy(() => import('./pages/AboutPage/AboutPage'));
 const ContactPage = lazy(() => import('./pages/ContactPage/ContactPage'));
 
@@ -36,6 +41,9 @@ const AppShell = () => {
         <Switch>
           <Route exact path="/">
             <IndexPage />
+          </Route>
+          <Route path="/data-integrity">
+            <DataIntegrityPage />
           </Route>
           <Route path="/resources">
             <ResourcesPage />
